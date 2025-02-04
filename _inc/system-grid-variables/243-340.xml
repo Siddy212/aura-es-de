@@ -1,0 +1,269 @@
+<theme>
+           <aspectRatio name="1:1">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.190588235294118</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.952941176470588</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.285882352941176</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.285882352941176</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.285882352941176</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:10">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.119117647058824</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.952941176470588</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.178676470588235</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.893382352941177</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.178676470588235</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.893382352941177</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.178676470588235</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.893382352941177</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:9">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.107205882352941</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.964852941176471</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.160808823529412</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.964852941176471</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.160808823529412</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.964852941176471</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.160808823529412</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.964852941176471</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="19.5:9">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.0879638009049774</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.967601809954751</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.131945701357466</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.923619909502263</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.131945701357466</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.923619909502263</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.131945701357466</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.923619909502263</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="21:9">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.0816806722689076</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.980168067226891</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.122521008403361</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.980168067226891</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.122521008403361</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.980168067226891</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.122521008403361</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.980168067226891</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="3:2">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.127058823529412</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.889411764705882</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.190588235294118</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.952941176470588</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.190588235294118</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.952941176470588</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.190588235294118</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.952941176470588</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="4:3">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.142941176470588</item-w-system>         
+                                        <item-h-system>0.266666666666667</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.214411764705882</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.214411764705882</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Full Grid Variables   -->          
+                                        <item-w-system>0.214411764705882</item-w-system>         
+                                        <item-h-system>0.4</item-h-system>         
+                                        <grid-h-system>0.8</grid-h-system>          
+                                        <grid-w-system>0.857647058823529</grid-w-system>          
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+</theme>
+

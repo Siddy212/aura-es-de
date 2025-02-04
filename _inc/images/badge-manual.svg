@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 20 20"
+   version="1.1"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg2"
+   sodipodi:docname="badge-manual.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       x1="-1.2142007"
+       y1="1.8272232"
+       x2="14.065031"
+       y2="16.23876" />
+    <linearGradient
+       id="linearGradient16"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.40000001;"
+         offset="0"
+         id="stop15" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.2"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="12.11875"
+     inkscape:cx="12.625064"
+     inkscape:cy="5.8174317"
+     inkscape:window-width="1649"
+     inkscape:window-height="1266"
+     inkscape:window-x="897"
+     inkscape:window-y="521"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     id="Artboard1"
+     x="0"
+     y="0"
+     width="20"
+     height="20"
+     style="fill:none;" />
+  <g
+     id="Artboard11" />
+  <path
+     d="M 7.5 5 C 6.465 5 5.625 5.84 5.625 6.875 L 5.625 13.125 C 5.625 14.16 6.465 15 7.5 15 L 13.124 15 L 13.749 15 C 14.095 15 14.375 14.721 14.375 14.375 C 14.375 14.03 14.095 13.75 13.749 13.75 L 13.749 12.5 C 14.095 12.5 14.375 12.221 14.375 11.876 L 14.375 5.625 C 14.375 5.279 14.095 5 13.749 5 L 13.124 5 L 7.5 5 Z M 7.5 12.5 L 12.5 12.5 L 12.5 13.75 L 7.5 13.75 C 7.155 13.75 6.875 13.471 6.875 13.125 C 6.875 12.779 7.155 12.5 7.5 12.5 Z M 8.125 7.813 C 8.125 7.641 8.266 7.5 8.437 7.5 L 12.187 7.5 C 12.359 7.5 12.5 7.641 12.5 7.813 C 12.5 7.984 12.359 8.125 12.187 8.125 L 8.437 8.125 C 8.266 8.125 8.125 7.984 8.125 7.813 Z M 8.437 8.75 L 12.187 8.75 C 12.359 8.75 12.5 8.891 12.5 9.062 C 12.5 9.235 12.359 9.375 12.187 9.375 L 8.437 9.375 C 8.266 9.375 8.125 9.235 8.125 9.062 C 8.125 8.891 8.266 8.75 8.437 8.75 Z"
+     style="fill: rgb(255, 255, 255);"
+     id="path2" />
+  <ellipse
+     style="clip-rule:evenodd;opacity:0.6;fill:url(#linearGradient15);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.4240073;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:19.2;stroke-opacity:1;paint-order:markers fill stroke"
+     id="path3"
+     cx="6.3453627"
+     cy="9.0293779"
+     rx="10.517256"
+     ry="10.692301"
+     transform="matrix(0.93202341,0,0,0.9170619,4.0859735,1.7195015)" />
+</svg>

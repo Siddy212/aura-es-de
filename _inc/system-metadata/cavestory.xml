@@ -1,0 +1,20 @@
+<theme>
+      <systemName>Cave Story</systemName>
+      <systemDescription>Cave Story is a critically acclaimed indie action-adventure platformer developed by Daisuke "Pixel" Amaya. Originally released in 2004 as a freeware title for PC, the game features retro-inspired pixel art, fast-paced gameplay, and an engaging story. It follows the protagonist, Quote, a silent robot who awakens in a mysterious cave with no memory of his past. As he explores, he discovers a conflict between the peaceful Mimiga race and the sinister Doctor, who seeks to use them for his own purposes.
+
+Cave Story is praised for its deep gameplay mechanics, multiple endings, and fluid controls. Players navigate challenging platforming sections, upgrade weapons, and uncover the history of the game's world. Over the years, the game has been ported to multiple platforms, including Nintendo consoles, PlayStation, and modern PCs, often in enhanced or remastered editions.
+
+The game is widely regarded as one of the most influential indie titles, inspiring a new generation of independent game developers. Its blend of exploration, combat, and storytelling has drawn comparisons to classic Metroidvania titles while maintaining its own unique identity.</systemDescription>
+      <systemManufacturer>Studio Pixel</systemManufacturer>
+      <systemReleaseYear>2004</systemReleaseYear>
+      <systemReleaseDate>2004-12-20</systemReleaseDate>
+      <systemReleaseDateFormated>December 20, 2004</systemReleaseDateFormated>
+      <systemHardwareType>Game</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
+      <systemColor>4A90E2</systemColor>
+      <systemColorPalette1>F8E71C</systemColorPalette1>
+      <systemColorPalette2>D0021B</systemColorPalette2>
+      <systemColorPalette3>7ED321</systemColorPalette3>
+      <systemColorPalette4>4A4A4A</systemColorPalette4>
+      <systemCartSize>1-1</systemCartSize>
+</theme>

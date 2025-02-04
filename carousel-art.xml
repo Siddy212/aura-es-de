@@ -1,0 +1,41 @@
+<theme>
+
+   <!--   ///   System View: Art   ///   -->
+
+         <view name="system">
+               <carousel name="system-carousel">
+                  <staticImage>${carouselArtPath}.webp</staticImage>
+                  <origin>0.5 0.5</origin>
+                  <size>1 1</size>
+                  <type>horizontal</type>
+                  <itemRotation>5.25</itemRotation>
+                  <itemAxisHorizontal>true</itemAxisHorizontal>
+                  <pos>0.5 0.5</pos>
+                  <color>00000000</color>
+                  <itemScale>1.2</itemScale>
+                  <itemStacking>ascendingRasied</itemStacking>
+                  <unfocusedItemOpacity>1</unfocusedItemOpacity>
+                  <unfocusedItemDimming>0.4</unfocusedItemDimming>
+                  <horizontalOffset>0</horizontalOffset>
+                  <imageCornerRadius>0.005</imageCornerRadius>
+                  <text>${system.fullName}</text>
+                  <textColor>${systemInfoColor}</textColor>
+                  <textBackgroundColor>${systemCarouselTextBackgroundColor}</textBackgroundColor>
+                  <textRelativeScale>0.8</textRelativeScale>
+                  <selectedItemMargins>0.01 0.01</selectedItemMargins>
+                  <lineSpacing>1.2</lineSpacing>
+                  <fontPath>${fontBold}</fontPath>
+                  <letterCase>uppercase</letterCase>
+                  <fastScrolling>true</fastScrolling>
+                  <zIndex>7</zIndex>            
+                  <itemSize>${sys-carousel-item-w} 0.74074</itemSize>
+                  <fontSize>${base-font-size}</fontSize>
+                  <itemVerticalAlignment>center</itemVerticalAlignment>
+                  <maxItemCount>${sys-max-item}</maxItemCount>
+               </carousel>               
+               <image name="background-art-gradient-bottom">
+                     <size>1 0.5</size>
+                     <opacity>0.5</opacity>
+                  </image>
+      </view>
+</theme>

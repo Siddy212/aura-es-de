@@ -1,0 +1,80 @@
+<theme>
+
+   <!--
+   ///
+   Gamelist View: Basic Grid Variant
+   ///
+   -->
+
+
+      <view name="gamelist">
+         <image name="system-logo-main">
+            <origin>0 0.5</origin>
+               <pos>0.03 0.07</pos>
+               <opacity>1</opacity>
+               <maxSize>0.26 0.1</maxSize>
+         </image>
+         <image name="system-logo-shadow">
+            <origin>0 0.5</origin>
+               <pos>0.028 0.075</pos>
+               <opacity>0.3</opacity>
+               <maxSize>0.26 0.1</maxSize>
+         </image>
+         <grid name="grid">
+                  <pos>0.5 0.1542</pos>
+                  <size>0.98 0.786</size>
+                  <itemScale>1.04</itemScale>
+                  <imageType>cover</imageType>
+                  <selectorImage>./_inc/coversize-selector/${systemCoverSize}.svg</selectorImage>
+                  <itemSize>${item-w-full} ${item-h-full}</itemSize>
+                  <imageRelativeScale>0.95</imageRelativeScale>
+                  <textRelativeScale>0.85</textRelativeScale>
+                  <selectorRelativeScale>0.97</selectorRelativeScale>
+                  <selectorCornerRadius>0.003</selectorCornerRadius>
+                  <origin>0.5 0</origin>
+                  <unfocusedItemOpacity>1</unfocusedItemOpacity>
+                  <unfocusedItemDimming>0.85</unfocusedItemDimming>
+                  <unfocusedItemSaturation>1</unfocusedItemSaturation>
+                  <itemSpacing>0 0</itemSpacing>
+                  <textColor>ffffff</textColor>
+                  <fontPath>${fontBold}</fontPath>
+                  <fontSize>0.036111111111111</fontSize>
+                  <imageCornerRadius>0.005</imageCornerRadius>
+                  <selectorColor>${gamelistSelectedColor}</selectorColor>
+                  <selectorLayer>top</selectorLayer>
+                  <zIndex>9</zIndex>
+                  <fractionalRows>true</fractionalRows>
+                  <scaleInwards>true</scaleInwards>
+                  <backgroundRelativeScale>0.98</backgroundRelativeScale>
+                  <backgroundImage>./_inc/coversize-shadow/${systemCoverSize}.webp</backgroundImage>
+         </grid>
+
+         <badges name="badges">
+            <origin>0 0.5</origin>
+            <pos>0.56 0.053</pos>
+            <horizontalAlignment>left</horizontalAlignment>
+            <size>1 ${metadata-font-size}</size>
+         </badges>
+         <rating name="game-rating">
+            <origin>1 0.5</origin>
+            <pos>0.98 0.050</pos>
+            <size>0 ${metadata-font-size}</size>
+            <color>${BadgeColor}</color>
+         </rating>
+         <text name="game-name">
+            <size>0.41 ${metadata-font-size}</size>
+            <pos>0.771 0.099</pos>
+            <fontSize>${metadata-font-size}</fontSize>     
+            <origin>0.5 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1.5</lineSpacing>
+            <defaultValue>Unknown</defaultValue>
+            <fontSize>${metadata-font-size}</fontSize>
+            <metadata>name</metadata>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <horizontalAlignment>center</horizontalAlignment>
+         </text>
+   </view>
+</theme>

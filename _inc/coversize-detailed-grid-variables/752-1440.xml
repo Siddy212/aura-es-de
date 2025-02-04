@@ -1,0 +1,213 @@
+<theme>
+           <aspectRatio name="1:1">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.206770212765957</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.134975</item-w>         
+                                        <item-h>0.258462765957447</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.179966666666667</item-w>         
+                                        <item-h>0.344617021276596</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.179966666666667</item-w>         
+                                        <item-h>0.344617021276596</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:10">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0771285714285714</item-w>         
+                                        <item-h>0.236308814589666</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0899833333333333</item-w>         
+                                        <item-h>0.275693617021277</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.330832340425532</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.330832340425532</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:9">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0771285714285714</item-w>         
+                                        <item-h>0.262565349544073</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0899833333333333</item-w>         
+                                        <item-h>0.306326241134752</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.367591489361702</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.367591489361702</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="19.5:9">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0674875</item-w>         
+                                        <item-h>0.280001329787234</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0771285714285714</item-w>         
+                                        <item-h>0.320001519756839</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0899833333333333</item-w>         
+                                        <item-h>0.373335106382979</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0899833333333333</item-w>         
+                                        <item-h>0.373335106382979</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="21:9">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0599888888888889</item-w>         
+                                        <item-h>0.268035460992908</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0674875</item-w>         
+                                        <item-h>0.301539893617021</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0771285714285714</item-w>         
+                                        <item-h>0.344617021276596</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0771285714285714</item-w>         
+                                        <item-h>0.344617021276596</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="3:2">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0899833333333333</item-w>         
+                                        <item-h>0.258462765957447</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.310155319148936</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.134975</item-w>         
+                                        <item-h>0.38769414893617</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.134975</item-w>         
+                                        <item-h>0.38769414893617</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="4:3">           
+                   <fontSize name="small">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.0899833333333333</item-w>         
+                                        <item-h>0.229744680851064</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.10798</item-w>         
+                                        <item-h>0.275693617021277</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.134975</item-w>         
+                                        <item-h>0.344617021276596</item-h>         
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   Detailed Grid Variables   -->          
+                                        <item-w>0.134975</item-w>         
+                                        <item-h>0.344617021276596</item-h>         
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+</theme>
+

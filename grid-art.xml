@@ -1,0 +1,44 @@
+<theme>
+
+   <!--   ///   System View: Art   ///   -->
+
+   <include>./colors.xml</include>
+   <include>./_inc/system-grid-variables/555-480.xml</include>
+   
+         <view name="system">
+            <grid name="grid">
+                  <origin>0.5 1</origin>
+                  <pos>0.5 0.88</pos>
+                  <itemSize>${item-w-system} ${item-h-system}</itemSize>
+                  <selectorRelativeScale>1.1</selectorRelativeScale>
+                  <backgroundRelativeScale>1</backgroundRelativeScale>
+                  <selectorImage>${selectorImagePath}</selectorImage>
+                  <staticImage>${gridImagePath}.webp</staticImage>
+                  <unfocusedItemOpacity>0.95</unfocusedItemOpacity>
+                  <unfocusedItemDimming>0.9</unfocusedItemDimming>
+                  <unfocusedItemSaturation>1</unfocusedItemSaturation>
+                  <itemSpacing>-0.1 0</itemSpacing>
+                  <textColor>${systemInfoColor}</textColor>
+                  <fontPath>${fontBold}</fontPath>
+                  <fontSize>0.036111111111111</fontSize>
+                  <imageCornerRadius>0.002</imageCornerRadius>
+                  <selectorColor>ffffff</selectorColor>
+                  <selectorLayer>bottom</selectorLayer>
+                  <zIndex>9</zIndex>
+                  <fractionalRows>true</fractionalRows>
+                  <scaleInwards>true</scaleInwards>
+                  <size>${grid-w-system} ${grid-h-system}</size>
+                  <itemScale>1.1</itemScale>
+                  <imageRelativeScale>1</imageRelativeScale>
+                  <textRelativeScale>0.7</textRelativeScale>
+                  <imageFit>cover</imageFit>
+            </grid>             
+               <image name="background-art-gradient-bottom">
+                     <size>1 0.5</size>
+                     <opacity>0</opacity>
+                  </image>
+             <image name="system-background">
+                  <brightness>${backgroundBrightness}</brightness>
+            </image> 
+      </view>
+</theme>

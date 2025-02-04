@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 20 20"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg2"
+   sodipodi:docname="badge-favorite.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><defs
+   id="defs2"><linearGradient
+     inkscape:collect="always"
+     xlink:href="#linearGradient16"
+     id="linearGradient15"
+     gradientUnits="userSpaceOnUse"
+     x1="-1.2142007"
+     y1="1.8272232"
+     x2="14.065031"
+     y2="16.23876" /><linearGradient
+     id="linearGradient16"
+     inkscape:collect="always"><stop
+       style="stop-color:#ffffff;stop-opacity:0.40000001;"
+       offset="0"
+       id="stop15" /><stop
+       style="stop-color:#ffffff;stop-opacity:0.2"
+       offset="1"
+       id="stop16" /></linearGradient></defs><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="96.95"
+   inkscape:cx="10"
+   inkscape:cy="10"
+   inkscape:window-width="3840"
+   inkscape:window-height="2126"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+    <ellipse
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:0;opacity:0.6;fill:url(#linearGradient15);fill-opacity:1;stroke:#ffffff;stroke-width:0.424177;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:19.2;stroke-opacity:1;paint-order:markers fill stroke"
+   id="path3"
+   cx="6.3453627"
+   cy="9.0293779"
+   rx="10.517256"
+   ry="10.692301"
+   transform="matrix(0.93202341,0,0,0.9170619,4.0859735,1.7195015)" /><rect
+   id="Artboard1"
+   x="0"
+   y="0"
+   width="20"
+   height="20"
+   style="fill:none;" />
+    <g
+   id="Artboard11"
+   serif:id="Artboard1">
+        
+        <path
+   d="M9.406,4.869L8.054,7.609L5.03,8.05C4.487,8.129 4.27,8.798 4.663,9.181L6.851,11.313L6.334,14.325C6.241,14.869 6.814,15.277 7.294,15.022L10,13.6L12.706,15.022C13.186,15.275 13.759,14.869 13.666,14.325L13.149,11.313L15.337,9.181C15.73,8.798 15.513,8.129 14.97,8.05L11.946,7.609L10.594,4.869C10.352,4.38 9.65,4.374 9.406,4.869Z"
+   style="fill:white;fill-rule:nonzero;"
+   id="path2" />
+    </g>
+</svg>

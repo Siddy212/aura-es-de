@@ -1,0 +1,89 @@
+<theme>
+
+   <!--   ///   Gamelist View: Carousel Boxart   ///   -->
+
+      <view name="gamelist">
+         <image name="system-logo-main">
+            <origin>0 0.5</origin>
+               <pos>0.03 0.07</pos>
+               <opacity>1</opacity>
+               <maxSize>0.26 0.1</maxSize>
+         </image>
+         <image name="system-logo-shadow">
+            <origin>0 0.5</origin>
+            <pos>0.028 0.075</pos>
+               <maxSize>0.26 0.1</maxSize>
+         </image>
+         <carousel name="gamelistCarousel">
+               <type>horizontal</type>
+               <origin>0.5 1</origin>
+               <pos>0.5 0.93</pos>
+               <size>1 1</size>
+               <imageType>cover</imageType>
+               <itemSize>${carousel-base-item-w} 0.55</itemSize>
+               <fontSize>${base-font-size}</fontSize>
+               <maxItemCount>${carousel-item-count}</maxItemCount>
+               <imageInterpolation>linear</imageInterpolation>
+               <itemHorizontalAlignment>center</itemHorizontalAlignment>
+               <itemVerticalAlignment>bottom</itemVerticalAlignment>
+               <fastScrolling>true</fastScrolling>
+               <color>00000000</color>
+               <textColor>${systemInfoColor}</textColor>
+               <letterCase>uppercase</letterCase>
+               <lineSpacing>1.2</lineSpacing>
+               <unfocusedItemOpacity>1</unfocusedItemOpacity>
+               <unfocusedItemDimming>0.8</unfocusedItemDimming>
+               <itemScale>${carousel-scale}</itemScale>        
+               <zIndex>5</zIndex>
+               <selectedItemMargins>${carousel-item-margins}</selectedItemMargins>
+               <imageCornerRadius>0.005</imageCornerRadius>
+         </carousel>  
+
+      <!--  Metadata  -->
+
+         <video name="game-media">
+            <cropSize>1 0.785</cropSize>
+            <cropPos>0.5 1</cropPos>
+            <origin>0.5 1</origin>
+            <pos>0.5 0.94</pos>
+            <delay>5</delay>
+            <videoCornerRadius>0.0</videoCornerRadius>
+            <pillarboxes>false</pillarboxes>
+            <iterationCount>1</iterationCount>
+            <onIterationsDone>image</onIterationsDone>
+            <imageType>screenshot</imageType>
+            <imageCornerRadius>${scaledimageCornerRadius}</imageCornerRadius>
+            <visible>true</visible>
+            <zIndex>3</zIndex>
+            <brightness>-0.6</brightness>
+            <saturation>0.8</saturation>
+         </video>
+         <badges name="badges">
+            <origin>0 0.5</origin>
+            <pos>0.56 0.053</pos>
+            <horizontalAlignment>left</horizontalAlignment>
+            <size>1 ${metadata-font-size}</size>
+         </badges>
+         <rating name="game-rating">
+            <origin>1 0.5</origin>
+            <pos>0.98 0.050</pos>
+            <size>0 ${metadata-font-size}</size>
+               <color>${BadgeColor}</color>
+         </rating>
+         <text name="game-name">
+            <size>0.41 ${metadata-font-size}</size>
+            <pos>0.771 0.099</pos>
+            <fontSize>${metadata-font-size}</fontSize>     
+            <origin>0.5 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1.5</lineSpacing>
+            <defaultValue>Unknown</defaultValue>
+            <fontSize>${metadata-font-size}</fontSize>
+            <metadata>name</metadata>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <horizontalAlignment>center</horizontalAlignment>
+         </text>
+      </view>
+</theme>

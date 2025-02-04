@@ -1,0 +1,204 @@
+<theme>
+
+   <!--
+   ///
+   Gamelist View: Detailed Metadata Variants
+   ///
+   -->
+
+      <view name="gamelist">
+         <badges name="badges">
+            <origin>0 0.5</origin>
+            <visible>true</visible>
+         </badges>
+         <rating name="game-rating">
+            <origin>1 0.5</origin>
+            <size>0 ${badge-font-size}</size>
+            <color>${BadgeColor}</color>
+            <visible>true</visible>
+         </rating>
+         <video name="game-media">
+            <maxSize>${imagemaxSize}</maxSize>
+            <origin>0.5 0.5</origin>
+            <delay>5</delay>
+            <videoCornerRadius>0.005</videoCornerRadius>
+            <pillarboxes>false</pillarboxes>
+            <iterationCount>1</iterationCount>
+            <onIterationsDone>image</onIterationsDone>
+            <imageType>${scaledimagetype}</imageType>
+            <imageCornerRadius>${scaledimageCornerRadius}</imageCornerRadius>
+         </video>
+
+         
+      <!--  All Text Defaults   -->
+         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-name-extended,game-name-base,game-genre-base">
+            <origin>0 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1.5</lineSpacing>
+            <defaultValue>Unknown</defaultValue>
+            <fontSize>${metadata-font-size}</fontSize>
+         </text>
+         <datetime name="game-releasedate-extended,game-releasedate-base,game-lastplayed-extended">
+            <origin>0 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <color>${gameMetadataColor}</color>
+            <lineSpacing>1</lineSpacing>
+            <defaultValue>?</defaultValue>
+            <metadata>releasedate</metadata>
+            <fontSize>${metadata-font-size}</fontSize>
+         </datetime>
+         <text name="game-name-extended,game-name-base">
+            <metadata>name</metadata>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+         </text>
+         <text name="game-genre-extended,game-genre-base">
+            <metadata>genre</metadata>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <horizontalAlignment>left</horizontalAlignment>
+            <letterCase>capitalize</letterCase>
+         </text>
+
+         <!-- Start: Extended Metadata -->
+         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-playcount-extended">
+            <visible>${metadataExtended}</visible>
+         </text>
+         <datetime name="game-releasedate-extended,game-lastplayed-extended">
+            <visible>${metadataExtended}</visible>
+         </datetime>
+         <datetime name="game-releasedate-extended">
+            <size>0 ${metadata-font-size}</size>
+            <format>${date-format}</format>
+         </datetime>
+         <text name="game-name-extended">
+            <size>${ext-name-w} ${metadata-font-size}</size>
+         </text>
+         <text name="game-players-extended">
+            <size>0 ${metadata-font-size}</size>
+            <metadata>players</metadata>
+            <defaultValue>?</defaultValue>
+         </text>
+         <text name="game-genre-extended">
+            <size>${ext-genre-w} ${metadata-font-size}</size>
+         </text>
+         <text name="game-developer-extended">
+            <size>${ext-genre-w} ${metadata-font-size}</size>
+            <metadata>developer</metadata>
+         </text>
+         <text name="game-publisher-extended">
+            <size>${ext-genre-w} ${metadata-font-size}</size>
+            <metadata>publisher</metadata>
+         </text>
+         <datetime name="game-lastplayed-extended">
+            <size>0 ${metadata-font-size}</size>
+            <metadata>lastplayed</metadata>
+            <defaultValue>Never</defaultValue>
+            <displayRelative>false</displayRelative>
+            <format>${date-format}</format>
+         </datetime>
+         <!-- End: Extended Metadata -->
+
+         <!-- Start: Base Metadata -->
+         <text name="game-name-base">
+            <size>${base-name-w} ${metadata-font-size}</size>
+            <visible>${metadataBase}</visible>
+            <fontSize>${metadata-font-size}</fontSize>
+         </text>
+         <datetime name="game-releasedate-base">
+            <size>0 ${metadata-font-size}</size>
+            <visible>${metadataBase}</visible>
+            <format>%Y</format>
+         </datetime>
+         <text name="game-genre-base">
+            <size>${base-genre-w} ${metadata-font-size}</size>
+            <visible>${metadataBase}</visible>
+            <fontSize>${metadata-font-size}</fontSize>
+         </text>
+         <!-- End: Base Metadata -->
+
+         <text name="game-description">
+            <size>${base-desc-w} 0.105</size>
+            <lineSpacing>${desc-line-spacing}</lineSpacing>
+            <visible>${metadataMin}</visible>
+            <origin>0.5 0.5</origin>
+            <fontPath>${fontRegular}</fontPath>
+            <fontSize>${metadata-font-size}</fontSize>
+            <metadata>description</metadata>
+            <color>${gameMetadataColor}</color>
+            <containerStartDelay>8</containerStartDelay>
+            <containerScrollSpeed>0.6</containerScrollSpeed>
+         </text>
+      </view>
+      <fontSize name="small,medium">
+         <variables>
+            <imagepos>${base-desc-x} 0.3925</imagepos>
+            <imagemaxSize>0.36 0.33</imagemaxSize>
+         </variables>
+      </fontSize>
+      <fontSize name="large">
+         <variables>
+            <imagepos>${base-desc-x} 0.445</imagepos>
+            <imagemaxSize>0.37 0.42</imagemaxSize>
+         </variables>
+      </fontSize>
+      <fontSize name="x-large">
+         <variables>
+            <imagepos>${base-desc-x} 0.58</imagepos>
+            <imagemaxSize>0.37 0.65</imagemaxSize>
+         </variables>
+      </fontSize>
+
+
+
+      <view name="gamelist">
+         <badges name="badges">
+            <pos>${badge-x} 0.192</pos>
+         </badges>
+             <video name="game-media">
+            <pos>${imagepos}</pos>
+         </video>
+         <rating name="game-rating">
+            <pos>${rating-x} 0.187</pos>
+         </rating>
+         <!-- Start: Extended Metadata -->
+         <datetime name="game-releasedate-extended">
+            <pos>${base-name-x} 0.655</pos>
+         </datetime>
+         <text name="game-name-extended">
+            <pos>${base-name-x} 0.589</pos>
+         </text>
+         <text name="game-players-extended">
+            <pos>${base-name-x} 0.712</pos>
+         </text>
+         <text name="game-genre-extended">
+            <pos>${base-genre-x} 0.656</pos>
+         </text>
+         <text name="game-developer-extended">
+            <pos>${base-genre-x} 0.712</pos>
+         </text>
+         <text name="game-publisher-extended">
+            <pos>${base-genre-x} 0.77</pos>
+         </text>
+         <datetime name="game-lastplayed-extended">
+            <pos>${base-release-date-x} 0.77</pos>
+         </datetime>
+         <!-- End: Extended Metadata -->
+         <!-- Start: Base Metadata -->
+         <text name="game-name-base">
+            <pos>${base-name-x} 0.6945</pos>
+         </text>
+         <datetime name="game-releasedate-base">
+            <pos>${base-release-date-x} 0.7645</pos>
+         </datetime>
+         <text name="game-genre-base">
+            <pos>${base-genre-x} 0.7645</pos>
+         </text>
+         <!-- End: Base Metadata -->
+         <text name="game-description">
+            <pos>${base-desc-x} 0.8605</pos>
+         </text>
+      </view>
+
+</theme>

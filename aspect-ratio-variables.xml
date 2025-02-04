@@ -1,0 +1,962 @@
+<theme>
+           <aspectRatio name="1:1">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>1-1-textlist</textlist-background>    
+                                        <textlist-x>0.25</textlist-x>    
+                                        <blur-radius>0.032</blur-radius>   
+                                        <left-blur-x>0.46</left-blur-x>    
+                                        <left-blur-crop-x>0.14</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.41898</left-blur-crop-w>    
+                                        <right-blur-x>0.53993</right-blur-x>    
+                                        <right-blur-crop-x>0.86</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.41898</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>1.77777777777778</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.856481481475555</sys-carousel-item-w>    
+                                        <sys-logo-w>0.426666666666667</sys-logo-w>    
+                                        <sys-max-item>1.6875</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y</date-format>  
+                                        <rating-x>0.741875</rating-x> 
+                                        <badge-x>0.55</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.338</ext-name-w> 
+                                        <base-name-x>0.5495</base-name-x>         
+                                        <base-name-w>0.34</base-name-w>       
+                                        <base-release-date-x>0.5495</base-release-date-x>     
+                                        <base-genre-x>0.3954375</base-genre-x>         
+                                        <base-genre-w>0.1265625</base-genre-w>   
+                                        <base-desc-x>0.74</base-desc-x>         
+                                        <base-desc-w>0.2025</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-glass>1-1-grid</dg-glass>  
+                                        <dg-metadata-pos>1.035</dg-metadata-pos>  
+                                        <dg-rating-x>0.776875</dg-rating-x> 
+                                        <dg-badge-x>0.585</dg-badge-x>  
+                                        <dg-name-x>0.5845</dg-name-x>        
+                                        <dg-release-date-x>0.5845</dg-release-date-x>     
+                                        <dg-genre-x>0.4304375</dg-genre-x>                                            
+                                        <dg-desc-x>0.775</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.772675</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.57493</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.501875</ba-rating-x> 
+                                        <ba-badge-x>0.31</ba-badge-x>  
+                                        <ba-name-x>0.3095</ba-name-x>        
+                                        <ba-release-date-x>0.3095</ba-release-date-x>     
+                                        <ba-genre-x>0.1554375</ba-genre-x>                                            
+                                        <ba-desc-x>0.5</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.021125</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>1-1-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.026</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>1-1-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.030875</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>1-1-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0325</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>1-1-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:10">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>16-10-textlist</textlist-background>    
+                                        <textlist-x>0.25</textlist-x>    
+                                        <blur-radius>0.02</blur-radius>   
+                                        <left-blur-x>0.46</left-blur-x>    
+                                        <left-blur-crop-x>0.14</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.41898</left-blur-crop-w>    
+                                        <right-blur-x>0.53993</right-blur-x>    
+                                        <right-blur-crop-x>0.86</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.41898</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>1.11111111111111</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.535300925922222</sys-carousel-item-w>    
+                                        <sys-logo-w>0.266666666666667</sys-logo-w>    
+                                        <sys-max-item>2.7</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y-%m</date-format>  
+                                        <rating-x>0.945</rating-x> 
+                                        <badge-x>0.55</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.354</ext-name-w> 
+                                        <base-name-x>0.59</base-name-x>         
+                                        <base-name-w>0.35</base-name-w>       
+                                        <base-release-date-x>0.59</base-release-date-x>     
+                                        <base-genre-x>0.72</base-genre-x>         
+                                        <base-genre-w>0.22</base-genre-w>   
+                                        <base-desc-x>0.75</base-desc-x>         
+                                        <base-desc-w>0.38</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.285</dg-grid-x>  
+                                        <dg-glass>16-10-grid</dg-glass>  
+                                        <dg-metadata-pos>1.02</dg-metadata-pos>  
+                                        <dg-rating-x>0.965</dg-rating-x> 
+                                        <dg-badge-x>0.57</dg-badge-x>  
+                                        <dg-name-x>0.61</dg-name-x>        
+                                        <dg-release-date-x>0.61</dg-release-date-x>     
+                                        <dg-genre-x>0.74</dg-genre-x>                                            
+                                        <dg-desc-x>0.77</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.76769</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.53993055555</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.55993</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.89</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.705</ba-rating-x> 
+                                        <ba-badge-x>0.31</ba-badge-x>  
+                                        <ba-name-x>0.35</ba-name-x>        
+                                        <ba-release-date-x>0.35</ba-release-date-x>     
+                                        <ba-genre-x>0.48</ba-genre-x>                                            
+                                        <ba-desc-x>0.51</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.021125</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-10-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.026</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-10-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.030875</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-10-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0325</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-10-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:9">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>16-9-textlist</textlist-background>    
+                                        <textlist-x>0.26</textlist-x>    
+                                        <blur-radius>0.018</blur-radius>   
+                                        <left-blur-x>0.46</left-blur-x>    
+                                        <left-blur-crop-x>0.1</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.4</left-blur-crop-w>    
+                                        <right-blur-x>0.54</right-blur-x>    
+                                        <right-blur-crop-x>0.9</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.4</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>1</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.48177083333</sys-carousel-item-w>    
+                                        <sys-logo-w>0.24</sys-logo-w>    
+                                        <sys-max-item>3</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y-%m</date-format>  
+                                        <rating-x>0.93</rating-x> 
+                                        <badge-x>0.55</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.338</ext-name-w> 
+                                        <base-name-x>0.587</base-name-x>         
+                                        <base-name-w>0.34</base-name-w>       
+                                        <base-release-date-x>0.587</base-release-date-x>     
+                                        <base-genre-x>0.702</base-genre-x>         
+                                        <base-genre-w>0.225</base-genre-w>   
+                                        <base-desc-x>0.74</base-desc-x>         
+                                        <base-desc-w>0.363546875</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-glass>16-9-grid</dg-glass>  
+                                        <dg-metadata-pos>1.035</dg-metadata-pos>  
+                                        <dg-rating-x>0.965</dg-rating-x> 
+                                        <dg-badge-x>0.585</dg-badge-x>  
+                                        <dg-name-x>0.622</dg-name-x>        
+                                        <dg-release-date-x>0.622</dg-release-date-x>     
+                                        <dg-genre-x>0.737</dg-genre-x>                                            
+                                        <dg-desc-x>0.775</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.772675</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.575</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.69</ba-rating-x> 
+                                        <ba-badge-x>0.31</ba-badge-x>  
+                                        <ba-name-x>0.347</ba-name-x>        
+                                        <ba-release-date-x>0.347</ba-release-date-x>     
+                                        <ba-genre-x>0.462</ba-genre-x>                                            
+                                        <ba-desc-x>0.5</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.024375</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-9-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.03</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-9-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.035625</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-9-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0375</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>16-9-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="19.5:9">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>19.5-9-textlist</textlist-background>    
+                                        <textlist-x>0.26</textlist-x>    
+                                        <blur-radius>0.0147692307692308</blur-radius>   
+                                        <left-blur-x>0.46</left-blur-x>    
+                                        <left-blur-crop-x>0.1</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.4</left-blur-crop-w>    
+                                        <right-blur-x>0.54</right-blur-x>    
+                                        <right-blur-crop-x>0.9</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.4</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>0.820512820512821</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.39529914529641</sys-carousel-item-w>    
+                                        <sys-logo-w>0.196923076923077</sys-logo-w>    
+                                        <sys-max-item>3.65625</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y-%m</date-format>  
+                                        <rating-x>1.0240625</rating-x> 
+                                        <badge-x>0.55</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.338</ext-name-w> 
+                                        <base-name-x>0.60603125</base-name-x>         
+                                        <base-name-w>0.34</base-name-w>       
+                                        <base-release-date-x>0.60603125</base-release-date-x>     
+                                        <base-genre-x>0.7461875</base-genre-x>         
+                                        <base-genre-w>0.27421875</base-genre-w>   
+                                        <base-desc-x>0.74</base-desc-x>         
+                                        <base-desc-w>0.449625</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-glass>19.5-9-grid</dg-glass>  
+                                        <dg-metadata-pos>1.035</dg-metadata-pos>  
+                                        <dg-rating-x>1.0590625</dg-rating-x> 
+                                        <dg-badge-x>0.585</dg-badge-x>  
+                                        <dg-name-x>0.64103125</dg-name-x>        
+                                        <dg-release-date-x>0.64103125</dg-release-date-x>     
+                                        <dg-genre-x>0.7811875</dg-genre-x>                                            
+                                        <dg-desc-x>0.775</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.772675</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.575</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.7840625</ba-rating-x> 
+                                        <ba-badge-x>0.31</ba-badge-x>  
+                                        <ba-name-x>0.36603125</ba-name-x>        
+                                        <ba-release-date-x>0.36603125</ba-release-date-x>     
+                                        <ba-genre-x>0.5061875</ba-genre-x>                                            
+                                        <ba-desc-x>0.5</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.024375</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>19.5-9-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.03</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>19.5-9-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.035625</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>19.5-9-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0375</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>19.5-9-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="21:9">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>21-9-textlist</textlist-background>    
+                                        <textlist-x>0.26</textlist-x>    
+                                        <blur-radius>0.0137142857142857</blur-radius>   
+                                        <left-blur-x>0.46</left-blur-x>    
+                                        <left-blur-crop-x>0.1</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.4</left-blur-crop-w>    
+                                        <right-blur-x>0.54</right-blur-x>    
+                                        <right-blur-crop-x>0.9</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.4</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>0.761904761904762</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.367063492060952</sys-carousel-item-w>    
+                                        <sys-logo-w>0.182857142857143</sys-logo-w>    
+                                        <sys-max-item>3.9375</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y-%m</date-format>  
+                                        <rating-x>1.064375</rating-x> 
+                                        <badge-x>0.55</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.338</ext-name-w> 
+                                        <base-name-x>0.6155</base-name-x>         
+                                        <base-name-w>0.34</base-name-w>       
+                                        <base-release-date-x>0.6155</base-release-date-x>     
+                                        <base-genre-x>0.7664375</base-genre-x>         
+                                        <base-genre-w>0.2953125</base-genre-w>   
+                                        <base-desc-x>0.74</base-desc-x>         
+                                        <base-desc-w>0.486214285714286</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-glass>21-9-grid</dg-glass>  
+                                        <dg-metadata-pos>1.035</dg-metadata-pos>  
+                                        <dg-rating-x>1.099375</dg-rating-x> 
+                                        <dg-badge-x>0.585</dg-badge-x>  
+                                        <dg-name-x>0.6505</dg-name-x>        
+                                        <dg-release-date-x>0.6505</dg-release-date-x>     
+                                        <dg-genre-x>0.8014375</dg-genre-x>                                            
+                                        <dg-desc-x>0.775</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.772675</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.575</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.824375</ba-rating-x> 
+                                        <ba-badge-x>0.31</ba-badge-x>  
+                                        <ba-name-x>0.3755</ba-name-x>        
+                                        <ba-release-date-x>0.3755</ba-release-date-x>     
+                                        <ba-genre-x>0.5264375</ba-genre-x>                                            
+                                        <ba-desc-x>0.5</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.024375</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>21-9-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.03</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>21-9-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.035625</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>21-9-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0375</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>21-9-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="3:2">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>3-2-textlist</textlist-background>    
+                                        <textlist-x>0.26</textlist-x>    
+                                        <blur-radius>0.0213333333333333</blur-radius>   
+                                        <left-blur-x>0.47</left-blur-x>    
+                                        <left-blur-crop-x>0.23</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.43</left-blur-crop-w>    
+                                        <right-blur-x>0.53</right-blur-x>    
+                                        <right-blur-crop-x>0.77</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.43</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>1.18518518518519</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.570987654317037</sys-carousel-item-w>    
+                                        <sys-logo-w>0.284444444444444</sys-logo-w>    
+                                        <sys-max-item>2.53125</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y-%m</date-format>  
+                                        <rating-x>0.8628125</rating-x> 
+                                        <badge-x>0.55</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.338</ext-name-w> 
+                                        <base-name-x>0.57425</base-name-x>         
+                                        <base-name-w>0.34</base-name-w>       
+                                        <base-release-date-x>0.57425</base-release-date-x>     
+                                        <base-genre-x>0.67128125</base-genre-x>         
+                                        <base-genre-w>0.18984375</base-genre-w>   
+                                        <base-desc-x>0.74</base-desc-x>         
+                                        <base-desc-w>0.301125</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-glass>3-2-grid</dg-glass>  
+                                        <dg-metadata-pos>1.035</dg-metadata-pos>  
+                                        <dg-rating-x>0.8978125</dg-rating-x> 
+                                        <dg-badge-x>0.585</dg-badge-x>  
+                                        <dg-name-x>0.60925</dg-name-x>        
+                                        <dg-release-date-x>0.60925</dg-release-date-x>     
+                                        <dg-genre-x>0.70628125</dg-genre-x>                                            
+                                        <dg-desc-x>0.775</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.772675</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.565</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.6228125</ba-rating-x> 
+                                        <ba-badge-x>0.31</ba-badge-x>  
+                                        <ba-name-x>0.33425</ba-name-x>        
+                                        <ba-release-date-x>0.33425</ba-release-date-x>     
+                                        <ba-genre-x>0.43128125</ba-genre-x>                                            
+                                        <ba-desc-x>0.5</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.021125</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>3-2-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.026</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>3-2-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.030875</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>3-2-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0325</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>3-2-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="4:3">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>4-3-textlist</textlist-background>    
+                                        <textlist-x>0.255</textlist-x>    
+                                        <blur-radius>0.024</blur-radius>   
+                                        <left-blur-x>0.47</left-blur-x>    
+                                        <left-blur-crop-x>0.23</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.43</left-blur-crop-w>    
+                                        <right-blur-x>0.53</right-blur-x>    
+                                        <right-blur-crop-x>0.77</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.43</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>1.33333333333333</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.642361111106667</sys-carousel-item-w>    
+                                        <sys-logo-w>0.32</sys-logo-w>    
+                                        <sys-max-item>2.25</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y</date-format>  
+                                        <rating-x>0.95</rating-x> 
+                                        <badge-x>0.54</badge-x>         
+                                        <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-name-w>0.338</ext-name-w> 
+                                        <base-name-x>0.59</base-name-x>         
+                                        <base-name-w>0.355</base-name-w>       
+                                        <base-release-date-x>0.59</base-release-date-x>     
+                                        <base-genre-x>0.718</base-genre-x>         
+                                        <base-genre-w>0.23</base-genre-w>   
+                                        <base-desc-x>0.745</base-desc-x>         
+                                        <base-desc-w>0.38</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.28</dg-grid-x>  
+                                        <dg-glass>4-3-grid</dg-glass>  
+                                        <dg-metadata-pos>1.025</dg-metadata-pos>  
+                                        <dg-rating-x>0.975</dg-rating-x> 
+                                        <dg-badge-x>0.565</dg-badge-x>  
+                                        <dg-name-x>0.615</dg-name-x>        
+                                        <dg-release-date-x>0.615</dg-release-date-x>     
+                                        <dg-genre-x>0.743</dg-genre-x>                                            
+                                        <dg-desc-x>0.77</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.76769</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.555</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.8</dg-right-blur-crop-x>        
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.71</ba-rating-x> 
+                                        <ba-badge-x>0.3</ba-badge-x>  
+                                        <ba-name-x>0.35</ba-name-x>        
+                                        <ba-release-date-x>0.35</ba-release-date-x>     
+                                        <ba-genre-x>0.478</ba-genre-x>                                            
+                                        <ba-desc-x>0.505</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.021125</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>4-3-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.026</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>4-3-extended</metadata-background>
+                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.030875</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>4-3-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.0325</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>4-3-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+</theme>
+

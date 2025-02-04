@@ -1,0 +1,52 @@
+<theme>
+
+   <!--   ///   System View: Art   ///   -->
+
+         <view name="system">
+                <carousel name="system-carousel">
+                  <staticImage>${systemlogoArtPath}</staticImage>
+                  <origin>0.5 0.5</origin>
+                  <size>1 1</size>
+                  <type>horizontalWheel</type>
+                  <itemAxisHorizontal>true</itemAxisHorizontal>
+                  <itemRotation>0</itemRotation>
+                  <pos>0.5 0.5</pos>
+                  <color>00000000</color>
+                  <itemScale>1</itemScale>
+                  <itemStacking>ascending</itemStacking>
+                  <unfocusedItemOpacity>0</unfocusedItemOpacity>
+                  <unfocusedItemDimming>1</unfocusedItemDimming>
+                  <unfocusedItemSaturation>0</unfocusedItemSaturation>
+                  <horizontalOffset>0</horizontalOffset>
+                  <imageCornerRadius>0.005</imageCornerRadius>
+                  <text>${system.fullName}</text>
+                  <textColor>${systemInfoColor}</textColor>
+                  <textBackgroundColor>${systemCarouselTextBackgroundColor}</textBackgroundColor>
+                  <textRelativeScale>0.8</textRelativeScale>
+                  <selectedItemMargins>0.5 0</selectedItemMargins>
+                  <lineSpacing>1.2</lineSpacing>
+                  <fontPath>${fontBold}</fontPath>
+                  <letterCase>uppercase</letterCase>
+                  <fastScrolling>true</fastScrolling>
+                  <zIndex>5</zIndex>            
+                  <itemSize>0.8 0.4</itemSize>
+                  <fontSize>${base-font-size}</fontSize>
+                  <itemVerticalAlignment>center</itemVerticalAlignment>
+                  <itemsBeforeCenter>0</itemsBeforeCenter>
+                  <itemsAfterCenter>0</itemsAfterCenter>
+               </carousel>                
+              <image name="system-logo-main">
+                  <opacity>0.3</opacity>
+                  <maxSize>0.8 0.4</maxSize>
+                  <origin>0.5 0.5</origin>
+                  <pos>0.497 0.505</pos>
+                  <path>${systemlogoArtPath}</path>
+                  <color>000000</color>
+                  <zIndex>2</zIndex>
+               </image>
+               <image name="background-art-gradient-bottom">
+                     <size>1 0.5</size>
+                     <opacity>0.5</opacity>
+                  </image>
+      </view>
+</theme>

@@ -1,0 +1,640 @@
+<!--
+theme name:             Canvas (ES-DE Edition)
+created by:             Siddy21
+github page:            (https://github.com/Siddy212/canvas-es-de)
+license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
+16:9 resolution:        based on 1920x1080
+16:10 resolution:       based on 1920x1200
+4:3 resolution:         based on 1440x1080
+19.5:9 resolution:      based on 1920x886
+1:1 resolution:         based on 1080x1080
+21:9 resolution:        based on 2560x1080
+3:2 resolution:         based on 1920x1280
+-->
+
+<theme>
+
+   <!--
+   ///
+   Global Variables
+   ///
+   -->
+
+   <include>./_inc/system-metadata/_default.xml</include>
+   <include>./_inc/system-metadata/${system.theme}.xml</include>
+   <include>./colors.xml</include>
+   <include>./aspect-ratio-variables.xml</include>
+
+   <variables>
+      <fontRegular>./_inc/fonts/Oxygen-Regular.ttf</fontRegular>
+      <fontBold>./_inc/fonts/Gilroy-Bold.ttf</fontBold>
+      <fontLogo>./_inc/fonts/ChangaOne-Italic.ttf</fontLogo>
+      <spacerImage>./_inc/images/space.png</spacerImage>
+      <fontItalic>Gilroy-RegularItalic</fontItalic>
+   </variables>
+   
+   <!--
+   ///
+   All Views: Defaults
+   ///
+   -->
+   <view name="system,gamelist">
+
+
+         <!-- Gradient Overalys   -->
+
+         <image name="background-art-gradient-top">
+            <origin>0.5 0</origin>
+	         <size>1 0.2</size>
+	         <pos>0.5 0</pos>
+            <path>./_inc/images/background-art-gradient-dark.svg</path>
+            <zIndex>4</zIndex>
+            <color>000000</color>
+            <opacity>0.2</opacity>
+	         <rotation>180</rotation>
+            <visible>${gradientSwitch}</visible>
+         </image>         
+         <image name="background-art-gradient-bottom">
+            <origin>0.5 1</origin>
+	         <size>1 0.3</size>
+	         <pos>0.5 1</pos>
+            <path>./_inc/images/background-art-gradient-dark.svg</path>
+            <zIndex>3</zIndex>
+            <color>000000</color>
+            <opacity>0.3</opacity>
+	         <rotation>0</rotation>
+            <visible>${gradientSwitch}</visible>
+         </image>
+
+
+         <!-- Help System -->
+
+         <helpsystem name="help">
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.97</pos>
+            <originDimmed>0.5 0.5</originDimmed>
+            <posDimmed>0.5 0.97</posDimmed>
+            <entrySpacing>0.003</entrySpacing>
+            <fontPath>${fontBold}</fontPath>
+            <fontSize>${help-font-size}</fontSize>
+            <fontSizeDimmed>${help-font-size}</fontSizeDimmed>
+            <textColor>${helpTextColor}</textColor>
+            <iconTextSpacing>0.001</iconTextSpacing>
+            <iconColor>${helpTextColor}</iconColor>
+            <textColorDimmed>${helpTextColor}</textColorDimmed>
+            <iconColorDimmed>${helpTextColor}</iconColorDimmed>
+            <customButtonIcon button="button_a_XBOX">./_inc/images/help-button-south.svg</customButtonIcon>
+            <customButtonIcon button="button_a_PS">./_inc/images/help-button-south.svg</customButtonIcon>
+            <customButtonIcon button="button_a_switch">./_inc/images/help-button-east.svg</customButtonIcon>
+            <customButtonIcon button="button_a_SNES">./_inc/images/help-button-south.svg</customButtonIcon>
+            <customButtonIcon button="button_b_XBOX">./_inc/images/help-button-east.svg</customButtonIcon>
+            <customButtonIcon button="button_b_PS">./_inc/images/help-button-east.svg</customButtonIcon>
+            <customButtonIcon button="button_b_switch">./_inc/images/help-button-south.svg</customButtonIcon>
+            <customButtonIcon button="button_b_SNES">./_inc/images/help-button-east.svg</customButtonIcon>
+            <customButtonIcon button="button_x_XBOX">./_inc/images/help-button-west.svg</customButtonIcon>
+            <customButtonIcon button="button_x_PS">./_inc/images/help-button-west.svg</customButtonIcon>
+            <customButtonIcon button="button_x_switch">./_inc/images/help-button-north.svg</customButtonIcon>
+            <customButtonIcon button="button_x_SNES">./_inc/images/help-button-west.svg</customButtonIcon>
+            <customButtonIcon button="button_y_XBOX">./_inc/images/help-button-north.svg</customButtonIcon>
+            <customButtonIcon button="button_y_PS">./_inc/images/help-button-north.svg</customButtonIcon>
+            <customButtonIcon button="button_y_switch">./_inc/images/help-button-west.svg</customButtonIcon>
+            <customButtonIcon button="button_y_SNES">./_inc/images/help-button-north.svg</customButtonIcon>
+            <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
+         </helpsystem>
+   </view>
+   
+   <!--
+   ///
+   System View: Grid/Carousel Defaults
+   ///
+   -->
+
+   <view name="system">
+      <image name="system-background">
+            <origin>0.5 0.5</origin>
+            <cropSize>1 1</cropSize>
+            <pos>0.5 0.5</pos>
+            <interpolation>linear</interpolation>
+            <zIndex>1</zIndex>
+            <opacity>1</opacity>
+            <path>${systemBackgroundPath}.webp</path>
+            <stationary>never</stationary>
+      </image>        
+      <image name="vignette">
+            <origin>0.5 0.5</origin>
+            <cropSize>1 1</cropSize>
+            <pos>0.5 0.5</pos>
+            <interpolation>linear</interpolation>
+            <zIndex>2</zIndex>
+            <opacity>0.3</opacity>
+            <path>./_inc/glass/vignette.webp</path>   
+            <brightness>0</brightness>
+            <visible>${gradientSwitch}</visible>
+      </image>    
+   </view>
+
+
+
+   <!--
+   ///
+   System View: Carousel System Variants
+   ///
+   -->
+            <view name="system">
+                  <text name="games-count">
+                     <origin>0.5 0.5</origin>
+                     <pos>0.5 ${sys-details-y}</pos>
+                     <fontPath>${fontBold}</fontPath>
+                     <fontSize>${sys-font-size}</fontSize>
+                     <lineSpacing>1</lineSpacing>
+                     <letterCase>uppercase</letterCase>
+                     <horizontalAlignment>left</horizontalAlignment>
+                     <color>${systemInfoColor}</color>
+                     <zIndex>10</zIndex>
+                     <opacity>1</opacity>
+                     <systemdata>gamecountGames</systemdata>
+                  </text>
+                  <text name="games-count-shadow">
+                     <origin>0.5 0.5</origin>
+                     <pos>0.498 ${sys-details-shadow-y}</pos>
+                     <fontPath>${fontBold}</fontPath>
+                     <fontSize>${sys-font-size}</fontSize>
+                     <lineSpacing>1</lineSpacing>
+                     <letterCase>uppercase</letterCase>
+                     <horizontalAlignment>left</horizontalAlignment>
+                     <color>000000</color>
+                     <zIndex>9</zIndex>
+                     <opacity>0.3</opacity>
+                     <systemdata>gamecountGames</systemdata>
+                  </text>
+               </view>
+
+   <include>./${systemViewStyle}.xml</include>
+
+   <!--
+   ///
+   Gamelist View: Defaults
+   ///
+   -->
+
+   <view name="gamelist">
+      <image name="gamelist-background">
+            <origin>0.5 0.5</origin>
+            <cropSize>1 1</cropSize>
+            <pos>0.5 0.5</pos>
+            <interpolation>linear</interpolation>
+            <zIndex>0</zIndex>
+            <opacity>1</opacity>
+         <path>${gamelistBackgroundPath}.webp</path>
+      </image>
+      <text name="custom-collection-name">
+         <fontPath>${fontLogo}</fontPath>
+      </text>
+         <image name="system-logo-main">
+            <pos>0.5 0.075</pos>
+            <opacity>1</opacity>
+            <maxSize>0.24 0.10</maxSize>
+            <origin>0.5 0.5</origin>
+            <path>${systemlogoArtPath}</path>
+            <color>${systemInfoColor}</color>
+            <zIndex>10</zIndex>
+         </image> 
+         <image name="system-logo-shadow">
+            <pos>0.499 0.08</pos>
+            <opacity>0.3</opacity>
+            <maxSize>0.24 0.10</maxSize>
+            <origin>0.5 0.5</origin>
+            <path>${systemlogoArtPath}</path>
+            <color>000000</color>
+            <zIndex>9</zIndex>
+         </image> 
+      <badges name="badges">
+         <slots>all</slots>
+         <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+         <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+         <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+         <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+         <customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
+         <customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+         <customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
+         <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
+         <customBadgeIcon badge="manual">./_inc/images/badge-manual.svg</customBadgeIcon>
+         <badgeIconColor>${BadgeColor}</badgeIconColor>
+         <controllerSize>0.8</controllerSize>
+         <folderLinkSize>0.8</folderLinkSize>
+         <origin>0 0.5</origin>
+         <size>1 ${badge-font-size}</size>
+         <lines>1</lines>
+         <itemsPerLine>9</itemsPerLine>
+         <direction>row</direction>
+         <itemMargin>0.008 0.005</itemMargin>
+         <horizontalAlignment>left</horizontalAlignment>
+      </badges> 
+   </view>
+
+
+   <!--
+   ///
+   Gamelist View: Variations of metadata images
+   ///
+   -->
+
+         <fontSize name="small">
+               <variables>
+                  <selectorpath>./_inc/images/selector-small.svg</selectorpath>
+               </variables>
+            </fontSize>
+            <fontSize name="medium">
+               <variables>
+                  <selectorpath>./_inc/images/selector-medium.svg</selectorpath>
+               </variables>
+            </fontSize>
+
+            <fontSize name="small,medium">
+               <variables>
+                  <metadataExtended>true</metadataExtended>
+                  <metadataBase>false</metadataBase>
+               </variables>
+            </fontSize>
+            <fontSize name="large">
+               <variables>
+                  <metadataExtended>false</metadataExtended>
+                  <metadataBase>true</metadataBase>
+                  <selectorpath>./_inc/images/selector-large.svg</selectorpath>
+               </variables>
+            </fontSize>
+
+            <fontSize name="small,medium,large">
+               <variables>
+                  <scaledimagetype>miximage, cover</scaledimagetype>
+                  <scaledimageCornerRadius>0</scaledimageCornerRadius>
+                  <metadataBadge>true</metadataBadge>
+                  <metadataMin>true</metadataMin>
+               </variables>
+            </fontSize>
+            <fontSize name="x-large">
+               <variables>
+                  <scaledimagetype>cover, screenshot</scaledimagetype>
+                  <scaledimageCornerRadius>0.008</scaledimageCornerRadius>
+                  <metadataExtended>false</metadataExtended>
+                  <metadataBase>false</metadataBase>
+                  <metadataBadge>false</metadataBadge>
+                  <metadataMin>false</metadataMin>
+                  <selectorpath>./_inc/images/selector-large.svg</selectorpath>
+               </variables>
+            </fontSize>
+
+            <variant name="detailed-grid,detailed-grid-help-off,carousel-marquee">
+               <fontSize name="x-large">
+                  <variables>
+                     <scaledimagetype>screenshot, cover</scaledimagetype>
+                  </variables>
+               </fontSize>
+            </variant>
+
+
+
+
+
+   <!--   ///   Glass/Blur: Variations with metadata   ///   -->
+
+   <variant name="textlist,carousel-marquee,detailed-grid,detailed-grid-help-off">
+    <view name="gamelist">
+            <image name="metadata-glass">
+               <origin>1 0.5</origin>
+               <pos>1 0.5</pos>
+               <size>0.5 1</size>
+               <zIndex>3</zIndex>
+               <interpolation>linear</interpolation>
+               <opacity>1</opacity>
+               <path>./_inc/glass/${metadata-background}-${shade}.webp</path>   
+               <opacity>1</opacity>
+            </image>   
+      </view>
+   </variant>
+
+
+   <!--   ///   Glass/Blur: Variations with symmetry   ///   -->
+
+   <variant name="textlist,carousel-marquee">
+      <view name="gamelist">
+            <image name="textlist-glass">
+               <origin>0 0.5</origin>
+               <pos>0 0.5</pos>
+               <size>0.5 1</size>
+               <path>./_inc/glass/${textlist-background}-${shade}.webp</path>
+               <zIndex>3</zIndex>
+               <interpolation>linear</interpolation>   
+               <opacity>1</opacity>
+            </image>
+            <image name="blur-left">    
+               <zIndex>2</zIndex>
+               <interpolation>linear</interpolation>
+               <cornerRadius>${blur-radius}</cornerRadius>
+               <path>${gamelistBlurStripPath}.webp</path>        
+               <origin>1 0</origin>
+               <pos>${left-blur-x} 0.152</pos>
+               <cropSize>${left-blur-crop-w} 0.779</cropSize>
+               <cropPos>${left-blur-crop-x} 1</cropPos>
+               <brightness>${brightnessfactor}</brightness>
+            </image>
+            <image name="blur-right">
+               <zIndex>2</zIndex>
+               <interpolation>linear</interpolation>
+               <cornerRadius>${blur-radius}</cornerRadius>
+               <path>${gamelistBlurStripPath}.webp</path>
+               <origin>0 0</origin>
+               <pos>${right-blur-x} 0.152</pos>
+               <cropSize>${right-blur-crop-w} 0.779</cropSize>
+               <cropPos>${right-blur-crop-x} 1</cropPos>
+               <brightness>${brightnessfactor}</brightness>
+            </image>     
+      </view>
+   </variant>
+
+   <!--   ///   Glass/Blur: Variations with bottom bar blur  ///   -->
+
+   <variant name="detailed-grid,basic-grid,carousel-boxart">
+      <view name="gamelist">
+            <image name="blur-bottom">            
+               <origin>0.5 1</origin>
+               <pos>0.5 1</pos>
+               <cropSize>${sys-carousel-w} 0.0598</cropSize>
+               <cropPos>0.5 1</cropPos>
+               <opacity>1</opacity>
+               <brightness>0</brightness>
+               <cornerRadius>0</cornerRadius>
+               <path>${gamelistBlurFullPath}.webp</path>
+               <zIndex>2</zIndex>
+               <brightness>0</brightness>
+            </image>
+      </view>
+   </variant>
+   <!--   ///   Glass/Blur: Variations with full-screen  ///   -->
+
+   <variant name="basic-grid,basic-grid-help-off,carousel-boxart">
+      <view name="gamelist">
+            <image name="blur-top">
+               <origin>0.5 0</origin>
+               <pos>0.5 0</pos>
+               <cropSize>${sys-carousel-w} 0.152</cropSize>
+               <cropPos>0.5 0</cropPos>
+               <opacity>1</opacity>
+               <brightness>0</brightness>
+               <cornerRadius>0</cornerRadius>
+               <path>${gamelistBlurFullPath}.webp</path>
+               <zIndex>2</zIndex>
+               <brightness>0</brightness>
+            </image>
+            <image name="gamelist-background">
+               <opacity>1</opacity>
+               <path>${gamelistBackgroundPath}.webp</path>
+               <brightness>-0.3</brightness>
+            </image>
+            <image name="dg-glass">
+               <origin>0 0</origin>
+               <pos>0 0</pos>
+               <path>./_inc/glass/${dg-glass}-basic-${shade}.webp</path>
+               <zIndex>5</zIndex>
+               <interpolation>linear</interpolation>
+               <color>FFFFFF</color>
+            </image>
+      </view>
+   </variant>
+   <variant name="basic-grid,carousel-boxart">
+      <view name="gamelist">
+            <image name="dg-glass">
+               <size>1 1</size>
+            </image>
+      </view>
+   </variant>
+   <variant name="basic-grid-help-off">
+      <view name="gamelist">
+            <image name="dg-glass">
+               <cropPos>0.5 0</cropPos>
+               <cropSize>1 0.5</cropSize>
+            </image>
+      </view>
+   </variant>
+   <!--   ///   Gamelist View: Textlist   ///   -->
+
+   <variant name="textlist">
+
+      <include>./textlist.xml</include>
+
+      <view name="gamelist">
+            <textlist name="game-list">
+               <origin>0.5 0.5</origin>
+               <size>0.39 0.741</size>
+               <pos>${textlist-x} 0.542</pos>
+               <horizontalAlignment>left</horizontalAlignment>
+               <fontPath>${fontBold}</fontPath>
+               <fontSize>${metadata-font-size}</fontSize>
+               <selectorImagePath>${selectorpath}</selectorImagePath>
+               <selectorColor>${gamelistSelectorColor}</selectorColor>
+               <selectedColor>${gamelistSelectedColor}</selectedColor>
+               <primaryColor>${gamelistPrimaryColor}</primaryColor>
+               <secondaryColor>${gamelistPrimaryColor}</secondaryColor>
+               <horizontalMargin>0.008333333333333</horizontalMargin>
+               <selectorWidth>0.39</selectorWidth>
+               <selectorHorizontalOffset>-0.001</selectorHorizontalOffset>
+               <systemNameSuffix>false</systemNameSuffix>
+               <lineSpacing>${textlist-line-spacing}</lineSpacing>
+               <zIndex>4</zIndex>
+            </textlist>
+      </view>
+   </variant>
+
+   <!--   ///   Gamelist View: Carousel Marquee (Shares Textlist Metadata)  ///   -->
+
+   <variant name="carousel-marquee">
+
+      <include>./textlist.xml</include>
+
+      <view name="gamelist">
+            <carousel name="gamelistCarousel">          
+                  <type>vertical</type>
+                  <origin>0.5 0.5</origin>
+                  <size>0.39 0.775</size>
+                  <pos>${textlist-x} 0.542</pos>
+                  <imageType>marquee</imageType>
+                  <itemScale>1.4</itemScale>
+                  <itemSize>${carousel-item-size}</itemSize>
+                  <itemRotation>7</itemRotation>
+                  <imageInterpolation>linear</imageInterpolation>
+                  <fastScrolling>true</fastScrolling>
+                  <color>00000000</color>
+                  <textColor>${gamelistPrimaryColor}</textColor>
+                  <letterCase>uppercase</letterCase>
+                  <lineSpacing>1.2</lineSpacing>
+                  <unfocusedItemDimming>0.8</unfocusedItemDimming>
+                  <maxItemCount>${carousel-item-count}</maxItemCount>
+                  <zIndex>6</zIndex>
+            </carousel>            
+            <image name="textlist-glass">
+               <opacity>1</opacity>
+            </image>
+      </view>
+
+         <fontSize name="small">
+            <variables>
+               <carousel-item-size>0.15 0.1</carousel-item-size>
+               <carousel-item-count>6</carousel-item-count>
+            </variables>
+         </fontSize>
+         <fontSize name="medium">
+            <variables>
+               <carousel-item-size>0.2 0.125</carousel-item-size>
+               <carousel-item-count>5</carousel-item-count>
+            </variables>
+         </fontSize>
+         <fontSize name="large">
+            <variables>
+               <carousel-item-size>0.25 0.16</carousel-item-size>
+               <carousel-item-count>3.75</carousel-item-count>
+            </variables>
+         </fontSize>
+         <fontSize name="x-large">
+            <variables>
+               <carousel-item-size>0.25 0.18</carousel-item-size>
+               <carousel-item-count>3</carousel-item-count>
+            </variables>
+         </fontSize>
+   </variant>
+
+
+   <!--   ///   Gamelist View: Boxart Carousel  ///   -->
+
+   <variant name="carousel-boxart">
+
+      <include>./_inc/coversize-boxart-carousel-variables/${systemCoverSize}.xml</include>
+      <include>./carousel-boxart.xml</include>
+
+   </variant>
+
+   <!--   ///   Gamelist View: Detailed-Grid Variants  ///   -->
+
+   <variant name="detailed-grid,detailed-grid-help-off">
+
+      <include>./_inc/coversize-detailed-grid-variables/${systemCoverSize}.xml</include>
+      <include>./detailed-grid.xml</include>
+
+      <!--   Blur/Postioning Variation   -->
+
+      <view name="gamelist">
+ 
+            <image name="metadata-glass">
+               <pos>${dg-metadata-pos} 0.5</pos>
+            </image>
+            <image name="blur-right">
+               <origin>0 0</origin>
+               <pos>${dg-right-blur-x} 0.152</pos>
+               <cropSize>${right-blur-crop-w} 0.7783333</cropSize>
+               <cropPos>${dg-right-blur-crop-x} 0.5</cropPos>             
+               <zIndex>3</zIndex>
+               <interpolation>linear</interpolation>
+               <cornerRadius>${blur-radius}</cornerRadius>
+               <path>${gamelistBlurStripPath}.webp</path>
+            </image>
+      </view>
+      
+   </variant>
+    <variant name="detailed-grid">
+         <view name="gamelist">
+             <image name="dg-glass">
+               <origin>0 1</origin>
+               <pos>0 1</pos>
+               <cropSize>1 0.5</cropSize>
+               <cropPos>0.5 1</cropPos>
+               <path>./_inc/glass/${dg-glass}-basic-${shade}.webp</path>
+               <zIndex>3</zIndex>
+               <interpolation>linear</interpolation>
+               <color>FFFFFF</color>
+               <opacity>0.5</opacity>
+            </image>
+            <grid name="grid">
+               <size>0.56 0.942</size>
+            </grid>
+      </view>
+   </variant>
+   <variant name="detailed-grid-help-off">
+      <view name="gamelist">
+             <grid name="grid">
+               <size>0.56 1</size>
+            </grid>
+      </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View: Basic-Grid
+   ///
+   -->
+
+   <variant name="basic-grid,basic-grid-help-off">
+
+      <include>./_inc/coversize-basic-grid-variables/${systemCoverSize}.xml</include>
+      <include>./basic-grid.xml</include>
+
+   </variant>
+
+   <variant name="basic-grid">
+
+         <view name="gamelist">
+               <grid name="grid">
+                     <size>0.98 0.786</size>
+            </grid>
+         </view>
+   </variant>
+   <variant name="basic-grid-help-off">
+
+         <view name="gamelist">
+               <grid name="grid">
+                     <size>0.98 0.8458</size>
+            </grid>
+         </view>
+   </variant>
+
+   <!--
+   ///
+   Gamelist View: Help Off Variants
+   ///
+   -->
+   <variant name="detailed-grid-help-off,basic-grid-help-off">
+         <view name="gamelist">
+            <helpsystem name="help">
+               <pos>0.5 1.5</pos>
+            </helpsystem>
+         </view>
+   </variant>
+
+   <!--
+   ///
+   Sounds
+   ///
+   -->
+   <view name="all">
+      <sound name="systembrowse">
+         <path>./_inc/sounds/systembrowse.wav</path>
+      </sound>
+      <sound name="quicksysselect">
+         <path>./_inc/sounds/quicksysselect.wav</path>
+      </sound>
+      <sound name="select">
+         <path>./_inc/sounds/select.wav</path>
+      </sound>
+      <sound name="back">
+         <path>./_inc/sounds/back.wav</path>
+      </sound>
+      <sound name="scroll">
+         <path>./_inc/sounds/scroll.wav</path>
+      </sound>
+      <sound name="favorite">
+         <path>./_inc/sounds/favorite.wav</path>
+      </sound>
+      <sound name="launch">
+         <path>./_inc/sounds/launch.wav</path>
+      </sound>
+   </view>
+	
+</theme>
