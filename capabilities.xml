@@ -23,12 +23,12 @@
    <fontSize>x-large</fontSize>
 
 
-   <colorScheme name="art-dark-glass">
-      <label>Dark Glass (Art)</label>
-   </colorScheme> 
    <colorScheme name="art-light-glass">
       <label>Light Glass (Art)</label>
    </colorScheme>  
+   <colorScheme name="art-dark-glass">
+      <label>Dark Glass (Art)</label>
+   </colorScheme> 
    <colorScheme name="art-purple">
       <label>Purple (Art)</label>
    </colorScheme>  
@@ -77,12 +77,12 @@
    <colorScheme name="controller-grid-orange">
       <label>[Grid] Orange (Controller)</label>
    </colorScheme>
-   <colorScheme name="fs-art-dark-glass">
-      <label>[Fullscreen] Dark Glass (Art)</label>
-   </colorScheme> 
    <colorScheme name="fs-art-light-glass">
       <label>[Fullscreen] Light Glass (Art)</label>
    </colorScheme>
+   <colorScheme name="fs-art-dark-glass">
+      <label>[Fullscreen] Dark Glass (Art)</label>
+   </colorScheme> 
    <colorScheme name="fs-logo-purple">
       <label>[Fullscreen] Purple (Logo)</label>
    </colorScheme>  
