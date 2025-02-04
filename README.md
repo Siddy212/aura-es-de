@@ -1,11 +1,13 @@
 # Aura (ES-DE Version)
-Aura is a theme for EmulationStation-DE theme that aims to provide a modern and easy to use interface styled after glass designs.
+Aura is a theme for EmulationStation-DE theme that aims to provide a modern and easy to use interface styled after glass design trends.
 
 ## **Preview**
 
 | System View | Gamelist View |
 | --- | --- |
-|||
+|![Screenshot 2025-02-03 204758](https://github.com/user-attachments/assets/46c73bc4-44e1-47fd-aee6-bfe8770c6c03)|![Screenshot 2025-02-03 204802](https://github.com/user-attachments/assets/ec9957d8-509d-4bdc-a06a-3f8e19fd53fa)|
+|![Screenshot 2025-02-03 204737](https://github.com/user-attachments/assets/563dc116-3681-4f31-82e8-5ac102fc880e)|![Screenshot 2025-02-03 204819](https://github.com/user-attachments/assets/1e09be39-498e-4123-b788-61a64251ce2e)|
+|![Screenshot 2025-02-03 205610](https://github.com/user-attachments/assets/8d6ab472-cf23-4563-8b51-d16650189183)|![Screenshot 2025-02-03 205617](https://github.com/user-attachments/assets/b95b8e4f-ed03-4cdc-8d8a-e1a6e725eced)|
 
 
 
@@ -53,10 +55,6 @@ Aura is a theme for EmulationStation-DE theme that aims to provide a modern and 
 
 | Color | Variant | SystemView | GamelistView |
 | :---: | :---: | :---: | :---: |
-|Retro|[Grid] Grid: Simple|![MainRetro](https://github.com/Siddy212/canvas-es-de/assets/60283021/ffa38fa6-6aba-4563-a007-65621c5585a6)|![GameRetroLarge](https://github.com/Siddy212/canvas-es-de/assets/60283021/efd77be4-7e98-4e46-a4e8-8ad694df7f8f)|
-|[Icon] Dark| [Carousel] Textlist|![MainDarkIcon](https://github.com/Siddy212/canvas-es-de/assets/60283021/1a0442fc-dccc-4113-a394-5a70b58925d0)|![GameDark](https://github.com/Siddy212/canvas-es-de/assets/60283021/128df83f-62c2-4a00-be07-bcd1d125d219)|
-|[Screenshots] Sony| [Grid] Grid: Detailed - Flipped|![CanvasSonyScreenshots](https://github.com/user-attachments/assets/e6c4b68f-2091-4708-a5b6-89dbd728f373)|![CanvasSonyGrid-Detailed-Flipped](https://github.com/user-attachments/assets/bc661fb1-6e29-4cf0-8a4f-5e8e987ac9a6)|
-|[Capsule] Light| [Grid] Carousel|![CanvasLightCapsule](https://github.com/user-attachments/assets/36b69bc1-67f0-43a6-bbba-d605e5688a0d)|![CanvasLightCarousel](https://github.com/user-attachments/assets/2159c21e-d007-4987-83f7-99cd524877ce)|
 
 
 ### Preview of Font Sizes 
