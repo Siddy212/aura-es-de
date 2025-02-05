@@ -94,7 +94,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -231,7 +231,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -368,7 +368,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -505,7 +505,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -642,7 +642,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -779,7 +779,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -916,7 +916,7 @@
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-extended</metadata-background>
-                                        <desc-line-spacing>1.65</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
                             </variables>
                     </fontSize>
                    <fontSize name="large">

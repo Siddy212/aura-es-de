@@ -4,14 +4,14 @@
       </variables>
 
 
-   <colorScheme name="art-light-glass,art-dark-glass,art-purple,art-blue,art-green,art-orange,art-black,art-colorful">
+   <colorScheme name="art-light-glass,art-dark-glass,art-purple,art-blue,art-green,art-orange,art-black">
          <variables>
             <carouselArtPath>./_inc/default-art/${system.theme}/${system.theme}</carouselArtPath>
             <gridImagePath>./_inc/default-art/${system.theme}/${system.theme}</gridImagePath>
             <selectorImagePath>./_inc/coversize-selector/system-art.webp</selectorImagePath>
          </variables>
    </colorScheme>   
-   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black,logo-colorful">
+   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black">
          <variables>
             <carouselArtPath>./_inc/controllers/${system.theme}</carouselArtPath>
             <gridImagePath>./_inc/controllers/${system.theme}</gridImagePath>
@@ -45,13 +45,17 @@
          <variables>
             <wallpaper>black</wallpaper>      
          </variables>
-   </colorScheme>
-   <colorScheme name="art-colorful,logo-colorful">
-         <variables>
-            <wallpaper>colorful</wallpaper>      
-         </variables>
-   </colorScheme>
-
+   </colorScheme>   
+   <colorScheme name="art-light-glass">
+      <variables>
+         <backgroundBrightness>0.5</backgroundBrightness>
+      </variables>
+   </colorScheme>    
+   <colorScheme name="art-dark-glass">
+      <variables>
+         <backgroundBrightness>-0.5</backgroundBrightness>
+      </variables>
+   </colorScheme>   
 
 
    <colorScheme name="art-light-glass,art-dark-glass">
@@ -61,22 +65,10 @@
          <gamelistBlurStripPath>./_inc/default-art/${system.theme}/${system.theme}-blur-strip-w-char</gamelistBlurStripPath>
          <gamelistBlurFullPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-w-char</gamelistBlurFullPath>
          <gradientSwitch>true</gradientSwitch>
-         <backgroundBrightness>-0.5</backgroundBrightness>
          <fullscreen-style>system-fullscreen-art-glass</fullscreen-style>
       </variables>
    </colorScheme>       
-   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black,art-colorful">
-      <variables>
-         <systemBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</systemBackgroundPath>
-         <gamelistBackgroundPath>./_inc/default-art/${system.theme}/${system.theme}-clear-full-w-char</gamelistBackgroundPath>
-         <gamelistBlurStripPath>./_inc/default-art/${system.theme}/${system.theme}-blur-strip-w-char</gamelistBlurStripPath>
-         <gamelistBlurFullPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-w-char</gamelistBlurFullPath>
-         <gradientSwitch>false</gradientSwitch>
-         <backgroundBrightness>0</backgroundBrightness>
-         <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
-      </variables>
-   </colorScheme>     
-   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black,logo-colorful">
+   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black,logo-purple,logo-blue,logo-green,logo-orange,logo-black">
       <variables>
          <systemBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</systemBackgroundPath>
          <gamelistBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</gamelistBackgroundPath>
@@ -84,13 +76,23 @@
          <gamelistBlurFullPath>./_inc/wallpaper/${wallpaper}/${wallpaper}-blur-full</gamelistBlurFullPath>
          <gradientSwitch>false</gradientSwitch>
          <backgroundBrightness>0</backgroundBrightness>
+         <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
+      </variables>
+   </colorScheme>         
+   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black">
+      <variables>
+         <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
+      </variables>
+   </colorScheme>   
+   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black">
+      <variables>
          <fullscreen-style>system-fullscreen-logo</fullscreen-style>
       </variables>
    </colorScheme>    
 
    
    <!--     Light Color Schemes     -->
-   <colorScheme name="art-light-glass,art-blue,logo-blue,art-orange,logo-orange,art-colorful,logo-colorful">
+   <colorScheme name="art-light-glass,art-blue,logo-blue,art-orange,logo-orange">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>373737</backgroundColor>
@@ -129,7 +131,6 @@
          <gridNameColor>555555</gridNameColor>
          <shade>dark</shade>
          <brightnessfactor>-0.2</brightnessfactor>
-         <brightnessfactorlarge>-0.6</brightnessfactorlarge>
       </variables>
    </colorScheme>  
    

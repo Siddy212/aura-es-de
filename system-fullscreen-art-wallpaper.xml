@@ -4,36 +4,37 @@
 
          <view name="system">
                 <carousel name="system-carousel">
-                  <staticImage>${gamelistBackgroundPath}.webp</staticImage>
+                  <staticImage>./_inc/default-art/${system.theme}/${system.theme}-clear-full-w-char.webp</staticImage>
                   <imageFit>cover</imageFit>
-                  <origin>0.5 0.5</origin>
-                  <size>1 1</size>
+                  <origin>0.5 0</origin>
+                  <size>1 0.8</size>
                   <type>horizontalWheel</type>
                   <itemAxisHorizontal>true</itemAxisHorizontal>
                   <itemRotation>0</itemRotation>
-                  <pos>0.5 0.5</pos>
+                  <pos>0.5 0</pos>
                   <itemScale>1</itemScale>
                   <imageGradientType>vertical</imageGradientType>
                   <itemStacking>centered</itemStacking>
                   <unfocusedItemOpacity>0.1</unfocusedItemOpacity>
                   <unfocusedItemDimming>1</unfocusedItemDimming>
                   <horizontalOffset>0</horizontalOffset>
-                  <imageCornerRadius>0.005</imageCornerRadius>
+                  <imageCornerRadius>0</imageCornerRadius>
                   <text>${system.fullName}</text>
                   <textColor>${systemInfoColor}</textColor>
-                  <textBackgroundColor>${systemCarouselTextBackgroundColor}</textBackgroundColor>
+                  <textBackgroundColor>FFFFFFAA</textBackgroundColor>
                   <textRelativeScale>0.8</textRelativeScale>
                   <selectedItemMargins>0 0</selectedItemMargins>
                   <lineSpacing>1.2</lineSpacing>
                   <fontPath>${fontBold}</fontPath>
                   <letterCase>uppercase</letterCase>
                   <fastScrolling>false</fastScrolling>
-                  <zIndex>1</zIndex>            
-                  <itemSize>1 1</itemSize>
+                  <zIndex>3</zIndex>            
+                  <itemSize>1 0.8</itemSize>
                   <fontSize>${base-font-size}</fontSize>
                   <itemVerticalAlignment>center</itemVerticalAlignment>
                   <itemsBeforeCenter>0</itemsBeforeCenter>
                   <itemsAfterCenter>0</itemsAfterCenter>
+                  <color>00000000</color>
                </carousel>                
                <image name="system-logo-main">
                      <pos>0.5 0.85</pos>
@@ -43,49 +44,30 @@
                      <path>${systemlogoArtPath}</path>
                      <color>${systemInfoColor}</color>
                      <zIndex>10</zIndex>
-                  </image>         
+                  </image>  
                <image name="background-art-gradient-bottom">
-                     <size>1 0.5</size>
-                     <opacity>0</opacity>
-                  </image>
-      </view>
-         <view name="system,gamelist">
-               <image name="system-background">
+                  <size>1 0.5</size>
+                  <opacity>0.5</opacity>
+                  <visible>${gradientSwitch}</visible>
+               </image>       
+               <image name="system-background-overlay,system-background-overlay-2,system-background-overlay-3,system-background-overlay-4,system-background-overlay-5">
                   <origin>0.5 1</origin>
-                  <cropSize>1 0.5</cropSize>
+                  <cropPos>0.5 1</cropPos>
+                  <cropSize>1 0.4</cropSize>
                   <pos>0.5 1</pos>
-                  <interpolation>linear</interpolation>
+                  <path>${systemBackgroundPath}.webp</path>
+                  <zIndex>5</zIndex>
+                  <color>00000000</color>
+                  <colorEnd>FFFFFFFF</colorEnd>
                   <gradientType>vertical</gradientType>
-                  <colorEnd>FFFFFFFF</colorEnd>
+                  <opacity>1</opacity>
+                  <rotation>0</rotation>
+                  <visible>true</visible>
+               </image>
+               <image name="system-background">
                   <color>00000000</color>
-                  <zIndex>2</zIndex>
-                  <opacity>1</opacity>
-                  <path>${systemBackgroundPath}.webp</path>
-               </image>
-               <image name="system-background-left">
-                  <origin>0 0.5</origin>
-                  <cropSize>0.4 1</cropSize>
-                  <pos>0 0.5</pos>
-                  <interpolation>linear</interpolation>
-                  <gradientType>horizontal</gradientType>
-                  <color>FFFFFFFF</color>
-                  <colorEnd>00000000</colorEnd>
-                  <zIndex>2</zIndex>
-                  <opacity>1</opacity>
-                  <path>${systemBackgroundPath}.webp</path>
-               </image>
-               <image name="system-background-right">
-                  <origin>1 0.5</origin>
-                  <cropSize>0.4 1</cropSize>
-                  <pos>1 0.5</pos>
-                  <interpolation>linear</interpolation>
-                  <gradientType>horizontal</gradientType>
-                  <colorEnd>FFFFFFFF</colorEnd>
-                  <color>00000000</color>
-                  <zIndex>2</zIndex>
-                  <opacity>1</opacity>
-                  <path>${systemBackgroundPath}.webp</path>
-               </image>
+               </image> 
       </view>
+
 
 </theme>

@@ -33,10 +33,17 @@
                   <textRelativeScale>0.7</textRelativeScale>
                   <imageFit>cover</imageFit>
             </grid>             
-               <image name="background-art-gradient-bottom">
-                     <size>1 0.5</size>
-                     <opacity>0</opacity>
-                  </image>
+            <image name="background-art-gradient-bottom">
+                  <origin>0.5 0.5</origin>
+                  <size>1 1</size>
+                  <pos>0.5 0.5</pos>
+                  <path>./_inc/glass/system-panel-${shade}.webp</path>
+                  <zIndex>3</zIndex>
+                  <opacity>1</opacity>
+                  <rotation>0</rotation>
+                  <visible>${gradientSwitch}</visible>
+                  <brightness>${backgroundBrightness}</brightness>
+            </image>
              <image name="system-background">
                   <brightness>${backgroundBrightness}</brightness>
             </image> 

@@ -43,10 +43,7 @@
    </colorScheme>  
    <colorScheme name="art-black">
       <label>[Art] Black</label>
-   </colorScheme>  
-   <colorScheme name="art-colorful">
-      <label>[Art] Colorful</label>
-   </colorScheme>  
+   </colorScheme>   
    <colorScheme name="logo-purple">
       <label>[Logo] Purple</label>
    </colorScheme>  
@@ -61,9 +58,6 @@
    </colorScheme>
    <colorScheme name="logo-black">
       <label>[Logo] Black</label>
-   </colorScheme>
-   <colorScheme name="logo-colorful">
-      <label>[Logo] Colorful</label>
    </colorScheme>
 
    <transitions name="transitions">
