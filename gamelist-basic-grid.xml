@@ -6,7 +6,7 @@
    ///
    -->
 
-      <include>~/ES-DE/themes/aura-es-de/_inc/coversize-basic-grid-variables/${systemCoverSize}.xml</include>
+      <include>./_inc/coversize-basic-grid-variables/${systemCoverSize}.xml</include>
 
       <view name="gamelist">
          <image name="system-logo-main">
@@ -26,7 +26,7 @@
                <size>0.98 0.786</size>
                <itemScale>1.04</itemScale>
                <imageType>cover</imageType>
-               <selectorImage>~/ES-DE/themes/aura-es-de/_inc/coversize-selector/${systemCoverSize}.svg</selectorImage>
+               <selectorImage>./_inc/coversize-selector/${systemCoverSize}.svg</selectorImage>
                <itemSize>${item-w-full} ${item-h-full}</itemSize>
                <imageRelativeScale>0.95</imageRelativeScale>
                <textRelativeScale>0.85</textRelativeScale>
@@ -47,7 +47,7 @@
                <fractionalRows>true</fractionalRows>
                <scaleInwards>true</scaleInwards>
                <backgroundRelativeScale>0.98</backgroundRelativeScale>
-               <backgroundImage>~/ES-DE/themes/aura-es-de/_inc/coversize-shadow/${systemCoverSize}.webp</backgroundImage>
+               <backgroundImage>./_inc/coversize-shadow/${systemCoverSize}.webp</backgroundImage>
          </grid>
 
          <badges name="badges">
