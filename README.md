@@ -25,8 +25,8 @@ Aura is a theme for EmulationStation-DE theme that aims to provide a modern and 
    - `21:9`
    - `3:2`
      
-- `Theme Variant` - Aura features 6 variants of gamelist views. Additionally, two styles of system logos are available: Art or Icons. All variants will scale the size of the gamelist and the amount of metadata shown based on the selected font size. `Large` and `X-Large` will reduce metadata shown on all screens:
-  
+- `Theme Variant` - Aura features 7 variants of gamelist views with 3 system view variations (Carousel/Grid/Fullscreen). All variants will scale the size of the gamelist and the amount of metadata shown based on the selected font size. `Large` and `X-Large` will reduce metadata shown on some screens:
+
    - `Textlist` - A simple text list of games and metadata on the right.
   
    - `Detailed-Grid` - A grid of boxart and detailed metadata on the right for games.
@@ -42,7 +42,7 @@ Aura is a theme for EmulationStation-DE theme that aims to provide a modern and 
    - `Carousel-Boxart` - A horizontal carousel of game covers and minimal metadata.
    
 
-- `Theme Color Scheme` - `Art/Icon/Capsule/Screenshots` There are 22 color schemes to choose from within Aura. These include different system views of a default carousel, a grid, or a full-screen view. There are also character art, controller, or logo variations. 
+- `Theme Color Scheme` - `Art/Icon` There are 12 color schemes to choose from within Aura. These include 6 art variants and 6 icon variants. 
 
  
 - `Theme Font Size` - enables you to change the size of the fonts displayed in the theme. It will also scale the size of the grid and carousel.

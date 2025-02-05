@@ -24,76 +24,46 @@
 
 
    <colorScheme name="art-light-glass">
-      <label>Light Glass (Art)</label>
+      <label>[Art] Light Glass</label>
    </colorScheme>  
    <colorScheme name="art-dark-glass">
-      <label>Dark Glass (Art)</label>
+      <label>[Art] Dark Glass</label>
    </colorScheme> 
    <colorScheme name="art-purple">
-      <label>Purple (Art)</label>
+      <label>[Art] Purple</label>
    </colorScheme>  
    <colorScheme name="art-blue">
-      <label>Blue (Art)</label>
+      <label>[Art] Blue</label>
    </colorScheme>
    <colorScheme name="art-green">
-      <label>Green (Art)</label>
+      <label>[Art] Green</label>
    </colorScheme>
    <colorScheme name="art-orange">
-      <label>Orange (Art)</label>
+      <label>[Art] Orange</label>
    </colorScheme>  
-   <colorScheme name="controller-purple">
-      <label>Purple (Controller)</label>
+   <colorScheme name="art-black">
+      <label>[Art] Black</label>
    </colorScheme>  
-   <colorScheme name="controller-blue">
-      <label>Blue (Controller)</label>
-   </colorScheme>
-   <colorScheme name="controller-green">
-      <label>Green (Controller)</label>
-   </colorScheme>
-   <colorScheme name="controller-orange">
-      <label>Orange (Controller)</label>
-   </colorScheme>
-   <colorScheme name="art-grid-purple">
-      <label>[Grid] Purple (Art)</label>
+   <colorScheme name="art-colorful">
+      <label>[Art] Colorful</label>
    </colorScheme>  
-   <colorScheme name="art-grid-blue">
-      <label>[Grid] Blue (Art)</label>
-   </colorScheme>
-   <colorScheme name="art-grid-green">
-      <label>[Grid] Green (Art)</label>
-   </colorScheme>
-   <colorScheme name="art-grid-orange">
-      <label>[Grid] Orange (Art)</label>
-   </colorScheme>
-   <colorScheme name="controller-grid-purple">
-      <label>[Grid] Purple (Controller)</label>
+   <colorScheme name="logo-purple">
+      <label>[Logo] Purple</label>
    </colorScheme>  
-   <colorScheme name="controller-grid-blue">
-      <label>[Grid] Blue (Controller)</label>
+   <colorScheme name="logo-blue">
+      <label>[Logo] Blue</label>
    </colorScheme>
-   <colorScheme name="controller-grid-green">
-      <label>[Grid] Green (Controller)</label>
+   <colorScheme name="logo-green">
+      <label>[Logo] Green</label>
    </colorScheme>
-   <colorScheme name="controller-grid-orange">
-      <label>[Grid] Orange (Controller)</label>
+   <colorScheme name="logo-orange">
+      <label>[Logo] Orange</label>
    </colorScheme>
-   <colorScheme name="fs-art-light-glass">
-      <label>[Fullscreen] Light Glass (Art)</label>
+   <colorScheme name="logo-black">
+      <label>[Logo] Black</label>
    </colorScheme>
-   <colorScheme name="fs-art-dark-glass">
-      <label>[Fullscreen] Dark Glass (Art)</label>
-   </colorScheme> 
-   <colorScheme name="fs-logo-purple">
-      <label>[Fullscreen] Purple (Logo)</label>
-   </colorScheme>  
-   <colorScheme name="fs-logo-blue">
-      <label>[Fullscreen] Blue (Logo)</label>
-   </colorScheme>  
-   <colorScheme name="fs-logo-green">
-      <label>[Fullscreen] Green (Logo)</label>
-   </colorScheme>  
-   <colorScheme name="fs-logo-orange">
-      <label>[Fullscreen] Orange (Logo)</label>
+   <colorScheme name="logo-colorful">
+      <label>[Logo] Colorful</label>
    </colorScheme>
 
    <transitions name="transitions">
@@ -112,32 +82,92 @@
       <entry>builtin-fade</entry>
    </suppressTransitionProfiles>
 
-   <variant name="textlist">
-      <label>Textlist</label>
+   <variant name="carousel-textlist">
+      <label>[Carousel] Textlist</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="detailed-grid">
-      <label>Detailed-Grid</label>
+   <variant name="carousel-detailed-grid">
+      <label>[Carousel] Detailed-Grid</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="detailed-grid-help-off">
-      <label>Detailed-Grid (Help Off)</label>
+   <variant name="carousel-detailed-grid-help-off">
+      <label>[Carousel] Detailed-Grid (Help Off)</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="basic-grid">
-      <label>Basic-Grid</label>
+   <variant name="carousel-basic-grid">
+      <label>[Carousel] Basic-Grid</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="basic-grid-help-off">
-      <label>Basic-Grid (Help Off)</label>
+   <variant name="carousel-basic-grid-help-off">
+      <label>[Carousel] Basic-Grid (Help Off)</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="carousel-marquee">
-      <label>Carousel-Marquee</label>
+   <variant name="carousel-carousel-marquee">
+      <label>[Carousel] Carousel-Marquee</label>
       <selectable>true</selectable>
    </variant>
-   <variant name="carousel-boxart">
-      <label>Carousel-Boxart</label>
+   <variant name="carousel-carousel-boxart">
+      <label>[Carousel] Carousel-Boxart</label>
       <selectable>true</selectable>
    </variant>
+
+   <variant name="fullscreen-textlist">
+      <label>[Fullscreen] Textlist</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="fullscreen-detailed-grid">
+      <label>[Fullscreen] Detailed-Grid</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="fullscreen-detailed-grid-help-off">
+      <label>[Fullscreen] Detailed-Grid (Help Off)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="fullscreen-basic-grid">
+      <label>[Fullscreen] Basic-Grid</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="fullscreen-basic-grid-help-off">
+      <label>[Fullscreen] Basic-Grid (Help Off)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="fullscreen-carousel-marquee">
+      <label>[Fullscreen] Carousel-Marquee</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="fullscreen-carousel-boxart">
+      <label>[Fullscreen] Carousel-Boxart</label>
+      <selectable>true</selectable>
+   </variant>
+
+   <variant name="grid-textlist">
+      <label>[Grid] Textlist</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-detailed-grid">
+      <label>[Grid] Detailed-Grid</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-detailed-grid-help-off">
+      <label>[Grid] Detailed-Grid (Help Off)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-basic-grid">
+      <label>[Grid] Basic-Grid</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-basic-grid-help-off">
+      <label>[Grid] Basic-Grid (Help Off)</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-carousel-marquee">
+      <label>[Grid] Carousel-Marquee</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-carousel-boxart">
+      <label>[Grid] Carousel-Boxart</label>
+      <selectable>true</selectable>
+   </variant>
+
+
 </themeCapabilities>

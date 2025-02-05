@@ -169,8 +169,36 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                   </text>
                </view>
 
-   <include>./${systemViewStyle}.xml</include>
 
+   <variant name="
+         carousel-textlist,
+         carousel-detailed-grid,
+         carousel-detailed-grid-help-off,
+         carousel-basic-grid,
+         carousel-basic-grid-help-off,
+         carousel-carousel-marquee">
+      <include>./system-carousel.xml</include>
+   </variant>
+
+   <variant name="
+         fullscreen-textlist,
+         fullscreen-detailed-grid,
+         fullscreen-detailed-grid-help-off,
+         fullscreen-basic-grid,
+         fullscreen-basic-grid-help-off,
+         fullscreen-carousel-marquee">
+      <include>./${fullscreen-style}.xml</include>
+   </variant>
+
+   <variant name="
+         grid-textlist,
+         grid-detailed-grid,
+         grid-detailed-grid-help-off,
+         grid-basic-grid,
+         grid-basic-grid-help-off,
+         grid-carousel-marquee">
+      <include>./system-grid.xml</include>
+   </variant>
    <!--
    ///
    Gamelist View: Defaults
@@ -284,7 +312,13 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                </variables>
             </fontSize>
 
-            <variant name="detailed-grid,detailed-grid-help-off,carousel-marquee">
+            <variant name="carousel-detailed-grid,fullscreen-detailed-grid,grid-detailed-grid,carousel-detailed-grid-help-off,fullscreen-detailed-grid-help-off,grid-detailed-grid-help-off,carousel-carousel-marquee,fullscreen-carousel-marquee,grid-carousel-marquee">
+
+               <fontSize name="small,medium,large">
+                  <variables>
+                     <scaledimagetype>miximage, screenshot</scaledimagetype>
+                  </variables>
+               </fontSize>               
                <fontSize name="x-large">
                   <variables>
                      <scaledimagetype>screenshot, cover</scaledimagetype>
@@ -298,7 +332,18 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Glass/Blur: Variations with metadata   ///   -->
 
-   <variant name="textlist,carousel-marquee,detailed-grid,detailed-grid-help-off">
+   <variant name="carousel-textlist,
+                  fullscreen-textlist,
+                  grid-textlist,
+                  carousel-carousel-marquee,
+                  fullscreen-carousel-marquee,
+                  grid-carousel-marquee,
+                  carousel-detailed-grid,
+                  fullscreen-detailed-grid,
+                  grid-detailed-grid,
+                  carousel-detailed-grid-help-off,
+                  fullscreen-detailed-grid-help-off,
+                  grid-detailed-grid-help-off">
     <view name="gamelist">
             <image name="metadata-glass">
                <origin>1 0.5</origin>
@@ -316,7 +361,12 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Glass/Blur: Variations with symmetry   ///   -->
 
-   <variant name="textlist,carousel-marquee">
+   <variant name="carousel-textlist,
+                  fullscreen-textlist,
+                  grid-textlist,
+                  carousel-carousel-marquee,
+                  fullscreen-carousel-marquee,
+                  grid-carousel-marquee">
       <view name="gamelist">
             <image name="textlist-glass">
                <origin>0 0.5</origin>
@@ -354,7 +404,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Glass/Blur: Variations with bottom bar blur  ///   -->
 
-   <variant name="detailed-grid,basic-grid,carousel-boxart">
+   <variant name="carousel-detailed-grid,fullscreen-detailed-grid,grid-detailed-grid,carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
       <view name="gamelist">
             <image name="blur-bottom">            
                <origin>0.5 1</origin>
@@ -372,7 +422,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    </variant>
    <!--   ///   Glass/Blur: Variations with full-screen  ///   -->
 
-   <variant name="basic-grid,basic-grid-help-off,carousel-boxart">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
       <view name="gamelist">
             <image name="blur-top">
                <origin>0.5 0</origin>
@@ -401,14 +451,14 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             </image>
       </view>
    </variant>
-   <variant name="basic-grid,carousel-boxart">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
       <view name="gamelist">
             <image name="dg-glass">
                <size>1 1</size>
             </image>
       </view>
    </variant>
-   <variant name="basic-grid-help-off">
+   <variant name="carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
       <view name="gamelist">
             <image name="dg-glass">
                <cropPos>0.5 0</cropPos>
@@ -418,9 +468,9 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    </variant>
    <!--   ///   Gamelist View: Textlist   ///   -->
 
-   <variant name="textlist">
+   <variant name="carousel-textlist,fullscreen-textlist,grid-textlist">
 
-      <include>./textlist.xml</include>
+      <include>./gamelist-textlist.xml</include>
 
       <view name="gamelist">
             <textlist name="game-list">
@@ -447,9 +497,9 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Gamelist View: Carousel Marquee (Shares Textlist Metadata)  ///   -->
 
-   <variant name="carousel-marquee">
+   <variant name="carousel-carousel-marquee,fullscreen-carousel-marquee,grid-carousel-marquee">
 
-      <include>./textlist.xml</include>
+      <include>./gamelist-textlist.xml</include>
 
       <view name="gamelist">
             <carousel name="gamelistCarousel">          
@@ -505,24 +555,19 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Gamelist View: Boxart Carousel  ///   -->
 
-   <variant name="carousel-boxart">
-
-      <include>./_inc/coversize-boxart-carousel-variables/${systemCoverSize}.xml</include>
-      <include>./carousel-boxart.xml</include>
+   <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+      <include>./gamelist-carousel-boxart.xml</include>
 
    </variant>
 
    <!--   ///   Gamelist View: Detailed-Grid Variants  ///   -->
 
-   <variant name="detailed-grid,detailed-grid-help-off">
-
-      <include>./_inc/coversize-detailed-grid-variables/${systemCoverSize}.xml</include>
-      <include>./detailed-grid.xml</include>
+   <variant name="carousel-detailed-grid,fullscreen-detailed-grid,grid-detailed-grid,carousel-detailed-grid-help-off,fullscreen-detailed-grid-help-off,grid-detailed-grid-help-off">
+      <include>./gamelist-detailed-grid.xml</include>
 
       <!--   Blur/Postioning Variation   -->
 
       <view name="gamelist">
- 
             <image name="metadata-glass">
                <pos>${dg-metadata-pos} 0.5</pos>
             </image>
@@ -537,9 +582,10 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <path>${gamelistBlurStripPath}.webp</path>
             </image>
       </view>
-      
    </variant>
-    <variant name="detailed-grid">
+   
+   <!--   Help On   -->
+    <variant name="carousel-detailed-grid,fullscreen-detailed-grid,grid-detailed-grid">
          <view name="gamelist">
              <image name="dg-glass">
                <origin>0 1</origin>
@@ -557,7 +603,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             </grid>
       </view>
    </variant>
-   <variant name="detailed-grid-help-off">
+   <!--   Help Off   -->
+   <variant name="carousel-detailed-grid-help-off,fullscreen-detailed-grid-help-off,grid-detailed-grid-help-off">
       <view name="gamelist">
              <grid name="grid">
                <size>0.56 1</size>
@@ -571,23 +618,20 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    ///
    -->
 
-   <variant name="basic-grid,basic-grid-help-off">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
 
-      <include>./_inc/coversize-basic-grid-variables/${systemCoverSize}.xml</include>
-      <include>./basic-grid.xml</include>
+      <include>./gamelist-basic-grid.xml</include>
 
    </variant>
 
-   <variant name="basic-grid">
-
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid">
          <view name="gamelist">
                <grid name="grid">
                      <size>0.98 0.786</size>
             </grid>
          </view>
    </variant>
-   <variant name="basic-grid-help-off">
-
+   <variant name="carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
          <view name="gamelist">
                <grid name="grid">
                      <size>0.98 0.8458</size>
@@ -600,7 +644,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    Gamelist View: Help Off Variants
    ///
    -->
-   <variant name="detailed-grid-help-off,basic-grid-help-off">
+   <variant name="carousel-detailed-grid-help-off,fullscreen-detailed-grid-help-off,grid-detailed-grid-help-off,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
          <view name="gamelist">
             <helpsystem name="help">
                <pos>0.5 1.5</pos>

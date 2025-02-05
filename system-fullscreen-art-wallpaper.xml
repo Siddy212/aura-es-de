@@ -1,0 +1,91 @@
+<theme>
+
+   <!--   ///   System View: Art   ///   -->
+
+         <view name="system">
+                <carousel name="system-carousel">
+                  <staticImage>${gamelistBackgroundPath}.webp</staticImage>
+                  <imageFit>cover</imageFit>
+                  <origin>0.5 0.5</origin>
+                  <size>1 1</size>
+                  <type>horizontalWheel</type>
+                  <itemAxisHorizontal>true</itemAxisHorizontal>
+                  <itemRotation>0</itemRotation>
+                  <pos>0.5 0.5</pos>
+                  <itemScale>1</itemScale>
+                  <imageGradientType>vertical</imageGradientType>
+                  <itemStacking>centered</itemStacking>
+                  <unfocusedItemOpacity>0.1</unfocusedItemOpacity>
+                  <unfocusedItemDimming>1</unfocusedItemDimming>
+                  <horizontalOffset>0</horizontalOffset>
+                  <imageCornerRadius>0.005</imageCornerRadius>
+                  <text>${system.fullName}</text>
+                  <textColor>${systemInfoColor}</textColor>
+                  <textBackgroundColor>${systemCarouselTextBackgroundColor}</textBackgroundColor>
+                  <textRelativeScale>0.8</textRelativeScale>
+                  <selectedItemMargins>0 0</selectedItemMargins>
+                  <lineSpacing>1.2</lineSpacing>
+                  <fontPath>${fontBold}</fontPath>
+                  <letterCase>uppercase</letterCase>
+                  <fastScrolling>false</fastScrolling>
+                  <zIndex>1</zIndex>            
+                  <itemSize>1 1</itemSize>
+                  <fontSize>${base-font-size}</fontSize>
+                  <itemVerticalAlignment>center</itemVerticalAlignment>
+                  <itemsBeforeCenter>0</itemsBeforeCenter>
+                  <itemsAfterCenter>0</itemsAfterCenter>
+               </carousel>                
+               <image name="system-logo-main">
+                     <pos>0.5 0.85</pos>
+                     <opacity>1</opacity>
+                     <maxSize>0.6 0.3</maxSize>
+                     <origin>0.5 1</origin>
+                     <path>${systemlogoArtPath}</path>
+                     <color>${systemInfoColor}</color>
+                     <zIndex>10</zIndex>
+                  </image>         
+               <image name="background-art-gradient-bottom">
+                     <size>1 0.5</size>
+                     <opacity>0</opacity>
+                  </image>
+      </view>
+         <view name="system,gamelist">
+               <image name="system-background">
+                  <origin>0.5 1</origin>
+                  <cropSize>1 0.5</cropSize>
+                  <pos>0.5 1</pos>
+                  <interpolation>linear</interpolation>
+                  <gradientType>vertical</gradientType>
+                  <colorEnd>FFFFFFFF</colorEnd>
+                  <color>00000000</color>
+                  <zIndex>2</zIndex>
+                  <opacity>1</opacity>
+                  <path>${systemBackgroundPath}.webp</path>
+               </image>
+               <image name="system-background-left">
+                  <origin>0 0.5</origin>
+                  <cropSize>0.4 1</cropSize>
+                  <pos>0 0.5</pos>
+                  <interpolation>linear</interpolation>
+                  <gradientType>horizontal</gradientType>
+                  <color>FFFFFFFF</color>
+                  <colorEnd>00000000</colorEnd>
+                  <zIndex>2</zIndex>
+                  <opacity>1</opacity>
+                  <path>${systemBackgroundPath}.webp</path>
+               </image>
+               <image name="system-background-right">
+                  <origin>1 0.5</origin>
+                  <cropSize>0.4 1</cropSize>
+                  <pos>1 0.5</pos>
+                  <interpolation>linear</interpolation>
+                  <gradientType>horizontal</gradientType>
+                  <colorEnd>FFFFFFFF</colorEnd>
+                  <color>00000000</color>
+                  <zIndex>2</zIndex>
+                  <opacity>1</opacity>
+                  <path>${systemBackgroundPath}.webp</path>
+               </image>
+      </view>
+
+</theme>

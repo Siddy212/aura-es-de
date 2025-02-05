@@ -55,7 +55,7 @@
                   <interpolation>linear</interpolation>
                   <zIndex>0</zIndex>
                   <opacity>1</opacity>
-               <path>${gamelistBackgroundPath}.webp</path>
+                  <path>${gamelistBackgroundPath}.webp</path>
             </image>
       </view>
 

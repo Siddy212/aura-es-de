@@ -4,104 +4,93 @@
       </variables>
 
 
-   <colorScheme name="art-light-glass,art-dark-glass,art-purple,art-blue,art-green,art-orange">
+   <colorScheme name="art-light-glass,art-dark-glass,art-purple,art-blue,art-green,art-orange,art-black,art-colorful">
          <variables>
-         <systemViewStyle>carousel-art</systemViewStyle>
-         <carouselArtPath>./_inc/default-art/${system.theme}/${system.theme}</carouselArtPath>
+            <carouselArtPath>./_inc/default-art/${system.theme}/${system.theme}</carouselArtPath>
+            <gridImagePath>./_inc/default-art/${system.theme}/${system.theme}</gridImagePath>
+            <selectorImagePath>./_inc/coversize-selector/system-art.webp</selectorImagePath>
          </variables>
    </colorScheme>   
-   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-grid-purple,art-grid-blue,art-grid-orange,art-grid-green">
+   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black,logo-colorful">
          <variables>
-         <gradientSwitch>false</gradientSwitch>
-         </variables>
-   </colorScheme>
-   <colorScheme name="controller-purple,controller-blue,controller-green,controller-orange">
-         <variables>
-         <systemViewStyle>carousel-art</systemViewStyle>
-         <carouselArtPath>./_inc/controllers/${system.theme}</carouselArtPath>
-         <gradientSwitch>false</gradientSwitch>
-         </variables>
-   </colorScheme>
-   <colorScheme name="fs-art-light-glass,fs-art-dark-glass">
-         <variables>
-         <systemViewStyle>fullscreen-art</systemViewStyle>      
-         <carouselArtPath>./_inc/default-art/${system.theme}/${system.theme}-clear-full-w-char</carouselArtPath>
-         </variables>
-   </colorScheme>
-   <colorScheme name="fs-logo-purple,fs-logo-blue,fs-logo-orange,fs-logo-green">
-         <variables>
-         <systemViewStyle>fullscreen-solid</systemViewStyle>     
-         <gradientSwitch>false</gradientSwitch>
-         </variables>
-   </colorScheme>
-   <colorScheme name="art-grid-purple,fs-logo-purple,art-purple,controller-purple,controller-grid-purple">
-         <variables>
-         <wallpaper>purple</wallpaper>      
-         </variables>
-   </colorScheme>
-   <colorScheme name="art-grid-blue,fs-logo-blue,art-blue,controller-blue,controller-grid-blue">
-         <variables>
-         <wallpaper>blue</wallpaper>      
-         </variables>
-   </colorScheme>
-   <colorScheme name="art-grid-orange,fs-logo-orange,art-orange,controller-orange,controller-grid-orange">
-         <variables>
-         <wallpaper>orange</wallpaper>      
-         </variables>
-   </colorScheme>
-   <colorScheme name="art-grid-green,fs-logo-green,art-green,controller-green,controller-grid-green">
-         <variables>
-         <wallpaper>green</wallpaper>      
-         </variables>
-   </colorScheme>
-
-   <colorScheme name="controller-grid-purple,controller-grid-blue,controller-grid-green,controller-grid-orange">
-         <variables>
-         <systemViewStyle>grid-art</systemViewStyle>
-         <gridImagePath>./_inc/controllers/${system.theme}</gridImagePath>
-         <selectorImagePath>./_inc/coversize-selector/system-controller.webp</selectorImagePath>
-         <backgroundBrightness>0</backgroundBrightness>
-         </variables>
-   </colorScheme>
-   <colorScheme name="art-grid-purple,art-grid-blue,art-grid-orange,art-grid-green">
-         <variables>
-         <systemViewStyle>grid-art</systemViewStyle>
-         <gridImagePath>./_inc/default-art/${system.theme}/${system.theme}</gridImagePath>
-         <selectorImagePath>./_inc/coversize-selector/system-art.webp</selectorImagePath>
-         <backgroundBrightness>0</backgroundBrightness>
+            <carouselArtPath>./_inc/controllers/${system.theme}</carouselArtPath>
+            <gridImagePath>./_inc/controllers/${system.theme}</gridImagePath>
+            <selectorImagePath>./_inc/coversize-selector/system-controller.webp</selectorImagePath>
          </variables>
    </colorScheme>
 
 
-   <colorScheme name="art-light-glass,art-dark-glass,fs-art-light-glass,fs-art-dark-glass">
+
+   <colorScheme name="art-purple,logo-purple">
+         <variables>
+            <wallpaper>purple</wallpaper>      
+         </variables>
+   </colorScheme>
+   <colorScheme name="art-blue,logo-blue">
+         <variables>
+            <wallpaper>blue</wallpaper>      
+         </variables>
+   </colorScheme>
+   <colorScheme name="art-orange,logo-orange">
+         <variables>
+            <wallpaper>orange</wallpaper>      
+         </variables>
+   </colorScheme>
+   <colorScheme name="art-green,logo-green">
+         <variables>
+            <wallpaper>green</wallpaper>      
+         </variables>
+   </colorScheme>
+   <colorScheme name="art-black,logo-black">
+         <variables>
+            <wallpaper>black</wallpaper>      
+         </variables>
+   </colorScheme>
+   <colorScheme name="art-colorful,logo-colorful">
+         <variables>
+            <wallpaper>colorful</wallpaper>      
+         </variables>
+   </colorScheme>
+
+
+
+   <colorScheme name="art-light-glass,art-dark-glass">
       <variables>
          <systemBackgroundPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-no-char</systemBackgroundPath>
          <gamelistBackgroundPath>./_inc/default-art/${system.theme}/${system.theme}-clear-full-w-char</gamelistBackgroundPath>
          <gamelistBlurStripPath>./_inc/default-art/${system.theme}/${system.theme}-blur-strip-w-char</gamelistBlurStripPath>
          <gamelistBlurFullPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-w-char</gamelistBlurFullPath>
          <gradientSwitch>true</gradientSwitch>
+         <backgroundBrightness>-0.5</backgroundBrightness>
+         <fullscreen-style>system-fullscreen-art-glass</fullscreen-style>
       </variables>
    </colorScheme>       
-   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-grid-purple,art-grid-blue,art-grid-orange,art-grid-green,">
+   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black,art-colorful">
       <variables>
          <systemBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</systemBackgroundPath>
          <gamelistBackgroundPath>./_inc/default-art/${system.theme}/${system.theme}-clear-full-w-char</gamelistBackgroundPath>
          <gamelistBlurStripPath>./_inc/default-art/${system.theme}/${system.theme}-blur-strip-w-char</gamelistBlurStripPath>
          <gamelistBlurFullPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-w-char</gamelistBlurFullPath>
          <gradientSwitch>false</gradientSwitch>
+         <backgroundBrightness>0</backgroundBrightness>
+         <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
       </variables>
    </colorScheme>     
-   <colorScheme name="controller-purple,controller-grid-purple,controller-blue,controller-grid-blue,controller-green,controller-grid-green,controller-orange,controller-grid-orange,fs-logo-purple,fs-logo-blue,fs-logo-green,fs-logo-orange">
+   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black,logo-colorful">
       <variables>
          <systemBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</systemBackgroundPath>
          <gamelistBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</gamelistBackgroundPath>
          <gamelistBlurStripPath>./_inc/wallpaper/${wallpaper}/${wallpaper}-blur-strip</gamelistBlurStripPath>
          <gamelistBlurFullPath>./_inc/wallpaper/${wallpaper}/${wallpaper}-blur-full</gamelistBlurFullPath>
          <gradientSwitch>false</gradientSwitch>
+         <backgroundBrightness>0</backgroundBrightness>
+         <fullscreen-style>system-fullscreen-logo</fullscreen-style>
       </variables>
    </colorScheme>    
 
-   <colorScheme name="art-blue,art-grid-blue,art-light-glass,fs-art-light-glass,art-orange,art-grid-orange,controller-orange,controller-grid-orange,fs-logo-orange">
+   
+   <!--     Light Color Schemes     -->
+   <colorScheme name="art-light-glass,art-blue,logo-blue,art-orange,logo-orange,art-colorful,logo-colorful">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>373737</backgroundColor>
@@ -122,28 +111,8 @@
       </variables>
    </colorScheme>    
 
-   <colorScheme name="controller-blue,controller-grid-blue,fs-logo-blue">
-      <variables>
-         <helpTextColor>FFFFFF</helpTextColor>
-         <backgroundColor>373737</backgroundColor>
-         <systemInfoColor>FFFFFF</systemInfoColor>
-         <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
-         <gridSelectorColor>FFFFFF</gridSelectorColor>
-         <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
-         <gamelistSelectorColor>555555</gamelistSelectorColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
-         <gamelistPrimaryColor>FFFFFF</gamelistPrimaryColor>
-         <gameMetadataColor>FFFFFF</gameMetadataColor>
-         <BadgeColor>FFFFFF</BadgeColor>
-         <rowBadgeColor>000000</rowBadgeColor>
-         <gridNameColor>555555</gridNameColor>
-         <shade>light</shade>
-         <brightnessfactor>0.2</brightnessfactor>
-         <brightnessfactorlarge>0.6</brightnessfactorlarge>
-      </variables>
-   </colorScheme>   
-
-   <colorScheme name="art-dark-glass,fs-art-dark-glass,art-purple,art-grid-purple,fs-logo-purple,controller-purple,controller-grid-purple,art-green,art-grid-green,controller-green,controller-grid-green,fs-logo-green">
+   <!--     Dark Color Schemes     -->
+   <colorScheme name="art-dark-glass,art-purple,logo-purple,art-green,logo-green">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>000000</backgroundColor>
@@ -161,6 +130,27 @@
          <shade>dark</shade>
          <brightnessfactor>-0.2</brightnessfactor>
          <brightnessfactorlarge>-0.6</brightnessfactorlarge>
+      </variables>
+   </colorScheme>  
+   
+   <colorScheme name="art-black,logo-black">
+      <variables>
+         <helpTextColor>FFFFFF</helpTextColor>
+         <backgroundColor>000000</backgroundColor>
+         <systemInfoColor>FFFFFF</systemInfoColor>
+         <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
+         <gridSelectorColor>000000</gridSelectorColor>
+         <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
+         <gamelistSelectorColor>222222</gamelistSelectorColor>
+         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
+         <gamelistPrimaryColor>FFFFFF</gamelistPrimaryColor>
+         <gameMetadataColor>FFFFFF</gameMetadataColor>
+         <BadgeColor>FFFFFF</BadgeColor>
+         <rowBadgeColor>FFFFFF</rowBadgeColor>
+         <gridNameColor>555555</gridNameColor>
+         <shade>dark</shade>
+         <brightnessfactor>0</brightnessfactor>
+         <brightnessfactorlarge>-0.2</brightnessfactorlarge>
       </variables>
    </colorScheme>  
 </theme>

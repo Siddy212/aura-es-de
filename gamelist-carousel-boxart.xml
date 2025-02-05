@@ -2,6 +2,8 @@
 
    <!--   ///   Gamelist View: Carousel Boxart   ///   -->
 
+      <include>~/ES-DE/themes/aura-es-de/_inc/coversize-boxart-carousel-variables/${systemCoverSize}.xml</include>
+
       <view name="gamelist">
          <image name="system-logo-main">
             <origin>0 0.5</origin>
