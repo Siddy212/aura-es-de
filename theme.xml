@@ -176,7 +176,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          carousel-detailed-grid-help-off,
          carousel-basic-grid,
          carousel-basic-grid-help-off,
-         carousel-carousel-marquee">
+         carousel-carousel-marquee,
+         carousel-carousel-boxart">
       <include>./system-carousel.xml</include>
    </variant>
 
@@ -186,7 +187,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          fullscreen-detailed-grid-help-off,
          fullscreen-basic-grid,
          fullscreen-basic-grid-help-off,
-         fullscreen-carousel-marquee">
+         fullscreen-carousel-marquee,
+         fullscreen-carousel-boxart">
       <include>./${fullscreen-style}.xml</include>
    </variant>
 
@@ -196,7 +198,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          grid-detailed-grid-help-off,
          grid-basic-grid,
          grid-basic-grid-help-off,
-         grid-carousel-marquee">
+         grid-carousel-marquee,
+         grid-carousel-boxart">
       <include>./system-grid.xml</include>
    </variant>
    <!--
