@@ -6,7 +6,7 @@
                                         <item-w-system>0.22546875</item-w-system>         
                                         <item-h-system>0.3</item-h-system>         
                                         <grid-h-system>0.9</grid-h-system>          
-                                        <grid-w-system>0.901875</grid-w-system>          
+                                        <grid-w-system>0.901975</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -15,7 +15,7 @@
                                         <item-w-system>0.3194140625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -24,7 +24,7 @@
                                         <item-w-system>0.3194140625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -33,7 +33,7 @@
                                         <item-w-system>0.3194140625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -44,7 +44,7 @@
                                         <item-w-system>0.133089192708333</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.931624348958333</grid-w-system>          
+                                        <grid-w-system>0.931724348958333</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -53,7 +53,7 @@
                                         <item-w-system>0.1996337890625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9981689453125</grid-w-system>          
+                                        <grid-w-system>0.9982689453125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -62,7 +62,7 @@
                                         <item-w-system>0.1996337890625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9981689453125</grid-w-system>          
+                                        <grid-w-system>0.9982689453125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -71,7 +71,7 @@
                                         <item-w-system>0.1996337890625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9981689453125</grid-w-system>          
+                                        <grid-w-system>0.9982689453125</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -82,7 +82,7 @@
                                         <item-w-system>0.1197802734375</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -91,7 +91,7 @@
                                         <item-w-system>0.17967041015625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.89835205078125</grid-w-system>          
+                                        <grid-w-system>0.89845205078125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -100,7 +100,7 @@
                                         <item-w-system>0.17967041015625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.89835205078125</grid-w-system>          
+                                        <grid-w-system>0.89845205078125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -109,7 +109,7 @@
                                         <item-w-system>0.17967041015625</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.89835205078125</grid-w-system>          
+                                        <grid-w-system>0.89845205078125</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -120,7 +120,7 @@
                                         <item-w-system>0.09828125</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9828125</grid-w-system>          
+                                        <grid-w-system>0.9829125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -129,7 +129,7 @@
                                         <item-w-system>0.147421875</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.88453125</grid-w-system>          
+                                        <grid-w-system>0.88463125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -138,7 +138,7 @@
                                         <item-w-system>0.147421875</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.88453125</grid-w-system>          
+                                        <grid-w-system>0.88463125</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -147,7 +147,7 @@
                                         <item-w-system>0.147421875</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.88453125</grid-w-system>          
+                                        <grid-w-system>0.88463125</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -158,7 +158,7 @@
                                         <item-w-system>0.0912611607142857</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.912611607142857</grid-w-system>          
+                                        <grid-w-system>0.912711607142857</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -167,7 +167,7 @@
                                         <item-w-system>0.136891741071429</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -176,7 +176,7 @@
                                         <item-w-system>0.136891741071429</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -185,7 +185,7 @@
                                         <item-w-system>0.136891741071429</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -196,7 +196,7 @@
                                         <item-w-system>0.141961805555556</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.993732638888889</grid-w-system>          
+                                        <grid-w-system>0.993832638888889</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -205,7 +205,7 @@
                                         <item-w-system>0.212942708333333</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.851770833333333</grid-w-system>          
+                                        <grid-w-system>0.851870833333333</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -214,7 +214,7 @@
                                         <item-w-system>0.212942708333333</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.851770833333333</grid-w-system>          
+                                        <grid-w-system>0.851870833333333</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -223,7 +223,7 @@
                                         <item-w-system>0.212942708333333</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.851770833333333</grid-w-system>          
+                                        <grid-w-system>0.851870833333333</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -234,7 +234,7 @@
                                         <item-w-system>0.15970703125</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -243,7 +243,7 @@
                                         <item-w-system>0.239560546875</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -252,7 +252,7 @@
                                         <item-w-system>0.239560546875</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -261,7 +261,7 @@
                                         <item-w-system>0.239560546875</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9582421875</grid-w-system>          
+                                        <grid-w-system>0.9583421875</grid-w-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
