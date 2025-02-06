@@ -142,15 +142,15 @@
          <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
          <gridSelectorColor>000000</gridSelectorColor>
          <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
-         <gamelistSelectorColor>222222</gamelistSelectorColor>
-         <gamelistSelectedColor>ffffff</gamelistSelectedColor>
+         <gamelistSelectorColor>ffffff30</gamelistSelectorColor>
+         <gamelistSelectedColor>FFFFFF</gamelistSelectedColor>
          <gamelistPrimaryColor>FFFFFF</gamelistPrimaryColor>
          <gameMetadataColor>FFFFFF</gameMetadataColor>
          <BadgeColor>FFFFFF</BadgeColor>
          <rowBadgeColor>FFFFFF</rowBadgeColor>
          <gridNameColor>555555</gridNameColor>
          <shade>dark</shade>
-         <brightnessfactor>0</brightnessfactor>
+         <brightnessfactor>0.2</brightnessfactor>
          <brightnessfactorlarge>-0.2</brightnessfactorlarge>
       </variables>
    </colorScheme>  
