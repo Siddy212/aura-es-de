@@ -14,7 +14,6 @@
                   <pos>0.5 0.5</pos>
                   <color>00000000</color>
                   <itemScale>1</itemScale>
-                  <itemStacking>centered</itemStacking>
                   <unfocusedItemOpacity>0.1</unfocusedItemOpacity>
                   <unfocusedItemDimming>1</unfocusedItemDimming>
                   <horizontalOffset>0</horizontalOffset>
