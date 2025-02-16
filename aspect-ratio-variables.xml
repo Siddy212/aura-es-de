@@ -6,10 +6,10 @@
                                         <textlist-x>0.25</textlist-x>    
                                         <blur-radius>0.032</blur-radius>   
                                         <left-blur-x>0.46</left-blur-x>    
-                                        <left-blur-crop-x>0.14</left-blur-crop-x>    
+                                        <left-blur-crop-x>0.316</left-blur-crop-x>    
                                         <left-blur-crop-w>0.41898</left-blur-crop-w>    
-                                        <right-blur-x>0.53993</right-blur-x>    
-                                        <right-blur-crop-x>0.86</right-blur-crop-x>   
+                                        <right-blur-x>0.542</right-blur-x>    
+                                        <right-blur-crop-x>0.684</right-blur-crop-x>   
                                         <right-blur-crop-w>0.41898</right-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1.77777777777778</sys-carousel-w>    
@@ -18,41 +18,41 @@
                                         <sys-max-item>1.6875</sys-max-item>      
                                <!--   Metadata Variables   --> 
                                         <date-format>%Y</date-format>  
-                                        <rating-x>0.741875</rating-x> 
-                                        <badge-x>0.55</badge-x>         
-                                        <ext-genre-w>0.224</ext-genre-w> 
-                                        <ext-name-w>0.338</ext-name-w> 
-                                        <base-name-x>0.5495</base-name-x>         
-                                        <base-name-w>0.34</base-name-w>       
-                                        <base-release-date-x>0.5495</base-release-date-x>     
-                                        <base-genre-x>0.3954375</base-genre-x>         
-                                        <base-genre-w>0.1265625</base-genre-w>   
-                                        <base-desc-x>0.74</base-desc-x>         
-                                        <base-desc-w>0.2025</base-desc-w>            
+                                        <rating-x>0.945</rating-x> 
+                                        <badge-x>0.558</badge-x>         
+                                        <ext-genre-w>0.15</ext-genre-w> 
+                                        <ext-name-w>0.32</ext-name-w> 
+                                        <base-name-x>0.62</base-name-x>         
+                                        <base-name-w>0.32</base-name-w>       
+                                        <base-release-date-x>0.62</base-release-date-x>     
+                                        <base-genre-x>0.79</base-genre-x>         
+                                        <base-genre-w>0.15</base-genre-w>   
+                                        <base-desc-x>0.748</base-desc-x>         
+                                        <base-desc-w>0.36</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
                                         <dg-glass>1-1-grid</dg-glass>  
-                                        <dg-metadata-pos>1.035</dg-metadata-pos>  
-                                        <dg-rating-x>0.776875</dg-rating-x> 
-                                        <dg-badge-x>0.585</dg-badge-x>  
-                                        <dg-name-x>0.5845</dg-name-x>        
-                                        <dg-release-date-x>0.5845</dg-release-date-x>     
-                                        <dg-genre-x>0.4304375</dg-genre-x>                                            
-                                        <dg-desc-x>0.775</dg-desc-x>                                              
-                                        <dg-logo-shadow-x>0.772675</dg-logo-shadow-x>       
+                                        <dg-metadata-pos>1.023</dg-metadata-pos>  
+                                        <dg-rating-x>0.968</dg-rating-x> 
+                                        <dg-badge-x>0.581</dg-badge-x>  
+                                        <dg-name-x>0.643</dg-name-x>        
+                                        <dg-release-date-x>0.643</dg-release-date-x>     
+                                        <dg-genre-x>0.813</dg-genre-x>                                            
+                                        <dg-desc-x>0.771</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.768687</dg-logo-shadow-x>       
                                         <dg-left-blur-x>0.57</dg-left-blur-x>    
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
-                                        <dg-right-blur-x>0.57493</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                                        <dg-right-blur-x>0.565</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.702</dg-right-blur-crop-x>        
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.501875</ba-rating-x> 
-                                        <ba-badge-x>0.31</ba-badge-x>  
-                                        <ba-name-x>0.3095</ba-name-x>        
-                                        <ba-release-date-x>0.3095</ba-release-date-x>     
-                                        <ba-genre-x>0.1554375</ba-genre-x>                                            
-                                        <ba-desc-x>0.5</ba-desc-x>        
+                                        <ba-rating-x>0.705</ba-rating-x> 
+                                        <ba-badge-x>0.318</ba-badge-x>  
+                                        <ba-name-x>0.38</ba-name-x>        
+                                        <ba-release-date-x>0.38</ba-release-date-x>     
+                                        <ba-genre-x>0.55</ba-genre-x>                                            
+                                        <ba-desc-x>0.508</ba-desc-x>        
                                         <ba-left-blur-x>0.5</ba-left-blur-x>    
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
@@ -63,7 +63,7 @@
                             <variables>
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
-                                        <help-font-size>0.021125</help-font-size>         
+                                        <help-font-size>0.0156</help-font-size>         
                                         <sys-font-size>0.040625</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
@@ -82,7 +82,7 @@
                             <variables>
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
-                                        <help-font-size>0.026</help-font-size>         
+                                        <help-font-size>0.0192</help-font-size>         
                                         <sys-font-size>0.05</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
@@ -101,7 +101,7 @@
                             <variables>
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
-                                        <help-font-size>0.030875</help-font-size>         
+                                        <help-font-size>0.0228</help-font-size>         
                                         <sys-font-size>0.059375</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
@@ -120,7 +120,7 @@
                             <variables>
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
-                                        <help-font-size>0.0325</help-font-size>         
+                                        <help-font-size>0.024</help-font-size>         
                                         <sys-font-size>0.0625</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
@@ -164,7 +164,7 @@
                                         <base-release-date-x>0.59</base-release-date-x>     
                                         <base-genre-x>0.72</base-genre-x>         
                                         <base-genre-w>0.22</base-genre-w>   
-                                        <base-desc-x>0.75</base-desc-x>         
+                                        <base-desc-x>0.745</base-desc-x>         
                                         <base-desc-w>0.38</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.285</dg-grid-x>  
@@ -175,8 +175,8 @@
                                         <dg-name-x>0.61</dg-name-x>        
                                         <dg-release-date-x>0.61</dg-release-date-x>     
                                         <dg-genre-x>0.74</dg-genre-x>                                            
-                                        <dg-desc-x>0.77</dg-desc-x>                                              
-                                        <dg-logo-shadow-x>0.76769</dg-logo-shadow-x>       
+                                        <dg-desc-x>0.765</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.762705</dg-logo-shadow-x>       
                                         <dg-left-blur-x>0.57</dg-left-blur-x>    
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.53993055555</dg-left-blur-crop-w>    
@@ -189,7 +189,7 @@
                                         <ba-name-x>0.35</ba-name-x>        
                                         <ba-release-date-x>0.35</ba-release-date-x>     
                                         <ba-genre-x>0.48</ba-genre-x>                                            
-                                        <ba-desc-x>0.51</ba-desc-x>        
+                                        <ba-desc-x>0.505</ba-desc-x>        
                                         <ba-left-blur-x>0.5</ba-left-blur-x>    
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
