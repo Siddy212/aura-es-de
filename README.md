@@ -18,10 +18,10 @@ Aura is a theme for EmulationStation-DE theme that aims to provide a modern and 
    - `16:9`
    - `16:10`
    - `4:3`
+   - `1:1`
 
 - `Planned`
    - `19.5:9`
-   - `1:1`
    - `21:9`
    - `3:2`
      
