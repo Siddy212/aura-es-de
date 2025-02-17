@@ -52,7 +52,7 @@
                <image name="system-background-overlay,system-background-overlay-2,system-background-overlay-3,system-background-overlay-4,system-background-overlay-5">
                   <origin>0.5 1</origin>
                   <cropPos>0.5 1</cropPos>
-                  <cropSize>1 0.4</cropSize>
+                  <cropSize>${sys-carousel-w} 0.4</cropSize>
                   <pos>0.5 1</pos>
                   <path>${systemBackgroundPath}.webp</path>
                   <zIndex>5</zIndex>

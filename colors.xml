@@ -73,23 +73,7 @@
          </variables>
    </colorScheme>
 
-   <variant name="
-         carousel-textlist,
-         carousel-detailed-grid,
-         carousel-detailed-grid-help-off,
-         carousel-basic-grid,
-         carousel-basic-grid-help-off,
-         carousel-carousel-marquee,
-         carousel-carousel-boxart">
-         <colorScheme name="art-purple,art-blue,art-green,art-orange,art-black">
-            <variables>
-               <gamelistBackgroundPath>./_inc/default-art/${system.theme}/${system.theme}-clear-full-w-char</gamelistBackgroundPath>
-               <gamelistBlurStripPath>./_inc/default-art/${system.theme}/${system.theme}-blur-strip-w-char</gamelistBlurStripPath>
-               <gamelistBlurFullPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-w-char</gamelistBlurFullPath>
-               <brightnessfactorbasicgrid>-0.3</brightnessfactorbasicgrid>
-            </variables>
-         </colorScheme>  
-   </variant>
+
 
    <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black,logo-purple,logo-blue,logo-green,logo-orange,logo-black">
       <variables>
