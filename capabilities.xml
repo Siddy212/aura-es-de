@@ -22,7 +22,22 @@
    <fontSize>large</fontSize>
    <fontSize>x-large</fontSize>
 
-
+   
+   <colorScheme name="logo-purple">
+      <label>[Logo] Purple</label>
+   </colorScheme>  
+   <colorScheme name="logo-blue">
+      <label>[Logo] Blue</label>
+   </colorScheme>
+   <colorScheme name="logo-green">
+      <label>[Logo] Green</label>
+   </colorScheme>
+   <colorScheme name="logo-orange">
+      <label>[Logo] Orange</label>
+   </colorScheme>
+   <colorScheme name="logo-black">
+      <label>[Logo] Black</label>
+   </colorScheme>
    <colorScheme name="art-light-glass">
       <label>[Art] Light Glass</label>
    </colorScheme>  
@@ -43,21 +58,6 @@
    </colorScheme>  
    <colorScheme name="art-black">
       <label>[Art] Black</label>
-   </colorScheme>   
-   <colorScheme name="logo-purple">
-      <label>[Logo] Purple</label>
-   </colorScheme>  
-   <colorScheme name="logo-blue">
-      <label>[Logo] Blue</label>
-   </colorScheme>
-   <colorScheme name="logo-green">
-      <label>[Logo] Green</label>
-   </colorScheme>
-   <colorScheme name="logo-orange">
-      <label>[Logo] Orange</label>
-   </colorScheme>
-   <colorScheme name="logo-black">
-      <label>[Logo] Black</label>
    </colorScheme>
 
    <transitions name="transitions">
