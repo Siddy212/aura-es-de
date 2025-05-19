@@ -147,7 +147,6 @@
          <variables>
             <imagepos>${base-desc-x} 0.3925</imagepos>
             <imagemaxSize>${image-w} 0.33</imagemaxSize>
-            <base-desc-y>0.8605</base-desc-y>
             <base-desc-h>0.105</base-desc-h>
          </variables>
       </fontSize>
@@ -155,15 +154,13 @@
          <variables>
             <imagepos>${base-desc-x} 0.4125</imagepos>
             <imagemaxSize>${image-w} 0.37</imagemaxSize>
-            <base-desc-y>0.8532</base-desc-y>
-            <base-desc-h>0.2</base-desc-h>
+            <base-desc-h>0.20</base-desc-h>
          </variables>
       </fontSize>
       <fontSize name="x-large">
          <variables>
             <imagepos>${base-desc-x} 0.58</imagepos>
             <imagemaxSize>${image-w} 0.65</imagemaxSize>
-            <base-desc-y>0.8605</base-desc-y>
             <base-desc-h>0.105</base-desc-h>
          </variables>
       </fontSize>
@@ -215,7 +212,7 @@
          </text>
          <!-- End: Base Metadata -->
          <text name="game-description">
-            <pos>${base-desc-x} ${base-desc-y}</pos>
+            <pos>${base-desc-x} ${desc-y}</pos>
          </text>
       </view>
 

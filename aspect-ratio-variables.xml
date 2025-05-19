@@ -29,8 +29,7 @@
                                         <base-release-date-x>0.62</base-release-date-x>     
                                         <base-genre-x>0.79</base-genre-x>         
                                         <base-genre-w>0.15</base-genre-w>   
-                                        <base-desc-x>0.748</base-desc-x>         
-                                        <base-desc-w>0.36</base-desc-w>            
+                                        <base-desc-x>0.748</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -79,10 +78,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small-narrow</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.36</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -101,10 +102,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium-narrow</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing>      
+                                        <base-desc-w>0.36</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -123,10 +126,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large-narrow</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.43</desc-line-spacing>      
+                                        <base-desc-w>0.36</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -145,10 +150,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large-narrow</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.36</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -182,8 +189,7 @@
                                         <base-release-date-x>0.59</base-release-date-x>     
                                         <base-genre-x>0.72</base-genre-x>         
                                         <base-genre-w>0.22</base-genre-w>   
-                                        <base-desc-x>0.745</base-desc-x>         
-                                        <base-desc-w>0.38</base-desc-w>            
+                                        <base-desc-x>0.745</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.285</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -232,10 +238,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -254,10 +262,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -276,10 +286,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.43</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -298,10 +310,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -335,8 +349,7 @@
                                         <base-release-date-x>0.587</base-release-date-x>     
                                         <base-genre-x>0.702</base-genre-x>         
                                         <base-genre-w>0.225</base-genre-w>   
-                                        <base-desc-x>0.74</base-desc-x>         
-                                        <base-desc-w>0.363546875</base-desc-w>            
+                                        <base-desc-x>0.74</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -385,10 +398,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.363546875</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -407,10 +422,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing>      
+                                        <base-desc-w>0.35975</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -429,10 +446,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.43</desc-line-spacing>      
+                                        <base-desc-w>0.355953125</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -451,10 +470,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.3546875</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -488,8 +509,7 @@
                                         <base-release-date-x>0.60603125</base-release-date-x>     
                                         <base-genre-x>0.7461875</base-genre-x>         
                                         <base-genre-w>0.27421875</base-genre-w>   
-                                        <base-desc-x>0.74</base-desc-x>         
-                                        <base-desc-w>0.449625</base-desc-w>            
+                                        <base-desc-x>0.74</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -538,10 +558,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.449625</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -560,10 +582,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing>      
+                                        <base-desc-w>0.446509615384615</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -582,10 +606,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.43</desc-line-spacing>      
+                                        <base-desc-w>0.443394230769231</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -604,10 +630,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.442355769230769</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -641,8 +669,7 @@
                                         <base-release-date-x>0.6155</base-release-date-x>     
                                         <base-genre-x>0.7664375</base-genre-x>         
                                         <base-genre-w>0.2953125</base-genre-w>   
-                                        <base-desc-x>0.74</base-desc-x>         
-                                        <base-desc-w>0.486214285714286</base-desc-w>            
+                                        <base-desc-x>0.74</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -691,10 +718,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.486214285714286</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -713,10 +742,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing>      
+                                        <base-desc-w>0.483321428571429</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -735,10 +766,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.43</desc-line-spacing>      
+                                        <base-desc-w>0.480428571428572</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -757,10 +790,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.479464285714286</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -794,8 +829,7 @@
                                         <base-release-date-x>0.57425</base-release-date-x>     
                                         <base-genre-x>0.67128125</base-genre-x>         
                                         <base-genre-w>0.18984375</base-genre-w>   
-                                        <base-desc-x>0.74</base-desc-x>         
-                                        <base-desc-w>0.301125</base-desc-w>            
+                                        <base-desc-x>0.74</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -844,10 +878,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.301125</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -866,10 +902,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.18</desc-line-spacing>      
+                                        <base-desc-w>0.296625</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -888,10 +926,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.43</desc-line-spacing>      
+                                        <base-desc-w>0.292125</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -910,10 +950,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8532</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.290625</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -947,8 +989,7 @@
                                         <base-release-date-x>0.572</base-release-date-x>     
                                         <base-genre-x>0.706</base-genre-x>         
                                         <base-genre-w>0.235</base-genre-w>   
-                                        <base-desc-x>0.735</base-desc-x>         
-                                        <base-desc-w>0.40723252688172</base-desc-w>            
+                                        <base-desc-x>0.735</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.28</dg-grid-x>  
                                         <dg-grid-h>0.9498</dg-grid-h>  
@@ -997,10 +1038,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small-narrow</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.40723252688172</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -1019,10 +1062,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium-narrow</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8615</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.15</desc-line-spacing>      
+                                        <base-desc-w>0.401353494623656</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -1041,10 +1086,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large-narrow</selector-type>      
-                                        <image-w>0.4</image-w>   
+                                        <image-w>0.4</image-w>      
+                                        <desc-y>0.851</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.5</desc-line-spacing>      
+                                        <base-desc-w>0.395474462365591</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -1063,10 +1110,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large-narrow</selector-type>      
-                                        <image-w>0.4</image-w>   
+                                        <image-w>0.4</image-w>      
+                                        <desc-y>0.851</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.393514784946237</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -1100,8 +1149,7 @@
                                         <base-release-date-x>0.59</base-release-date-x>     
                                         <base-genre-x>0.718</base-genre-x>         
                                         <base-genre-w>0.23</base-genre-w>   
-                                        <base-desc-x>0.745</base-desc-x>         
-                                        <base-desc-w>0.38</base-desc-w>            
+                                        <base-desc-x>0.745</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.28</dg-grid-x>  
                                         <dg-grid-h>0.942</dg-grid-h>  
@@ -1150,10 +1198,12 @@
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
                                         <selector-type>selector-small</selector-type>      
-                                        <image-w>0.36</image-w>   
+                                        <image-w>0.36</image-w>      
+                                        <desc-y>0.8605</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-extended</metadata-background>
-                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                                        <desc-line-spacing>1.4</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -1172,10 +1222,12 @@
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
                                         <selector-type>selector-medium</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.8615</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-extended</metadata-background>
-                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                                        <desc-line-spacing>1.15</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -1194,10 +1246,12 @@
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
                                         <selector-type>selector-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.851</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-base</metadata-background>
-                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                                        <desc-line-spacing>1.5</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -1216,10 +1270,12 @@
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
                                         <selector-type>selector-x-large</selector-type>      
-                                        <image-w>0.37</image-w>   
+                                        <image-w>0.37</image-w>      
+                                        <desc-y>0.851</desc-y>
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-minimal</metadata-background>
-                                        <desc-line-spacing>2</desc-line-spacing> 
+                                        <desc-line-spacing>2</desc-line-spacing>      
+                                        <base-desc-w>0.38</base-desc-w>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
