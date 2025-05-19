@@ -54,11 +54,13 @@
    <colorScheme name="art-light-glass">
       <variables>
          <backgroundBrightness>0.5</backgroundBrightness>
+         <gridDim>0.9</gridDim>
       </variables>
    </colorScheme>    
    <colorScheme name="art-dark-glass">
       <variables>
          <backgroundBrightness>-0.5</backgroundBrightness>
+         <gridDim>0.9</gridDim>
       </variables>
    </colorScheme>   
 
