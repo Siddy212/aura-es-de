@@ -101,6 +101,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <customButtonIcon button="button_y_SNES">./_inc/images/help-button-north.svg</customButtonIcon>
             <customButtonIcon button="thumbstick_click">./_inc/images/help-left-stick-click.svg</customButtonIcon>
          </helpsystem>
+
    </view>
    
    <!--
@@ -130,7 +131,19 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <path>./_inc/glass/vignette.webp</path>   
             <brightness>0</brightness>
             <visible>${gradientSwitch}</visible>
-      </image>    
+      </image>          
+      <clock name="clock">
+            <pos>0.016 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <fontSize>${metadata-font-size}</fontSize>
+            <color>${systemInfoColor}</color>
+         </clock>
+         <systemstatus name="systemstatus">
+            <pos>0.984 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <height>${metadata-font-size}</height>
+            <color>${systemInfoColor}</color>
+      </systemstatus>   
    </view>
 
 
@@ -269,7 +282,13 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <direction>row</direction>
          <itemMargin>0.008 0.005</itemMargin>
          <horizontalAlignment>left</horizontalAlignment>
-      </badges> 
+      </badges>   
+      <clock name="clock">
+            <color>ffffff00</color>
+         </clock>
+         <systemstatus name="systemstatus">
+            <color>ffffff00</color>
+      </systemstatus>   
    </view>
 
 
@@ -360,7 +379,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <image name="metadata-glass">
                <origin>1 0.5</origin>
                <pos>1 0.5</pos>
-               <size>0.5 1</size>
+               <size>${textlist-background-w} 1</size>
                <zIndex>3</zIndex>
                <interpolation>linear</interpolation>
                <opacity>1</opacity>
@@ -383,7 +402,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <image name="textlist-glass">
                <origin>0 0.5</origin>
                <pos>0 0.5</pos>
-               <size>0.5 1</size>
+               <size>${textlist-background-w} 1</size>
                <path>./_inc/glass/${textlist-background}-${shade}.webp</path>
                <zIndex>3</zIndex>
                <interpolation>linear</interpolation>   
@@ -421,7 +440,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <image name="blur-bottom">            
                <origin>0.5 1</origin>
                <pos>0.5 1</pos>
-               <cropSize>${sys-carousel-w} 0.0598</cropSize>
+               <cropSize>${sys-carousel-w} ${dg-bottom-blur-h}</cropSize>
                <cropPos>0.5 1</cropPos>
                <opacity>1</opacity>
                <brightness>0</brightness>
@@ -487,7 +506,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
       <view name="gamelist">
             <textlist name="game-list">
                <origin>0.5 0.5</origin>
-               <size>0.39 0.741</size>
+               <size>${textlist-w} 0.741</size>
                <pos>${textlist-x} 0.542</pos>
                <horizontalAlignment>left</horizontalAlignment>
                <fontPath>${fontBold}</fontPath>
@@ -498,7 +517,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <primaryColor>${gamelistPrimaryColor}</primaryColor>
                <secondaryColor>${gamelistPrimaryColor}</secondaryColor>
                <horizontalMargin>0.008333333333333</horizontalMargin>
-               <selectorWidth>0.39</selectorWidth>
+               <selectorWidth>${textlist-w}</selectorWidth>
                <selectorHorizontalOffset>-0.001</selectorHorizontalOffset>
                <systemNameSuffix>false</systemNameSuffix>
                <lineSpacing>${textlist-line-spacing}</lineSpacing>
@@ -611,7 +630,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <opacity>0.5</opacity>
             </image>
             <grid name="grid">
-               <size>0.56 0.942</size>
+               <size>0.56 ${dg-grid-h}</size>
             </grid>
       </view>
    </variant>

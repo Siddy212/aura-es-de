@@ -3,7 +3,9 @@
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>1-1-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.25</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.032</blur-radius>   
                                         <left-blur-x>0.46</left-blur-x>    
                                         <left-blur-crop-x>0.316</left-blur-crop-x>    
@@ -31,6 +33,7 @@
                                         <base-desc-w>0.36</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>1-1-grid</dg-glass>  
                                         <dg-metadata-pos>1.023</dg-metadata-pos>  
                                         <dg-rating-x>0.968</dg-rating-x> 
@@ -44,7 +47,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.565</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.702</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.702</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.705</ba-rating-x> 
@@ -140,7 +144,9 @@
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>16-10-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.25</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.02</blur-radius>   
                                         <left-blur-x>0.46</left-blur-x>    
                                         <left-blur-crop-x>0.14</left-blur-crop-x>    
@@ -168,6 +174,7 @@
                                         <base-desc-w>0.38</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.285</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>16-10-grid</dg-glass>  
                                         <dg-metadata-pos>1.02</dg-metadata-pos>  
                                         <dg-rating-x>0.965</dg-rating-x> 
@@ -181,7 +188,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.53993055555</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.55993</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.89</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.89</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.705</ba-rating-x> 
@@ -277,7 +285,9 @@
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>16-9-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.26</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.018</blur-radius>   
                                         <left-blur-x>0.46</left-blur-x>    
                                         <left-blur-crop-x>0.1</left-blur-crop-x>    
@@ -305,6 +315,7 @@
                                         <base-desc-w>0.363546875</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>16-9-grid</dg-glass>  
                                         <dg-metadata-pos>1.035</dg-metadata-pos>  
                                         <dg-rating-x>0.965</dg-rating-x> 
@@ -318,7 +329,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.575</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.69</ba-rating-x> 
@@ -414,7 +426,9 @@
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>19.5-9-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.26</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.0147692307692308</blur-radius>   
                                         <left-blur-x>0.46</left-blur-x>    
                                         <left-blur-crop-x>0.1</left-blur-crop-x>    
@@ -442,6 +456,7 @@
                                         <base-desc-w>0.449625</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>19.5-9-grid</dg-glass>  
                                         <dg-metadata-pos>1.035</dg-metadata-pos>  
                                         <dg-rating-x>1.0590625</dg-rating-x> 
@@ -455,7 +470,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.575</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.7840625</ba-rating-x> 
@@ -551,7 +567,9 @@
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>21-9-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.26</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.0137142857142857</blur-radius>   
                                         <left-blur-x>0.46</left-blur-x>    
                                         <left-blur-crop-x>0.1</left-blur-crop-x>    
@@ -579,6 +597,7 @@
                                         <base-desc-w>0.486214285714286</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>21-9-grid</dg-glass>  
                                         <dg-metadata-pos>1.035</dg-metadata-pos>  
                                         <dg-rating-x>1.099375</dg-rating-x> 
@@ -592,7 +611,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.575</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.824375</ba-rating-x> 
@@ -688,7 +708,9 @@
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>3-2-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.26</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.0213333333333333</blur-radius>   
                                         <left-blur-x>0.47</left-blur-x>    
                                         <left-blur-crop-x>0.23</left-blur-crop-x>    
@@ -716,6 +738,7 @@
                                         <base-desc-w>0.301125</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.29</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>3-2-grid</dg-glass>  
                                         <dg-metadata-pos>1.035</dg-metadata-pos>  
                                         <dg-rating-x>0.8978125</dg-rating-x> 
@@ -729,7 +752,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.565</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.6228125</ba-rating-x> 
@@ -821,11 +845,154 @@
                             </variables>
                     </fontSize>
              </aspectRatio>    
+           <aspectRatio name="8:7">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+                                        <textlist-background>8-7-textlist</textlist-background>    
+                                        <textlist-background-w>0.52</textlist-background-w>    
+                                        <textlist-x>0.265</textlist-x>    
+                                        <textlist-w>0.425</textlist-w>  
+                                        <blur-radius>0.0278709677419355</blur-radius>   
+                                        <left-blur-x>0.488</left-blur-x>    
+                                        <left-blur-crop-x>0.2875</left-blur-crop-x>    
+                                        <left-blur-crop-w>0.447</left-blur-crop-w>    
+                                        <right-blur-x>0.512</right-blur-x>    
+                                        <right-blur-crop-x>0.715</right-blur-crop-x>   
+                                        <right-blur-crop-w>0.448</right-blur-crop-w>     
+                               <!--   System View Variables   -->          
+                                        <sys-carousel-w>1.54838709677419</sys-carousel-w>    
+                                        <sys-carousel-item-w>0.745967741930323</sys-carousel-item-w>    
+                                        <sys-logo-w>0.371612903225806</sys-logo-w>    
+                                        <sys-max-item>1.9375</sys-max-item>      
+                               <!--   Metadata Variables   --> 
+                                        <date-format>%Y</date-format>  
+                                        <rating-x>0.942708333333333</rating-x> 
+                                        <badge-x>0.528</badge-x>         
+                                        <ext-genre-w>0.236</ext-genre-w> 
+                                        <ext-name-w>0.37</ext-name-w> 
+                                        <base-name-x>0.572</base-name-x>         
+                                        <base-name-w>0.37</base-name-w>       
+                                        <base-release-date-x>0.572</base-release-date-x>     
+                                        <base-genre-x>0.706</base-genre-x>         
+                                        <base-genre-w>0.235</base-genre-w>   
+                                        <base-desc-x>0.735</base-desc-x>         
+                                        <base-desc-w>0.40723252688172</base-desc-w>            
+                               <!--  Detailed Grid Metadata Variables   --> 
+                                        <dg-grid-x>0.28</dg-grid-x>  
+                                        <dg-grid-h>0.9498</dg-grid-h>  
+                                        <dg-glass>8-7-grid</dg-glass>  
+                                        <dg-metadata-pos>1.033</dg-metadata-pos>  
+                                        <dg-rating-x>0.975708333333333</dg-rating-x> 
+                                        <dg-badge-x>0.561</dg-badge-x>  
+                                        <dg-name-x>0.605</dg-name-x>        
+                                        <dg-release-date-x>0.605</dg-release-date-x>     
+                                        <dg-genre-x>0.739</dg-genre-x>                                            
+                                        <dg-desc-x>0.768</dg-desc-x>                                              
+                                        <dg-logo-shadow-x>0.765696</dg-logo-shadow-x>       
+                                        <dg-left-blur-x>0.57</dg-left-blur-x>    
+                                        <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
+                                        <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
+                                        <dg-right-blur-x>0.545</dg-right-blur-x>    
+                                        <dg-right-blur-crop-x>0.745</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.052</dg-bottom-blur-h>       
+                               <!--  Boxart Carousel Metadata Variables   --> 
+                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
+                                        <ba-rating-x>0.702708333333333</ba-rating-x> 
+                                        <ba-badge-x>0.288</ba-badge-x>  
+                                        <ba-name-x>0.332</ba-name-x>        
+                                        <ba-release-date-x>0.332</ba-release-date-x>     
+                                        <ba-genre-x>0.466</ba-genre-x>                                            
+                                        <ba-desc-x>0.495</ba-desc-x>        
+                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
+                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
+                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
+                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0325</base-font-size>         
+                                        <help-font-size>0.0156</help-font-size>         
+                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <badge-font-size>0.030875</badge-font-size>    
+                                        <metadata-font-size>0.024375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.89573660714</sys-details-y>
+                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.039</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>8-7-extended</metadata-background>
+                                        <desc-line-spacing>1.4</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.04</base-font-size>         
+                                        <help-font-size>0.0192</help-font-size>         
+                                        <sys-font-size>0.05</sys-font-size>         
+                                        <badge-font-size>0.038</badge-font-size>    
+                                        <metadata-font-size>0.03</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.90464285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.64666666666667</textlist-line-spacing>
+                                        <textlist-line-height>0.0487066666666667</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>8-7-extended</metadata-background>
+                                        <desc-line-spacing>1.18</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.0475</base-font-size>         
+                                        <help-font-size>0.0228</help-font-size>         
+                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <badge-font-size>0.045125</badge-font-size>    
+                                        <metadata-font-size>0.035625</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91354910714</sys-details-y>
+                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.6</textlist-line-spacing>
+                                        <textlist-line-height>0.0556153846153846</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>8-7-base</metadata-background>
+                                        <desc-line-spacing>1.43</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->          
+                                        <base-font-size>0.05</base-font-size>         
+                                        <help-font-size>0.024</help-font-size>         
+                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <badge-font-size>0.0475</badge-font-size>    
+                                        <metadata-font-size>0.0375</metadata-font-size>
+                               <!--   System View Variables   -->          
+                                        <sys-details-y>0.91651785714</sys-details-y>
+                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                               <!--   Textlist Variables   -->          
+                                        <textlist-line-spacing>1.79636363636364</textlist-line-spacing>
+                                        <textlist-line-height>0.0647851239669422</textlist-line-height>
+                               <!--   Metadata Variables   -->                 
+                                        <metadata-background>8-7-minimal</metadata-background>
+                                        <desc-line-spacing>2</desc-line-spacing> 
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
            <aspectRatio name="4:3">          
                             <variables>
                                <!--   Aspect Ratio Variable   -->            
                                         <textlist-background>4-3-textlist</textlist-background>    
+                                        <textlist-background-w>0.5</textlist-background-w>    
                                         <textlist-x>0.255</textlist-x>    
+                                        <textlist-w>0.39</textlist-w>  
                                         <blur-radius>0.024</blur-radius>   
                                         <left-blur-x>0.47</left-blur-x>    
                                         <left-blur-crop-x>0.23</left-blur-crop-x>    
@@ -853,6 +1020,7 @@
                                         <base-desc-w>0.38</base-desc-w>            
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.28</dg-grid-x>  
+                                        <dg-grid-h>0.942</dg-grid-h>  
                                         <dg-glass>4-3-grid</dg-glass>  
                                         <dg-metadata-pos>1.025</dg-metadata-pos>  
                                         <dg-rating-x>0.975</dg-rating-x> 
@@ -866,7 +1034,8 @@
                                         <dg-left-blur-crop-x>0.045</dg-left-blur-crop-x>    
                                         <dg-left-blur-crop-w>0.55</dg-left-blur-crop-w>    
                                         <dg-right-blur-x>0.555</dg-right-blur-x>    
-                                        <dg-right-blur-crop-x>0.8</dg-right-blur-crop-x>        
+                                        <dg-right-blur-crop-x>0.8</dg-right-blur-crop-x>      
+                                        <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
                                <!--  Boxart Carousel Metadata Variables   --> 
                                         <ba-metadata-pos>0.76</ba-metadata-pos>  
                                         <ba-rating-x>0.71</ba-rating-x> 
@@ -878,7 +1047,7 @@
                                         <ba-left-blur-x>0.5</ba-left-blur-x>    
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
+                                        <ba-right-blur-x>0.52</ba-right-blur-x>    
                                         <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
                             </variables>          
                    <fontSize name="small">

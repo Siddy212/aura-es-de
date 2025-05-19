@@ -16,9 +16,22 @@
             <pos>${dg-logo-shadow-x} 0.075</pos>
          </image>
 
+         <clock name="clock">
+               <pos>0.55 0.01</pos>
+               <fontPath>${fontBold}</fontPath>
+               <fontSize>${metadata-font-size}</fontSize>
+               <color>${systemInfoColor}</color>
+            </clock>
+            <systemstatus name="systemstatus">
+               <pos>0.984 0.01</pos>
+               <fontPath>${fontBold}</fontPath>
+               <height>${metadata-font-size}</height>
+               <color>${systemInfoColor}</color>
+         </systemstatus>   
+
         <grid name="grid">
             <pos>${dg-grid-x} 0</pos>
-            <size>0.56 0.942</size>
+            <size>0.56 ${dg-grid-h}</size>
             <itemScale>1.04</itemScale>
             <imageType>cover</imageType>
             <selectorImage>./_inc/coversize-selector/${systemCoverSize}.svg</selectorImage>

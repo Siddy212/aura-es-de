@@ -15,7 +15,7 @@
                   <selectorImage>${selectorImagePath}</selectorImage>
                   <staticImage>${gridImagePath}.webp</staticImage>
                   <unfocusedItemOpacity>0.95</unfocusedItemOpacity>
-                  <unfocusedItemDimming>0.9</unfocusedItemDimming>
+                  <unfocusedItemDimming>${gridDim}</unfocusedItemDimming>
                   <unfocusedItemSaturation>1</unfocusedItemSaturation>
                   <itemSpacing>-0.1 0</itemSpacing>
                   <textColor>${systemInfoColor}</textColor>

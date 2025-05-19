@@ -89,14 +89,16 @@
          <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
          <carouselArtPath>./_inc/default-art/${system.theme}/${system.theme}</carouselArtPath>
          <gridImagePath>./_inc/default-art/${system.theme}/${system.theme}</gridImagePath>
+         <gridDim>0.9</gridDim>
       </variables>
    </colorScheme>   
    <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black">
       <variables>
-         <selectorImagePath>./_inc/coversize-selector/system-controller-${shade}.webp</selectorImagePath>
+         <selectorImagePath>./_inc/coversize-selector/system-controller.webp</selectorImagePath>
          <fullscreen-style>system-fullscreen-logo</fullscreen-style>
          <carouselArtPath>./_inc/controllers/${system.theme}</carouselArtPath>
          <gridImagePath>./_inc/controllers/${system.theme}</gridImagePath>
+         <gridDim>0.4</gridDim>
       </variables>
    </colorScheme>    
 

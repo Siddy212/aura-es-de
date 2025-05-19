@@ -27,7 +27,19 @@
             <onIterationsDone>image</onIterationsDone>
             <imageType>${scaledimagetype}</imageType>
             <imageCornerRadius>${scaledimageCornerRadius}</imageCornerRadius>
-         </video>
+         </video>      
+      <clock name="clock">
+            <pos>0.016 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <fontSize>${metadata-font-size}</fontSize>
+            <color>${systemInfoColor}</color>
+         </clock>
+         <systemstatus name="systemstatus">
+            <pos>0.984 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <height>${metadata-font-size}</height>
+            <color>${systemInfoColor}</color>
+      </systemstatus>   
 
          
       <!--  All Text Defaults   -->
