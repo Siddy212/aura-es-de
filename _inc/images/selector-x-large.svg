@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1446.678mm"
+   width="1000.7938mm"
    height="99.742218mm"
-   viewBox="0 0 1446.6779 99.74222"
+   viewBox="0 0 1000.7937 99.74222"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="selector-large.svg"
+   sodipodi:docname="selector-x-large.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.21391608"
-     inkscape:cx="4777.5745"
+     inkscape:cx="4775.2371"
      inkscape:cy="1778.7349"
-     inkscape:window-width="1649"
+     inkscape:window-width="3406"
      inkscape:window-height="1266"
-     inkscape:window-x="133"
-     inkscape:window-y="385"
+     inkscape:window-x="71"
+     inkscape:window-y="413"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -111,13 +111,13 @@
     <path
        style="opacity:1;fill:#f9f9f9;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:19.2;paint-order:markers fill stroke"
        id="rect11"
-       width="5464.7593"
+       width="3779.5276"
        height="373.97845"
        x="-14.024191"
        y="888.19879"
        transform="matrix(0.26458333,0,0,0.26458333,14.423079,72.09148)"
        inkscape:path-effect="#path-effect12"
        sodipodi:type="rect"
-       d="M 157.95498,888.19879 H 5278.7559 a 171.97917,171.97917 45 0 1 171.9792,171.97921 v 30.0201 a 171.97917,171.97917 135 0 1 -171.9792,171.9791 H 157.95498 A 171.97917,171.97917 45 0 1 -14.024191,1090.1981 V 1060.178 A 171.97917,171.97917 135 0 1 157.95498,888.19879 Z" />
+       d="M 157.95498,888.19879 H 3593.5242 a 171.97917,171.97917 45 0 1 171.9792,171.97921 v 30.0201 a 171.97917,171.97917 135 0 1 -171.9792,171.9791 H 157.95498 A 171.97917,171.97917 45 0 1 -14.024191,1090.1981 V 1060.178 A 171.97917,171.97917 135 0 1 157.95498,888.19879 Z" />
   </g>
 </svg>

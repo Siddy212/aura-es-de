@@ -17,7 +17,7 @@
                   <unfocusedItemOpacity>0.95</unfocusedItemOpacity>
                   <unfocusedItemDimming>${gridDim}</unfocusedItemDimming>
                   <unfocusedItemSaturation>1</unfocusedItemSaturation>
-                  <itemSpacing>-0.1 0</itemSpacing>
+                  <itemSpacing>${grid-spacing-system} 0</itemSpacing>
                   <textColor>${systemInfoColor}</textColor>
                   <fontPath>${fontBold}</fontPath>
                   <fontSize>0.036111111111111</fontSize>

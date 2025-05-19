@@ -135,13 +135,13 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
       <clock name="clock">
             <pos>0.016 0.01</pos>
             <fontPath>${fontBold}</fontPath>
-            <fontSize>${metadata-font-size}</fontSize>
+            <fontSize>${gamelist-font-size}</fontSize>
             <color>${systemInfoColor}</color>
          </clock>
          <systemstatus name="systemstatus">
             <pos>0.984 0.01</pos>
             <fontPath>${fontBold}</fontPath>
-            <height>${metadata-font-size}</height>
+            <height>${gamelist-font-size}</height>
             <color>${systemInfoColor}</color>
       </systemstatus>   
    </view>
@@ -246,7 +246,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <image name="system-logo-main">
             <pos>0.5 0.075</pos>
             <opacity>1</opacity>
-            <maxSize>0.24 0.10</maxSize>
+            <maxSize>0.27 0.13</maxSize>
             <origin>0.5 0.5</origin>
             <path>${systemlogoArtPath}</path>
             <color>${systemInfoColor}</color>
@@ -255,7 +255,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <image name="system-logo-shadow">
             <pos>0.499 0.08</pos>
             <opacity>0.3</opacity>
-            <maxSize>0.24 0.10</maxSize>
+            <maxSize>0.27 0.13</maxSize>
             <origin>0.5 0.5</origin>
             <path>${systemlogoArtPath}</path>
             <color>000000</color>
@@ -298,17 +298,6 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    ///
    -->
 
-         <fontSize name="small">
-               <variables>
-                  <selectorpath>./_inc/images/selector-small.svg</selectorpath>
-               </variables>
-            </fontSize>
-            <fontSize name="medium">
-               <variables>
-                  <selectorpath>./_inc/images/selector-medium.svg</selectorpath>
-               </variables>
-            </fontSize>
-
             <fontSize name="small,medium">
                <variables>
                   <metadataExtended>true</metadataExtended>
@@ -319,7 +308,6 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <variables>
                   <metadataExtended>false</metadataExtended>
                   <metadataBase>true</metadataBase>
-                  <selectorpath>./_inc/images/selector-large.svg</selectorpath>
                </variables>
             </fontSize>
 
@@ -339,7 +327,6 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                   <metadataBase>false</metadataBase>
                   <metadataBadge>false</metadataBadge>
                   <metadataMin>false</metadataMin>
-                  <selectorpath>./_inc/images/selector-large.svg</selectorpath>
                </variables>
             </fontSize>
 
@@ -511,8 +498,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <pos>${textlist-x} 0.542</pos>
                <horizontalAlignment>left</horizontalAlignment>
                <fontPath>${fontBold}</fontPath>
-               <fontSize>${metadata-font-size}</fontSize>
-               <selectorImagePath>${selectorpath}</selectorImagePath>
+               <fontSize>${gamelist-font-size}</fontSize>
+               <selectorImagePath>./_inc/images/${selector-type}.svg</selectorImagePath>
                <selectorColor>${gamelistSelectorColor}</selectorColor>
                <selectedColor>${gamelistSelectedColor}</selectedColor>
                <primaryColor>${gamelistPrimaryColor}</primaryColor>

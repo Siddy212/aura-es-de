@@ -10,22 +10,24 @@
 
       <view name="gamelist">
          <image name="system-logo-main">
-            <pos>${dg-desc-x} 0.07</pos>
+            <pos>${dg-desc-x} 0.095</pos>
+            <maxSize>0.24 0.09</maxSize>
          </image>
          <image name="system-logo-shadow">
-            <pos>${dg-logo-shadow-x} 0.075</pos>
+            <pos>${dg-logo-shadow-x} 0.1</pos>
+            <maxSize>0.24 0.09</maxSize>
          </image>
 
          <clock name="clock">
                <pos>0.55 0.01</pos>
                <fontPath>${fontBold}</fontPath>
-               <fontSize>${metadata-font-size}</fontSize>
+               <fontSize>${gamelist-font-size}</fontSize>
                <color>${systemInfoColor}</color>
             </clock>
             <systemstatus name="systemstatus">
                <pos>0.984 0.01</pos>
                <fontPath>${fontBold}</fontPath>
-               <height>${metadata-font-size}</height>
+               <height>${gamelist-font-size}</height>
                <color>${systemInfoColor}</color>
          </systemstatus>   
 

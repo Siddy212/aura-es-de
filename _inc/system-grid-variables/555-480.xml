@@ -6,7 +6,8 @@
                                         <item-w-system>0.2251746</item-w-system>         
                                         <item-h-system>0.3</item-h-system>         
                                         <grid-h-system>0.9</grid-h-system>          
-                                        <grid-w-system>0.9015990984</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0128003005333333</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -15,7 +16,8 @@
                                         <item-w-system>0.3190806</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9581990418</grid-w-system>          
+                                        <grid-w-system>0.9581990418</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -24,7 +26,8 @@
                                         <item-w-system>0.3190806</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9581990418</grid-w-system>          
+                                        <grid-w-system>0.9581990418</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -33,7 +36,8 @@
                                         <item-w-system>0.3190806</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9581990418</grid-w-system>          
+                                        <grid-w-system>0.9581990418</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -44,7 +48,8 @@
                                         <item-w-system>0.132867</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.930999069</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.00150015516666665</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -53,7 +58,8 @@
                                         <item-w-system>0.1994004</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.997999002</grid-w-system>          
+                                        <grid-w-system>0.997999002</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -62,7 +68,8 @@
                                         <item-w-system>0.1994004</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.997999002</grid-w-system>          
+                                        <grid-w-system>0.997999002</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -71,7 +78,8 @@
                                         <item-w-system>0.1994004</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.997999002</grid-w-system>          
+                                        <grid-w-system>0.997999002</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -82,7 +90,8 @@
                                         <item-w-system>0.1195803</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9575990424</grid-w-system>          
+                                        <grid-w-system>0.9575990424</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -91,7 +100,8 @@
                                         <item-w-system>0.1794204</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.897999102</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0105002245</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -100,7 +110,8 @@
                                         <item-w-system>0.1794204</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.897999102</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0105002245</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -109,7 +120,8 @@
                                         <item-w-system>0.1794204</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.897999102</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0105002245</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -120,7 +132,8 @@
                                         <item-w-system>0.0981018</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.981999018</grid-w-system>          
+                                        <grid-w-system>0.981999018</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -129,7 +142,8 @@
                                         <item-w-system>0.1472526</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8843991156</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.01112017688</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -138,7 +152,8 @@
                                         <item-w-system>0.1472526</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8843991156</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.01112017688</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -147,7 +162,8 @@
                                         <item-w-system>0.1472526</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8843991156</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.01112017688</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -158,7 +174,8 @@
                                         <item-w-system>0.0911088</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.911999088</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.00311121244444446</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -167,7 +184,8 @@
                                         <item-w-system>0.1366632</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9575990424</grid-w-system>          
+                                        <grid-w-system>0.9575990424</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -176,7 +194,8 @@
                                         <item-w-system>0.1366632</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9575990424</grid-w-system>          
+                                        <grid-w-system>0.9575990424</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -185,7 +204,8 @@
                                         <item-w-system>0.1366632</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9575990424</grid-w-system>          
+                                        <grid-w-system>0.9575990424</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -196,7 +216,8 @@
                                         <item-w-system>0.1417581</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9932990067</grid-w-system>          
+                                        <grid-w-system>0.9932990067</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -205,7 +226,8 @@
                                         <item-w-system>0.2126871</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8515991484</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0294669505333333</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -214,7 +236,8 @@
                                         <item-w-system>0.2126871</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8515991484</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0294669505333333</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -223,7 +246,8 @@
                                         <item-w-system>0.2126871</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8515991484</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.0294669505333333</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -234,7 +258,8 @@
                                         <item-w-system>0.1852146</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.926999073</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.00325023175000003</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -243,7 +268,8 @@
                                         <item-w-system>0.2778219</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8342991657</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.05285041715</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -252,7 +278,8 @@
                                         <item-w-system>0.2778219</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8342991657</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.05285041715</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -261,7 +288,8 @@
                                         <item-w-system>0.2778219</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.8342991657</grid-w-system>          
+                                        <grid-w-system>0.94</grid-w-system>           
+                                        <grid-spacing-system>0.05285041715</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -272,7 +300,8 @@
                                         <item-w-system>0.1595403</item-w-system>         
                                         <item-h-system>0.283333333333333</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.9581990418</grid-w-system>          
+                                        <grid-w-system>0.9581990418</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -281,7 +310,8 @@
                                         <item-w-system>0.2392605</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.957999042</grid-w-system>          
+                                        <grid-w-system>0.957999042</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -290,7 +320,8 @@
                                         <item-w-system>0.2392605</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.957999042</grid-w-system>          
+                                        <grid-w-system>0.957999042</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -299,7 +330,8 @@
                                         <item-w-system>0.2392605</item-w-system>         
                                         <item-h-system>0.425</item-h-system>         
                                         <grid-h-system>0.85</grid-h-system>          
-                                        <grid-w-system>0.957999042</grid-w-system>          
+                                        <grid-w-system>0.957999042</grid-w-system>           
+                                        <grid-spacing-system>0</grid-spacing-system>          
                             </variables>
                     </fontSize>
              </aspectRatio>    
