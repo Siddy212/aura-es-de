@@ -68,17 +68,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.0156</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small-narrow</selector-type>
+                                        <selector-type>selector-small-narrow</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -89,17 +90,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.0192</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium-narrow</selector-type>
+                                        <selector-type>selector-medium-narrow</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -110,17 +112,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.0228</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large-narrow</selector-type>
+                                        <selector-type>selector-large-narrow</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -131,17 +134,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.024</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large-narrow</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large-narrow</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>1-1-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -217,17 +221,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.021125</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small</selector-type>
+                                        <selector-type>selector-small</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -238,17 +243,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.026</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium</selector-type>
+                                        <selector-type>selector-medium</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -259,17 +265,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.030875</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large</selector-type>
+                                        <selector-type>selector-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -280,17 +287,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.0325</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-10-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -366,17 +374,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.024375</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small</selector-type>
+                                        <selector-type>selector-small</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -387,17 +396,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.03</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium</selector-type>
+                                        <selector-type>selector-medium</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -408,17 +418,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.035625</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large</selector-type>
+                                        <selector-type>selector-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -429,17 +440,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.0375</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>16-9-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -515,17 +527,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.024375</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small</selector-type>
+                                        <selector-type>selector-small</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -536,17 +549,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.03</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium</selector-type>
+                                        <selector-type>selector-medium</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -557,17 +571,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.035625</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large</selector-type>
+                                        <selector-type>selector-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -578,17 +593,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.0375</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>19.5-9-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -664,17 +680,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.024375</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small</selector-type>
+                                        <selector-type>selector-small</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -685,17 +702,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.03</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium</selector-type>
+                                        <selector-type>selector-medium</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -706,17 +724,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.035625</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large</selector-type>
+                                        <selector-type>selector-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -727,17 +746,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.0375</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>21-9-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -813,17 +833,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.021125</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small</selector-type>
+                                        <selector-type>selector-small</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -834,17 +855,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.026</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium</selector-type>
+                                        <selector-type>selector-medium</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -855,17 +877,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.030875</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large</selector-type>
+                                        <selector-type>selector-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -876,17 +899,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.0325</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>3-2-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -962,17 +986,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.0156</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small-narrow</selector-type>
+                                        <selector-type>selector-small-narrow</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -983,17 +1008,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.0192</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium-narrow</selector-type>
+                                        <selector-type>selector-medium-narrow</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -1004,17 +1030,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.0228</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large-narrow</selector-type>
+                                        <selector-type>selector-large-narrow</selector-type>      
+                                        <image-w>0.4</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -1025,17 +1052,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.024</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large-narrow</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large-narrow</selector-type>      
+                                        <image-w>0.4</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>8-7-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 
@@ -1111,17 +1139,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0325</base-font-size>         
                                         <help-font-size>0.021125</help-font-size>         
-                                        <sys-font-size>0.040625</sys-font-size>         
+                                        <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
-                                        <gamelist-font-size>0.02925</gamelist-font-size>
+                                        <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.89573660714</sys-details-y>
-                                        <sys-details-shadow-y>0.9002152901757</sys-details-shadow-y>
+                                        <sys-details-y>0.89110535714</sys-details-y>
+                                        <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.68888888888889</textlist-line-spacing>
+                                        <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
-                                        <selector-type>selector-small</selector-type>
+                                        <selector-type>selector-small</selector-type>      
+                                        <image-w>0.36</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing> 
@@ -1132,17 +1161,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.04</base-font-size>         
                                         <help-font-size>0.026</help-font-size>         
-                                        <sys-font-size>0.05</sys-font-size>         
+                                        <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
-                                        <gamelist-font-size>0.036</gamelist-font-size>
+                                        <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.90464285714</sys-details-y>
-                                        <sys-details-shadow-y>0.9091660714257</sys-details-shadow-y>
+                                        <sys-details-y>0.89894285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.58333333333333</textlist-line-spacing>
+                                        <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
-                                        <selector-type>selector-medium</selector-type>
+                                        <selector-type>selector-medium</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing> 
@@ -1153,17 +1183,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.0475</base-font-size>         
                                         <help-font-size>0.030875</help-font-size>         
-                                        <sys-font-size>0.059375</sys-font-size>         
+                                        <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
-                                        <gamelist-font-size>0.04275</gamelist-font-size>
+                                        <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91354910714</sys-details-y>
-                                        <sys-details-shadow-y>0.9181168526757</sys-details-shadow-y>
+                                        <sys-details-y>0.90678035714</sys-details-y>
+                                        <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.57575757575758</textlist-line-spacing>
+                                        <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
-                                        <selector-type>selector-large</selector-type>
+                                        <selector-type>selector-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing> 
@@ -1174,17 +1205,18 @@
                                <!--   All Variables   -->          
                                         <base-font-size>0.05</base-font-size>         
                                         <help-font-size>0.0325</help-font-size>         
-                                        <sys-font-size>0.0625</sys-font-size>         
+                                        <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>
-                                        <gamelist-font-size>0.045</gamelist-font-size>
+                                        <gamelist-font-size>0.043125</gamelist-font-size>
                                <!--   System View Variables   -->          
-                                        <sys-details-y>0.91651785714</sys-details-y>
-                                        <sys-details-shadow-y>0.9211004464257</sys-details-shadow-y>
+                                        <sys-details-y>0.90939285714</sys-details-y>
+                                        <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
                                <!--   Textlist Variables   -->          
-                                        <textlist-line-spacing>1.82962962962963</textlist-line-spacing>
-                                        <textlist-line-height>0.0775185185185185</textlist-line-height>
-                                        <selector-type>selector-x-large</selector-type>
+                                        <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
+                                        <textlist-line-height>0.07059</textlist-line-height>
+                                        <selector-type>selector-x-large</selector-type>      
+                                        <image-w>0.37</image-w>   
                                <!--   Metadata Variables   -->                 
                                         <metadata-background>4-3-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing> 

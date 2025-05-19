@@ -19,17 +19,33 @@
          </image>
 
          <clock name="clock">
-               <pos>0.55 0.01</pos>
+               <scope>view</scope>
+               <pos>0.56 0.01</pos>
                <fontPath>${fontBold}</fontPath>
                <fontSize>${gamelist-font-size}</fontSize>
                <color>${systemInfoColor}</color>
             </clock>
             <systemstatus name="systemstatus">
+               <scope>view</scope>
                <pos>0.984 0.01</pos>
                <fontPath>${fontBold}</fontPath>
                <height>${gamelist-font-size}</height>
                <color>${systemInfoColor}</color>
-         </systemstatus>   
+         </systemstatus>         
+      <clock name="clock2">
+               <scope>menu</scope>
+            <pos>0.016 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <fontSize>${gamelist-font-size}</fontSize>
+            <color>${systemInfoColor}</color>
+         </clock>
+         <systemstatus name="systemstatus2">
+               <scope>menu</scope>
+            <pos>0.984 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <height>${gamelist-font-size}</height>
+            <color>${systemInfoColor}</color>
+      </systemstatus>   
 
         <grid name="grid">
             <pos>${dg-grid-x} 0</pos>

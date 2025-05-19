@@ -139,26 +139,26 @@
             <fontSize>${metadata-font-size}</fontSize>
             <metadata>description</metadata>
             <color>${gameMetadataColor}</color>
-            <containerStartDelay>8</containerStartDelay>
-            <containerScrollSpeed>0.6</containerScrollSpeed>
+            <containerStartDelay>3</containerStartDelay>
+            <containerScrollSpeed>0.5</containerScrollSpeed>
          </text>
       </view>
       <fontSize name="small,medium">
          <variables>
             <imagepos>${base-desc-x} 0.3925</imagepos>
-            <imagemaxSize>0.36 0.33</imagemaxSize>
+            <imagemaxSize>${image-w} 0.33</imagemaxSize>
          </variables>
       </fontSize>
       <fontSize name="large">
          <variables>
             <imagepos>${base-desc-x} 0.445</imagepos>
-            <imagemaxSize>0.37 0.42</imagemaxSize>
+            <imagemaxSize>${image-w} 0.42</imagemaxSize>
          </variables>
       </fontSize>
       <fontSize name="x-large">
          <variables>
             <imagepos>${base-desc-x} 0.58</imagepos>
-            <imagemaxSize>0.37 0.65</imagemaxSize>
+            <imagemaxSize>${image-w} 0.65</imagemaxSize>
          </variables>
       </fontSize>
 
