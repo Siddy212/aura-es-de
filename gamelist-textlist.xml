@@ -131,7 +131,7 @@
          <!-- End: Base Metadata -->
 
          <text name="game-description">
-            <size>${base-desc-w} 0.105</size>
+            <size>${base-desc-w} ${base-desc-h}</size>
             <lineSpacing>${desc-line-spacing}</lineSpacing>
             <visible>${metadataMin}</visible>
             <origin>0.5 0.5</origin>
@@ -147,18 +147,24 @@
          <variables>
             <imagepos>${base-desc-x} 0.3925</imagepos>
             <imagemaxSize>${image-w} 0.33</imagemaxSize>
+            <base-desc-y>0.8605</base-desc-y>
+            <base-desc-h>0.105</base-desc-h>
          </variables>
       </fontSize>
       <fontSize name="large">
          <variables>
-            <imagepos>${base-desc-x} 0.445</imagepos>
-            <imagemaxSize>${image-w} 0.42</imagemaxSize>
+            <imagepos>${base-desc-x} 0.4125</imagepos>
+            <imagemaxSize>${image-w} 0.37</imagemaxSize>
+            <base-desc-y>0.8532</base-desc-y>
+            <base-desc-h>0.2</base-desc-h>
          </variables>
       </fontSize>
       <fontSize name="x-large">
          <variables>
             <imagepos>${base-desc-x} 0.58</imagepos>
             <imagemaxSize>${image-w} 0.65</imagemaxSize>
+            <base-desc-y>0.8605</base-desc-y>
+            <base-desc-h>0.105</base-desc-h>
          </variables>
       </fontSize>
 
@@ -199,17 +205,17 @@
          <!-- End: Extended Metadata -->
          <!-- Start: Base Metadata -->
          <text name="game-name-base">
-            <pos>${base-name-x} 0.6945</pos>
+            <pos>${base-name-x} 0.6385</pos>
          </text>
          <datetime name="game-releasedate-base">
-            <pos>${base-release-date-x} 0.7645</pos>
+            <pos>${base-release-date-x} 0.707</pos>
          </datetime>
          <text name="game-genre-base">
-            <pos>${base-genre-x} 0.7645</pos>
+            <pos>${base-genre-x} 0.707</pos>
          </text>
          <!-- End: Base Metadata -->
          <text name="game-description">
-            <pos>${base-desc-x} 0.8605</pos>
+            <pos>${base-desc-x} ${base-desc-y}</pos>
          </text>
       </view>
 

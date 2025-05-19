@@ -187,7 +187,7 @@
          <!-- End: Base Metadata -->
 
          <text name="game-description">
-            <size>${base-desc-w} 0.105</size>
+            <size>${base-desc-w} ${base-desc-h}</size>
             <lineSpacing>${desc-line-spacing}</lineSpacing>
             <visible>${metadataMin}</visible>
             <origin>0.5 0.5</origin>
@@ -198,23 +198,30 @@
             <containerStartDelay>3</containerStartDelay>
             <containerScrollSpeed>0.5</containerScrollSpeed>
          </text>
+
       </view>
       <fontSize name="small,medium">
          <variables>
             <imagepos>${dg-desc-x} 0.3925</imagepos>
-            <imagemaxSize>0.36 0.33</imagemaxSize>
+            <imagemaxSize>${image-w} 0.33</imagemaxSize>
+            <base-desc-y>0.8605</base-desc-y>
+            <base-desc-h>0.105</base-desc-h>
          </variables>
       </fontSize>
       <fontSize name="large">
          <variables>
-            <imagepos>${dg-desc-x} 0.445</imagepos>
-            <imagemaxSize>0.37 0.42</imagemaxSize>
+            <imagepos>${dg-desc-x} 0.4125</imagepos>
+            <imagemaxSize>${image-w} 0.37</imagemaxSize>
+            <base-desc-y>0.8532</base-desc-y>
+            <base-desc-h>0.2</base-desc-h>
          </variables>
       </fontSize>
       <fontSize name="x-large">
          <variables>
             <imagepos>${dg-desc-x} 0.58</imagepos>
-            <imagemaxSize>0.37 0.65</imagemaxSize>
+            <imagemaxSize>${image-w} 0.65</imagemaxSize>
+            <base-desc-y>0.8605</base-desc-y>
+            <base-desc-h>0.105</base-desc-h>
          </variables>
       </fontSize>
 
@@ -255,17 +262,17 @@
          <!-- End: Extended Metadata -->
          <!-- Start: Base Metadata -->
          <text name="game-name-base">
-            <pos>${dg-name-x} 0.6945</pos>
+            <pos>${dg-name-x} 0.6385</pos>
          </text>
          <datetime name="game-releasedate-base">
-            <pos>${dg-release-date-x} 0.7645</pos>
+            <pos>${dg-release-date-x} 0.707</pos>
          </datetime>
          <text name="game-genre-base">
-            <pos>${dg-genre-x} 0.7645</pos>
+            <pos>${dg-genre-x} 0.707</pos>
          </text>
          <!-- End: Base Metadata -->
          <text name="game-description">
-            <pos>${dg-desc-x} 0.8605</pos>
+            <pos>${dg-desc-x} ${base-desc-y}</pos>
          </text>
       </view>
 </theme>
