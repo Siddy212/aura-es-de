@@ -438,6 +438,15 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             </image>
       </view>
    </variant>
+      <!--   ///   Glass/Blur: Basic Grid and Carousel Boxart Variations with bottom bar blur  ///   -->
+
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+      <view name="gamelist">
+            <image name="blur-bottom">            
+               <cropSize>${sys-carousel-w} ${ba-bottom-blur-h}</cropSize>
+            </image>
+      </view>
+   </variant>
    <!--   ///   Glass/Blur: Variations with full-screen  ///   -->
 
    <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
@@ -445,7 +454,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <image name="blur-top">
                <origin>0.5 0</origin>
                <pos>0.5 0</pos>
-               <cropSize>${sys-carousel-w} 0.152</cropSize>
+               <cropSize>${sys-carousel-w} 0.155</cropSize>
                <cropPos>0.5 0</cropPos>
                <opacity>1</opacity>
                <brightness>0</brightness>
@@ -466,7 +475,22 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <zIndex>5</zIndex>
                <interpolation>linear</interpolation>
                <color>FFFFFF</color>
-            </image>
+            </image>            
+            <video name="game-video">
+               <cropSize>1 0.785</cropSize>
+               <cropPos>0.5 1</cropPos>
+               <origin>0.5 1</origin>
+               <pos>0.5 0.94</pos>
+               <videoCornerRadius>0.0</videoCornerRadius>
+               <pillarboxes>false</pillarboxes>
+               <iterationCount>1</iterationCount>
+               <imageType>none</imageType>
+               <fadeInType>transparent</fadeInType>
+               <visible>true</visible>
+               <zIndex>13</zIndex>
+               <brightness>-0.4</brightness>
+               <saturation>0.8</saturation>
+            </video>
       </view>
    </variant>
    <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
@@ -474,6 +498,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <image name="dg-glass">
                <size>1 1</size>
             </image>
+
       </view>
    </variant>
    <variant name="carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
@@ -482,7 +507,11 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <size>1 1</size>
                <colorEnd>00000000</colorEnd>
                <gradientType>vertical</gradientType>
-            </image>            
+            </image>           
+            <video name="game-video">
+               <cropSize>1 0.845</cropSize>
+               <pos>0.5 1</pos>
+            </video>         
       </view>
    </variant>
    <!--   ///   Gamelist View: Textlist   ///   -->

@@ -50,6 +50,10 @@
                <backgroundImage>./_inc/coversize-shadow/${systemCoverSize}.webp</backgroundImage>
          </grid>
 
+         <video name="game-video">
+            <delay>3.5</delay>
+            <fadeInTime>0.5</fadeInTime>
+         </video>
          <badges name="badges">
             <origin>0 0.5</origin>
             <pos>0.56 0.053</pos>

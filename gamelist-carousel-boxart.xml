@@ -42,23 +42,20 @@
          </carousel>  
 
       <!--  Metadata  -->
-
-         <video name="game-media">
+         <image name="game-image">
             <cropSize>1 0.785</cropSize>
             <cropPos>0.5 1</cropPos>
             <origin>0.5 1</origin>
             <pos>0.5 0.94</pos>
-            <delay>5</delay>
-            <videoCornerRadius>0.0</videoCornerRadius>
-            <pillarboxes>false</pillarboxes>
-            <iterationCount>1</iterationCount>
-            <onIterationsDone>image</onIterationsDone>
             <imageType>screenshot</imageType>
-            <imageCornerRadius>${scaledimageCornerRadius}</imageCornerRadius>
             <visible>true</visible>
             <zIndex>3</zIndex>
             <brightness>-0.6</brightness>
             <saturation>0.8</saturation>
+         </image>
+         <video name="game-video">
+            <delay>2.5</delay>
+            <fadeInTime>0.25</fadeInTime>
          </video>
          <badges name="badges">
             <origin>0 0.5</origin>

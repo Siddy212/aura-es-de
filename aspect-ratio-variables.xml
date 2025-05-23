@@ -60,7 +60,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -220,7 +221,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -380,7 +382,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -540,7 +543,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -700,7 +704,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -860,7 +865,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -1020,7 +1026,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -1180,7 +1187,8 @@
                                         <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
                                         <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
                                         <ba-right-blur-x>0.52</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>                                 
+                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
+                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
                             </variables>          
                    <fontSize name="small">
                             <variables>
