@@ -28,6 +28,9 @@
    </colorScheme>  
    <colorScheme name="logo-blue">
       <label>[Logo] Blue</label>
+   </colorScheme> 
+   <colorScheme name="logo-violet">
+      <label>[Logo] Violet</label>
    </colorScheme>
    <colorScheme name="logo-green">
       <label>[Logo] Green</label>
@@ -37,6 +40,12 @@
    </colorScheme>
    <colorScheme name="logo-black">
       <label>[Logo] Black</label>
+   </colorScheme>
+   <colorScheme name="logo-pocket-light">
+      <label>[Logo] Pocket Light</label>
+   </colorScheme>
+   <colorScheme name="logo-pocket-dark">
+      <label>[Logo] Pocket Dark</label>
    </colorScheme>
    <colorScheme name="art-light-glass">
       <label>[Art] Light Glass</label>
@@ -49,6 +58,9 @@
    </colorScheme>  
    <colorScheme name="art-blue">
       <label>[Art] Blue</label>
+   </colorScheme> 
+   <colorScheme name="art-violet">
+      <label>[Art] Violet</label>
    </colorScheme>
    <colorScheme name="art-green">
       <label>[Art] Green</label>
@@ -58,6 +70,12 @@
    </colorScheme>  
    <colorScheme name="art-black">
       <label>[Art] Black</label>
+   </colorScheme>
+   <colorScheme name="art-pocket-light">
+      <label>[Art] Pocket Light</label>
+   </colorScheme>
+   <colorScheme name="art-pocket-dark">
+      <label>[Art] Pocket Dark</label>
    </colorScheme>
 
    <transitions name="transitions">

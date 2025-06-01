@@ -16,6 +16,11 @@
             <wallpaper>blue</wallpaper>      
          </variables>
    </colorScheme>
+   <colorScheme name="art-violet,logo-violet">
+         <variables>
+            <wallpaper>violet</wallpaper>      
+         </variables>
+   </colorScheme>
    <colorScheme name="art-orange,logo-orange">
          <variables>
             <wallpaper>orange</wallpaper>      
@@ -29,6 +34,16 @@
    <colorScheme name="art-black,logo-black">
          <variables>
             <wallpaper>black</wallpaper>      
+         </variables>
+   </colorScheme>   
+   <colorScheme name="art-pocket-light,logo-pocket-light">
+         <variables>
+            <wallpaper>pocket-light</wallpaper>      
+         </variables>
+   </colorScheme>   
+   <colorScheme name="art-pocket-dark,logo-pocket-dark">
+         <variables>
+            <wallpaper>pocket-dark</wallpaper>      
          </variables>
    </colorScheme>   
 
@@ -66,7 +81,7 @@
 
 
 
-   <colorScheme name="art-purple,art-blue,art-green,art-orange,art-black,logo-purple,logo-blue,logo-green,logo-orange,logo-black">
+   <colorScheme name="art-purple,art-blue,art-violet,art-green,art-orange,art-black,art-pocket-light,art-pocket-dark,logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark">
          <variables>
             <gamelistBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</gamelistBackgroundPath>
             <gamelistBlurStripPath>./_inc/wallpaper/${wallpaper}/${wallpaper}-blur-strip</gamelistBlurStripPath>
@@ -77,7 +92,7 @@
 
 
 
-   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black,logo-purple,logo-blue,logo-green,logo-orange,logo-black">
+   <colorScheme name="art-purple,art-blue,art-violet,art-orange,art-green,art-black,art-pocket-light,art-pocket-dark,logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark">
       <variables>
          <systemBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</systemBackgroundPath>
          <gradientSwitch>false</gradientSwitch>
@@ -85,7 +100,7 @@
          <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
       </variables>
    </colorScheme>         
-   <colorScheme name="art-purple,art-blue,art-orange,art-green,art-black">
+   <colorScheme name="art-purple,art-blue,art-violet,art-orange,art-green,art-black,art-pocket-light,art-pocket-dark">
       <variables>
          <selectorImagePath>./_inc/coversize-selector/system-art.webp</selectorImagePath>
          <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
@@ -94,25 +109,25 @@
          <gridDim>0.9</gridDim>
       </variables>
    </colorScheme>   
-   <colorScheme name="logo-purple,logo-blue,logo-green,logo-orange,logo-black">
+   <colorScheme name="logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark">
       <variables>
          <selectorImagePath>./_inc/coversize-selector/system-controller.webp</selectorImagePath>
          <fullscreen-style>system-fullscreen-logo</fullscreen-style>
          <carouselArtPath>./_inc/controllers/${system.theme}</carouselArtPath>
          <gridImagePath>./_inc/controllers/${system.theme}</gridImagePath>
-         <gridDim>0.4</gridDim>
+         <gridDim>0.8</gridDim>
       </variables>
    </colorScheme>    
 
    
    <!--     Light Color Schemes     -->
-   <colorScheme name="art-light-glass,art-blue,logo-blue,art-orange,logo-orange">
+   <colorScheme name="art-light-glass,art-pocket-light,art-blue,logo-blue,art-orange,logo-orange,logo-pocket-light">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>373737</backgroundColor>
          <systemInfoColor>FFFFFF</systemInfoColor>
          <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
-         <gridSelectorColor>FFFFFF</gridSelectorColor>
+         <gridSelectorColor>FFFFFFcc</gridSelectorColor>
          <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
          <gamelistSelectorColor>222222</gamelistSelectorColor>
          <gamelistSelectedColor>ffffff</gamelistSelectedColor>
@@ -128,15 +143,15 @@
    </colorScheme>    
 
    <!--     Dark Color Schemes     -->
-   <colorScheme name="art-dark-glass,art-purple,logo-purple,art-green,logo-green">
+   <colorScheme name="art-dark-glass,art-purple,logo-purple,art-violet,logo-violet,art-green,logo-green">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>000000</backgroundColor>
          <systemInfoColor>FFFFFF</systemInfoColor>
          <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
-         <gridSelectorColor>000000</gridSelectorColor>
+         <gridSelectorColor>000000cc</gridSelectorColor>
          <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
-         <gamelistSelectorColor>000000</gamelistSelectorColor>
+         <gamelistSelectorColor>ffffff15</gamelistSelectorColor>
          <gamelistSelectedColor>ffffff</gamelistSelectedColor>
          <gamelistPrimaryColor>FFFFFF</gamelistPrimaryColor>
          <gameMetadataColor>FFFFFF</gameMetadataColor>
@@ -148,15 +163,15 @@
       </variables>
    </colorScheme>  
    
-   <colorScheme name="art-black,logo-black">
+   <colorScheme name="art-black,art-pocket-dark,logo-black,logo-pocket-dark">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>000000</backgroundColor>
          <systemInfoColor>FFFFFF</systemInfoColor>
          <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
-         <gridSelectorColor>000000</gridSelectorColor>
+         <gridSelectorColor>000000cc</gridSelectorColor>
          <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
-         <gamelistSelectorColor>ffffff30</gamelistSelectorColor>
+         <gamelistSelectorColor>ffffff20</gamelistSelectorColor>
          <gamelistSelectedColor>FFFFFF</gamelistSelectedColor>
          <gamelistPrimaryColor>FFFFFF</gamelistPrimaryColor>
          <gameMetadataColor>FFFFFF</gameMetadataColor>

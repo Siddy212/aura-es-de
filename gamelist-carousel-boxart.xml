@@ -50,7 +50,7 @@
             <imageType>screenshot</imageType>
             <visible>true</visible>
             <zIndex>3</zIndex>
-            <brightness>-0.6</brightness>
+            <brightness>-0.8</brightness>
             <saturation>0.8</saturation>
          </image>
          <video name="game-video">

@@ -41,7 +41,7 @@
                <fontPath>${fontBold}</fontPath>
                <fontSize>0.036111111111111</fontSize>
                <imageCornerRadius>0.005</imageCornerRadius>
-               <selectorColor>${gamelistSelectedColor}</selectorColor>
+               <selectorColor>${gridSelectorColor}</selectorColor>
                <selectorLayer>top</selectorLayer>
                <zIndex>9</zIndex>
                <fractionalRows>true</fractionalRows>

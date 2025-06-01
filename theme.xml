@@ -475,6 +475,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <zIndex>5</zIndex>
                <interpolation>linear</interpolation>
                <color>FFFFFF</color>
+               <opacity>1</opacity>
             </image>            
             <video name="game-video">
                <cropSize>1 0.785</cropSize>

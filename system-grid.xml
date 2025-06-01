@@ -22,7 +22,7 @@
                   <fontPath>${fontBold}</fontPath>
                   <fontSize>0.036111111111111</fontSize>
                   <imageCornerRadius>0.002</imageCornerRadius>
-                  <selectorColor>ffffff</selectorColor>
+                  <selectorColor>${gridSelectorColor}</selectorColor>
                   <selectorLayer>bottom</selectorLayer>
                   <zIndex>9</zIndex>
                   <fractionalRows>true</fractionalRows>
