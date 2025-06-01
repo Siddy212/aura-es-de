@@ -129,7 +129,7 @@
          <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
          <gridSelectorColor>FFFFFFcc</gridSelectorColor>
          <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
-         <gamelistSelectorColor>222222</gamelistSelectorColor>
+         <gamelistSelectorColor>222222cc</gamelistSelectorColor>
          <gamelistSelectedColor>ffffff</gamelistSelectedColor>
          <gamelistPrimaryColor>222222</gamelistPrimaryColor>
          <gameMetadataColor>222222</gameMetadataColor>
@@ -151,7 +151,7 @@
          <systemCarouselTextBackgroundColor>00000000</systemCarouselTextBackgroundColor>
          <gridSelectorColor>000000cc</gridSelectorColor>
          <gamelistBackgroundOpacity>0.8</gamelistBackgroundOpacity>
-         <gamelistSelectorColor>ffffff15</gamelistSelectorColor>
+         <gamelistSelectorColor>ffffff30</gamelistSelectorColor>
          <gamelistSelectedColor>ffffff</gamelistSelectedColor>
          <gamelistPrimaryColor>FFFFFF</gamelistPrimaryColor>
          <gameMetadataColor>FFFFFF</gameMetadataColor>
