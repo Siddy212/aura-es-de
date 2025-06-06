@@ -1,47 +1,49 @@
 <theme>
       <variables>
          <systemlogoArtPath>./_inc/system-logo/${system.theme}.svg</systemlogoArtPath>
+            <logoGridDim>0.8</logoGridDim>   
       </variables>
 
 
 
 
-   <colorScheme name="art-purple,logo-purple">
+   <colorScheme name="art-purple,logo-purple,controller-purple">
          <variables>
             <wallpaper>purple</wallpaper>      
          </variables>
    </colorScheme>
-   <colorScheme name="art-blue,logo-blue">
+   <colorScheme name="art-blue,logo-blue,controller-blue">
          <variables>
             <wallpaper>blue</wallpaper>      
          </variables>
    </colorScheme>
-   <colorScheme name="art-violet,logo-violet">
+   <colorScheme name="art-violet,logo-violet,controller-violet">
          <variables>
             <wallpaper>violet</wallpaper>      
          </variables>
    </colorScheme>
-   <colorScheme name="art-orange,logo-orange">
+   <colorScheme name="art-orange,logo-orange,controller-orange">
          <variables>
             <wallpaper>orange</wallpaper>      
          </variables>
    </colorScheme>
-   <colorScheme name="art-green,logo-green">
+   <colorScheme name="art-green,logo-green,controller-green">
          <variables>
             <wallpaper>green</wallpaper>      
          </variables>
    </colorScheme>
-   <colorScheme name="art-black,logo-black">
+   <colorScheme name="art-black,logo-black,controller-black">
          <variables>
             <wallpaper>black</wallpaper>      
          </variables>
    </colorScheme>   
-   <colorScheme name="art-pocket-light,logo-pocket-light">
+   <colorScheme name="art-pocket-light,logo-pocket-light,controller-pocket-light">
          <variables>
-            <wallpaper>pocket-light</wallpaper>      
+            <wallpaper>pocket-light</wallpaper>   
+            <logoGridDim>1</logoGridDim>   
          </variables>
    </colorScheme>   
-   <colorScheme name="art-pocket-dark,logo-pocket-dark">
+   <colorScheme name="art-pocket-dark,logo-pocket-dark,controller-pocket-dark">
          <variables>
             <wallpaper>pocket-dark</wallpaper>      
          </variables>
@@ -64,6 +66,9 @@
          <gradientSwitch>true</gradientSwitch>
          <fullscreen-style>system-fullscreen-art-glass</fullscreen-style>
          <systemBackgroundPath>./_inc/default-art/${system.theme}/${system.theme}-blur-full-no-char</systemBackgroundPath>
+         <grid-style>system-grid</grid-style>
+         <carousel-style>system-carousel-horizontal</carousel-style>
+         <systemImagePath>./_inc/default-art/${system.theme}/${system.theme}.webp</systemImagePath>
       </variables>
    </colorScheme>   
    <colorScheme name="art-light-glass">
@@ -81,7 +86,9 @@
 
 
 
-   <colorScheme name="art-purple,art-blue,art-violet,art-green,art-orange,art-black,art-pocket-light,art-pocket-dark,logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark">
+   <colorScheme name="art-purple,art-blue,art-violet,art-green,art-orange,art-black,art-pocket-light,art-pocket-dark,
+   logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark,
+   controller-purple,controller-blue,controller-violet,controller-green,controller-orange,controller-black,controller-pocket-light,controller-pocket-dark">
          <variables>
             <gamelistBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</gamelistBackgroundPath>
             <gamelistBlurStripPath>./_inc/wallpaper/${wallpaper}/${wallpaper}-blur-strip</gamelistBlurStripPath>
@@ -92,7 +99,9 @@
 
 
 
-   <colorScheme name="art-purple,art-blue,art-violet,art-orange,art-green,art-black,art-pocket-light,art-pocket-dark,logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark">
+   <colorScheme name="art-purple,art-blue,art-violet,art-orange,art-green,art-black,art-pocket-light,art-pocket-dark,
+   logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark,
+   controller-purple,controller-blue,controller-violet,controller-green,controller-orange,controller-black,controller-pocket-light,controller-pocket-dark">
       <variables>
          <systemBackgroundPath>./_inc/wallpaper/${wallpaper}/${wallpaper}</systemBackgroundPath>
          <gradientSwitch>false</gradientSwitch>
@@ -104,24 +113,36 @@
       <variables>
          <selectorImagePath>./_inc/coversize-selector/system-art.webp</selectorImagePath>
          <fullscreen-style>system-fullscreen-art-wallpaper</fullscreen-style>
-         <carouselArtPath>./_inc/default-art/${system.theme}/${system.theme}</carouselArtPath>
-         <gridImagePath>./_inc/default-art/${system.theme}/${system.theme}</gridImagePath>
+         <grid-style>system-grid</grid-style>
+         <carousel-style>system-carousel-horizontal</carousel-style>
+         <systemImagePath>./_inc/default-art/${system.theme}/${system.theme}.webp</systemImagePath>
          <gridDim>0.9</gridDim>
       </variables>
    </colorScheme>   
    <colorScheme name="logo-purple,logo-blue,logo-violet,logo-green,logo-orange,logo-black,logo-pocket-light,logo-pocket-dark">
       <variables>
-         <selectorImagePath>./_inc/coversize-selector/system-controller.webp</selectorImagePath>
+         <selectorImagePath>./_inc/coversize-selector/system-logo.webp</selectorImagePath>
          <fullscreen-style>system-fullscreen-logo</fullscreen-style>
-         <carouselArtPath>./_inc/controllers/${system.theme}</carouselArtPath>
-         <gridImagePath>./_inc/controllers/${system.theme}</gridImagePath>
+         <grid-style>system-grid-logo</grid-style>
+         <carousel-style>system-carousel-vertical</carousel-style>
+         <systemImagePath>./_inc/system-logo/${system.theme}.webp</systemImagePath>
          <gridDim>0.8</gridDim>
       </variables>
-   </colorScheme>    
+   </colorScheme>     
+   <colorScheme name="controller-purple,controller-blue,controller-violet,controller-green,controller-orange,controller-black,controller-pocket-light,controller-pocket-dark">
+      <variables>
+         <selectorImagePath>./_inc/coversize-selector/system-controller.webp</selectorImagePath>
+         <fullscreen-style>system-fullscreen-controller</fullscreen-style>
+         <grid-style>system-grid</grid-style>
+         <carousel-style>system-carousel-horizontal</carousel-style>
+         <systemImagePath>./_inc/controllers/${system.theme}.webp</systemImagePath>
+         <gridDim>0.8</gridDim>
+      </variables>
+   </colorScheme>   
 
    
    <!--     Light Color Schemes     -->
-   <colorScheme name="art-light-glass,art-pocket-light,art-blue,logo-blue,art-orange,logo-orange,logo-pocket-light">
+   <colorScheme name="art-light-glass,art-pocket-light,logo-pocket-light,controller-pocket-light,art-blue,logo-blue,controller-blue,art-orange,logo-orange,controller-orange">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>373737</backgroundColor>
@@ -143,7 +164,7 @@
    </colorScheme>    
 
    <!--     Dark Color Schemes     -->
-   <colorScheme name="art-dark-glass,art-purple,logo-purple,art-violet,logo-violet,art-green,logo-green">
+   <colorScheme name="art-dark-glass,art-purple,logo-purple,controller-purple,art-violet,logo-violet,controller-violet,art-green,logo-green,controller-green">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>000000</backgroundColor>
@@ -163,7 +184,7 @@
       </variables>
    </colorScheme>  
    
-   <colorScheme name="art-black,art-pocket-dark,logo-black,logo-pocket-dark">
+   <colorScheme name="art-black,logo-black,controller-black,art-pocket-dark,logo-pocket-dark,controller-pocket-dark">
       <variables>
          <helpTextColor>FFFFFF</helpTextColor>
          <backgroundColor>000000</backgroundColor>

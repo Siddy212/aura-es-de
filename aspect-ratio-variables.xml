@@ -12,7 +12,8 @@
                                         <left-blur-crop-w>0.41898</left-blur-crop-w>    
                                         <right-blur-x>0.542</right-blur-x>    
                                         <right-blur-crop-x>0.684</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.41898</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.41898</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.91996</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1.77777777777778</sys-carousel-w>    
                                         <sys-carousel-item-w>0.856481481475555</sys-carousel-item-w>    
@@ -48,20 +49,8 @@
                                         <dg-right-blur-x>0.565</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.702</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.705</ba-rating-x> 
-                                        <ba-badge-x>0.318</ba-badge-x>  
-                                        <ba-name-x>0.38</ba-name-x>        
-                                        <ba-release-date-x>0.38</ba-release-date-x>     
-                                        <ba-genre-x>0.55</ba-genre-x>                                            
-                                        <ba-desc-x>0.508</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -75,6 +64,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0286</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.03003</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -85,6 +78,7 @@
                                         <metadata-background>1-1-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.36</base-desc-w>  
+                                        <aspect-ratio>1-1</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -99,6 +93,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0352</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.03696</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -109,6 +107,7 @@
                                         <metadata-background>1-1-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing>      
                                         <base-desc-w>0.36</base-desc-w>  
+                                        <aspect-ratio>1-1</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -123,6 +122,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0418</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.04389</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -133,6 +136,7 @@
                                         <metadata-background>1-1-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing>      
                                         <base-desc-w>0.36</base-desc-w>  
+                                        <aspect-ratio>1-1</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -147,6 +151,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.044</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0462</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -157,6 +165,7 @@
                                         <metadata-background>1-1-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.36</base-desc-w>  
+                                        <aspect-ratio>1-1</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -173,7 +182,8 @@
                                         <left-blur-crop-w>0.41898</left-blur-crop-w>    
                                         <right-blur-x>0.53993</right-blur-x>    
                                         <right-blur-crop-x>0.86</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.41898</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.41898</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.91789</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1.11111111111111</sys-carousel-w>    
                                         <sys-carousel-item-w>0.535300925922222</sys-carousel-item-w>    
@@ -209,20 +219,8 @@
                                         <dg-right-blur-x>0.55993</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.89</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.705</ba-rating-x> 
-                                        <ba-badge-x>0.31</ba-badge-x>  
-                                        <ba-name-x>0.35</ba-name-x>        
-                                        <ba-release-date-x>0.35</ba-release-date-x>     
-                                        <ba-genre-x>0.48</ba-genre-x>                                            
-                                        <ba-desc-x>0.505</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -236,6 +234,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.024578125</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.02580703125</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -246,6 +248,7 @@
                                         <metadata-background>16-10-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>16-10</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -260,6 +263,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.03025</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0317625</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -270,6 +277,7 @@
                                         <metadata-background>16-10-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>16-10</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -284,6 +292,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.035921875</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.03771796875</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -294,6 +306,7 @@
                                         <metadata-background>16-10-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>16-10</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -308,6 +321,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0378125</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.039703125</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -318,6 +335,7 @@
                                         <metadata-background>16-10-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>16-10</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -334,7 +352,8 @@
                                         <left-blur-crop-w>0.4</left-blur-crop-w>    
                                         <right-blur-x>0.54</right-blur-x>    
                                         <right-blur-crop-x>0.9</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.4</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.4</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.88</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1</sys-carousel-w>    
                                         <sys-carousel-item-w>0.48177083333</sys-carousel-item-w>    
@@ -370,20 +389,8 @@
                                         <dg-right-blur-x>0.575</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.69</ba-rating-x> 
-                                        <ba-badge-x>0.31</ba-badge-x>  
-                                        <ba-name-x>0.347</ba-name-x>        
-                                        <ba-release-date-x>0.347</ba-release-date-x>     
-                                        <ba-genre-x>0.462</ba-genre-x>                                            
-                                        <ba-desc-x>0.5</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -397,6 +404,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0239078125</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.025103203125</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -407,6 +418,7 @@
                                         <metadata-background>16-9-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.363546875</base-desc-w>  
+                                        <aspect-ratio>16-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -421,6 +433,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.029425</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.03089625</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -431,6 +447,7 @@
                                         <metadata-background>16-9-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing>      
                                         <base-desc-w>0.35975</base-desc-w>  
+                                        <aspect-ratio>16-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -445,6 +462,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0349421875</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.036689296875</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -455,6 +476,7 @@
                                         <metadata-background>16-9-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing>      
                                         <base-desc-w>0.355953125</base-desc-w>  
+                                        <aspect-ratio>16-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -469,6 +491,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.03678125</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0386203125</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -479,6 +505,7 @@
                                         <metadata-background>16-9-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.3546875</base-desc-w>  
+                                        <aspect-ratio>16-9</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -495,7 +522,8 @@
                                         <left-blur-crop-w>0.4</left-blur-crop-w>    
                                         <right-blur-x>0.54</right-blur-x>    
                                         <right-blur-crop-x>0.9</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.4</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.4</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.88</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>0.820512820512821</sys-carousel-w>    
                                         <sys-carousel-item-w>0.39529914529641</sys-carousel-item-w>    
@@ -531,20 +559,8 @@
                                         <dg-right-blur-x>0.575</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.7840625</ba-rating-x> 
-                                        <ba-badge-x>0.31</ba-badge-x>  
-                                        <ba-name-x>0.36603125</ba-name-x>        
-                                        <ba-release-date-x>0.36603125</ba-release-date-x>     
-                                        <ba-genre-x>0.5061875</ba-genre-x>                                            
-                                        <ba-desc-x>0.5</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -558,6 +574,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.022825</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.02396625</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -568,6 +588,7 @@
                                         <metadata-background>19.5-9-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.449625</base-desc-w>  
+                                        <aspect-ratio>19.5-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -582,6 +603,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0280923076923077</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0294969230769231</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -592,6 +617,7 @@
                                         <metadata-background>19.5-9-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing>      
                                         <base-desc-w>0.446509615384615</base-desc-w>  
+                                        <aspect-ratio>19.5-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -606,6 +632,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0333596153846154</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0350275961538462</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -616,6 +646,7 @@
                                         <metadata-background>19.5-9-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing>      
                                         <base-desc-w>0.443394230769231</base-desc-w>  
+                                        <aspect-ratio>19.5-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -630,6 +661,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0351153846153846</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0368711538461539</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -640,6 +675,7 @@
                                         <metadata-background>19.5-9-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.442355769230769</base-desc-w>  
+                                        <aspect-ratio>19.5-9</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -656,7 +692,8 @@
                                         <left-blur-crop-w>0.4</left-blur-crop-w>    
                                         <right-blur-x>0.54</right-blur-x>    
                                         <right-blur-crop-x>0.9</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.4</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.4</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.88</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>0.761904761904762</sys-carousel-w>    
                                         <sys-carousel-item-w>0.367063492060952</sys-carousel-item-w>    
@@ -692,20 +729,8 @@
                                         <dg-right-blur-x>0.575</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.824375</ba-rating-x> 
-                                        <ba-badge-x>0.31</ba-badge-x>  
-                                        <ba-name-x>0.3755</ba-name-x>        
-                                        <ba-release-date-x>0.3755</ba-release-date-x>     
-                                        <ba-genre-x>0.5264375</ba-genre-x>                                            
-                                        <ba-desc-x>0.5</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -719,6 +744,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0224714285714286</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.023595</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -729,6 +758,7 @@
                                         <metadata-background>21-9-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.486214285714286</base-desc-w>  
+                                        <aspect-ratio>21-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -743,6 +773,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0276571428571429</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.02904</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -753,6 +787,7 @@
                                         <metadata-background>21-9-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing>      
                                         <base-desc-w>0.483321428571429</base-desc-w>  
+                                        <aspect-ratio>21-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -767,6 +802,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0328428571428571</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.034485</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -777,6 +816,7 @@
                                         <metadata-background>21-9-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing>      
                                         <base-desc-w>0.480428571428572</base-desc-w>  
+                                        <aspect-ratio>21-9</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -791,6 +831,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0345714285714286</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0363</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -801,6 +845,7 @@
                                         <metadata-background>21-9-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.479464285714286</base-desc-w>  
+                                        <aspect-ratio>21-9</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -817,7 +862,8 @@
                                         <left-blur-crop-w>0.43</left-blur-crop-w>    
                                         <right-blur-x>0.53</right-blur-x>    
                                         <right-blur-crop-x>0.77</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.43</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.43</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.92</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1.18518518518519</sys-carousel-w>    
                                         <sys-carousel-item-w>0.570987654317037</sys-carousel-item-w>    
@@ -853,20 +899,8 @@
                                         <dg-right-blur-x>0.565</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.96</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.6228125</ba-rating-x> 
-                                        <ba-badge-x>0.31</ba-badge-x>  
-                                        <ba-name-x>0.33425</ba-name-x>        
-                                        <ba-release-date-x>0.33425</ba-release-date-x>     
-                                        <ba-genre-x>0.43128125</ba-genre-x>                                            
-                                        <ba-desc-x>0.5</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -880,6 +914,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.025025</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.02627625</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -890,6 +928,7 @@
                                         <metadata-background>3-2-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.301125</base-desc-w>  
+                                        <aspect-ratio>3-2</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -904,6 +943,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0308</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.03234</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -914,6 +957,7 @@
                                         <metadata-background>3-2-extended</metadata-background>
                                         <desc-line-spacing>1.18</desc-line-spacing>      
                                         <base-desc-w>0.296625</base-desc-w>  
+                                        <aspect-ratio>3-2</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -928,6 +972,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.036575</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.03840375</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -938,6 +986,7 @@
                                         <metadata-background>3-2-base</metadata-background>
                                         <desc-line-spacing>1.43</desc-line-spacing>      
                                         <base-desc-w>0.292125</base-desc-w>  
+                                        <aspect-ratio>3-2</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -952,6 +1001,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0385</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.040425</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -962,6 +1015,7 @@
                                         <metadata-background>3-2-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.290625</base-desc-w>  
+                                        <aspect-ratio>3-2</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -978,7 +1032,8 @@
                                         <left-blur-crop-w>0.447</left-blur-crop-w>    
                                         <right-blur-x>0.512</right-blur-x>    
                                         <right-blur-crop-x>0.715</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.448</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.448</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.919</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1.54838709677419</sys-carousel-w>    
                                         <sys-carousel-item-w>0.745967741930323</sys-carousel-item-w>    
@@ -998,7 +1053,7 @@
                                         <base-desc-x>0.735</base-desc-x>             
                                <!--  Detailed Grid Metadata Variables   --> 
                                         <dg-grid-x>0.28</dg-grid-x>  
-                                        <dg-grid-h>0.9498</dg-grid-h>  
+                                        <dg-grid-h>0.948</dg-grid-h>  
                                         <dg-glass>8-7-grid</dg-glass>  
                                         <dg-metadata-pos>1.033</dg-metadata-pos>  
                                         <dg-rating-x>0.975708333333333</dg-rating-x> 
@@ -1014,20 +1069,8 @@
                                         <dg-right-blur-x>0.545</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.745</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.052</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.702708333333333</ba-rating-x> 
-                                        <ba-badge-x>0.288</ba-badge-x>  
-                                        <ba-name-x>0.332</ba-name-x>        
-                                        <ba-release-date-x>0.332</ba-release-date-x>     
-                                        <ba-genre-x>0.466</ba-genre-x>                                            
-                                        <ba-desc-x>0.495</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.5</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -1041,6 +1084,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0272161290322581</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.028576935483871</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -1051,6 +1098,7 @@
                                         <metadata-background>8-7-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.40723252688172</base-desc-w>  
+                                        <aspect-ratio>8-7</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -1065,6 +1113,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0334967741935484</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0351716129032258</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -1075,6 +1127,7 @@
                                         <metadata-background>8-7-extended</metadata-background>
                                         <desc-line-spacing>1.15</desc-line-spacing>      
                                         <base-desc-w>0.401353494623656</base-desc-w>  
+                                        <aspect-ratio>8-7</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -1089,6 +1142,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0397774193548387</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0417662903225807</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -1099,6 +1156,7 @@
                                         <metadata-background>8-7-base</metadata-background>
                                         <desc-line-spacing>1.5</desc-line-spacing>      
                                         <base-desc-w>0.395474462365591</base-desc-w>  
+                                        <aspect-ratio>8-7</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -1113,6 +1171,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0418709677419355</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0439645161290323</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -1123,6 +1185,7 @@
                                         <metadata-background>8-7-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.393514784946237</base-desc-w>  
+                                        <aspect-ratio>8-7</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    
@@ -1139,7 +1202,8 @@
                                         <left-blur-crop-w>0.43</left-blur-crop-w>    
                                         <right-blur-x>0.53</right-blur-x>    
                                         <right-blur-crop-x>0.77</right-blur-crop-x>   
-                                        <right-blur-crop-w>0.43</right-blur-crop-w>     
+                                        <right-blur-crop-w>0.43</right-blur-crop-w>    
+                                        <full-blur-crop-w>0.92</full-blur-crop-w>     
                                <!--   System View Variables   -->          
                                         <sys-carousel-w>1.33333333333333</sys-carousel-w>    
                                         <sys-carousel-item-w>0.642361111106667</sys-carousel-item-w>    
@@ -1175,20 +1239,8 @@
                                         <dg-right-blur-x>0.555</dg-right-blur-x>    
                                         <dg-right-blur-crop-x>0.8</dg-right-blur-crop-x>      
                                         <dg-bottom-blur-h>0.0598</dg-bottom-blur-h>       
-                               <!--  Boxart Carousel Metadata Variables   --> 
-                                        <ba-metadata-pos>0.76</ba-metadata-pos>  
-                                        <ba-rating-x>0.71</ba-rating-x> 
-                                        <ba-badge-x>0.3</ba-badge-x>  
-                                        <ba-name-x>0.35</ba-name-x>        
-                                        <ba-release-date-x>0.35</ba-release-date-x>     
-                                        <ba-genre-x>0.478</ba-genre-x>                                            
-                                        <ba-desc-x>0.505</ba-desc-x>        
-                                        <ba-left-blur-x>0.5</ba-left-blur-x>    
-                                        <ba-left-blur-crop-x>0.5</ba-left-blur-crop-x>    
-                                        <ba-left-blur-crop-w>0.4</ba-left-blur-crop-w>    
-                                        <ba-right-blur-x>0.52</ba-right-blur-x>    
-                                        <ba-right-blur-crop-x></ba-right-blur-crop-x>      
-                                        <ba-bottom-blur-h>0.0598</ba-bottom-blur-h>                               
+                               <!--  Basic Grid Metadata Variables   -->  
+                                        <bg-bottom-blur-h>0.0598</bg-bottom-blur-h>                    
                             </variables>          
                    <fontSize name="small">
                             <variables>
@@ -1202,6 +1254,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
                                         <sys-details-shadow-y>0.8955608839257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.125</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.02591875</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0272146875</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>6.4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.76231884057971</textlist-line-spacing>
                                         <textlist-line-height>0.0487066666666667</textlist-line-height>
@@ -1212,6 +1268,7 @@
                                         <metadata-background>4-3-extended</metadata-background>
                                         <desc-line-spacing>1.4</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>4-3</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="medium">
@@ -1226,6 +1283,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
                                         <sys-details-shadow-y>0.9034375714257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.175</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.0319</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.033495</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4.57142857142857</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.65217391304348</textlist-line-spacing>
                                         <textlist-line-height>0.0556153846153846</textlist-line-height>
@@ -1236,6 +1297,7 @@
                                         <metadata-background>4-3-extended</metadata-background>
                                         <desc-line-spacing>1.15</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>4-3</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="large">
@@ -1250,6 +1312,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
                                         <sys-details-shadow-y>0.9113142589257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.2</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.03788125</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.0397753125</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>4</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.64426877470356</textlist-line-spacing>
                                         <textlist-line-height>0.0647851239669422</textlist-line-height>
@@ -1260,6 +1326,7 @@
                                         <metadata-background>4-3-base</metadata-background>
                                         <desc-line-spacing>1.5</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>4-3</aspect-ratio>  
                             </variables>
                     </fontSize>
                    <fontSize name="x-large">
@@ -1274,6 +1341,10 @@
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
+                                        <vert-sys-carousel-h>0.25</vert-sys-carousel-h>     
+                                        <vert-sys-carousel-gamescount-x>0.039875</vert-sys-carousel-gamescount-x>     
+                                        <vert-sys-carousel-gamescount-shadow-x>0.04186875</vert-sys-carousel-gamescount-shadow-x>     
+                                        <vert-sys-carousel-count>3.2</vert-sys-carousel-count>
                                <!--   Textlist Variables   -->          
                                         <textlist-line-spacing>1.71826086956522</textlist-line-spacing>
                                         <textlist-line-height>0.07059</textlist-line-height>
@@ -1284,6 +1355,7 @@
                                         <metadata-background>4-3-minimal</metadata-background>
                                         <desc-line-spacing>2</desc-line-spacing>      
                                         <base-desc-w>0.38</base-desc-w>  
+                                        <aspect-ratio>4-3</aspect-ratio>  
                             </variables>
                     </fontSize>
              </aspectRatio>    

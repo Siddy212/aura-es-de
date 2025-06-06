@@ -1,0 +1,54 @@
+<theme>
+
+   <!--   ///   System View: Art   ///   -->
+
+   <include>./colors.xml</include>
+
+
+   <include>./_inc/system-grid-variables/logo.xml</include>
+            <view name="system">
+            <grid name="grid">
+                  <origin>0.5 0.5</origin>
+                  <pos>0.5 ${grid-y-system}</pos>
+                  <itemSize>${item-w-system} ${item-h-system}</itemSize>
+                  <selectorRelativeScale>0.9</selectorRelativeScale>
+                  <backgroundRelativeScale>1</backgroundRelativeScale>
+                  <selectorImage>${selectorImagePath}</selectorImage>
+                  <staticImage>${systemImagePath}</staticImage>
+                  <unfocusedItemOpacity>0.95</unfocusedItemOpacity>
+                  <unfocusedItemDimming>${logoGridDim}</unfocusedItemDimming>
+                  <unfocusedItemSaturation>1</unfocusedItemSaturation>
+                  <itemSpacing>0 ${grid-spacing-system}</itemSpacing>
+                  <textColor>${systemInfoColor}</textColor>
+                  <fontPath>${fontBold}</fontPath>
+                  <fontSize>0.036111111111111</fontSize>
+                  <imageCornerRadius>0.002</imageCornerRadius>
+                  <selectorColor>${gridSelectorColor}</selectorColor>
+                  <selectorLayer>bottom</selectorLayer>
+                  <zIndex>9</zIndex>
+                  <fractionalRows>true</fractionalRows>
+                  <scaleInwards>false</scaleInwards>
+                  <size>${grid-w-system} ${grid-h-system}</size>
+                  <itemScale>${item-scale-var}</itemScale>
+                  <imageRelativeScale>0.8</imageRelativeScale>
+                  <textRelativeScale>0.7</textRelativeScale>
+                  <imageFit>contain</imageFit>
+            </grid>             
+            <image name="background-art-gradient-bottom">
+                  <origin>0.5 0.5</origin>
+                  <size>1 1</size>
+                  <pos>0.5 0.5</pos>
+                  <path>./_inc/glass/system-panel-${shade}.webp</path>
+                  <zIndex>3</zIndex>
+                  <opacity>1</opacity>
+                  <rotation>0</rotation>
+                  <visible>${gradientSwitch}</visible>
+                  <brightness>${backgroundBrightness}</brightness>
+            </image>
+             <image name="system-background">
+                  <brightness>${backgroundBrightness}</brightness>
+            </image> 
+      </view>
+
+      
+</theme>

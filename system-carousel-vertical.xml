@@ -1,0 +1,65 @@
+<theme>
+
+   <!--   ///   System View: Art   ///   -->
+
+         <view name="system">
+               <carousel name="system-carousel">
+                  <staticImage>${systemImagePath}</staticImage>
+                  <origin>0.5 0.5</origin>
+                  <size>1 1</size>
+                  <type>vertical</type>
+                  <itemRotation>5.25</itemRotation>
+                  <itemAxisHorizontal>true</itemAxisHorizontal>
+                  <pos>0.5 0.5</pos>
+                  <color>00000000</color>
+                  <itemScale>1.2</itemScale>
+                  <itemStacking>ascendingRasied</itemStacking>
+                  <unfocusedItemOpacity>1</unfocusedItemOpacity>
+                  <unfocusedItemDimming>0.3</unfocusedItemDimming>
+                  <horizontalOffset>0</horizontalOffset>
+                  <imageCornerRadius>0.005</imageCornerRadius>
+                  <text>${system.fullName}</text>
+                  <textColor>${systemInfoColor}</textColor>
+                  <textBackgroundColor>${systemCarouselTextBackgroundColor}</textBackgroundColor>
+                  <textRelativeScale>0.8</textRelativeScale>
+                  <selectedItemMargins>0.05 0.05</selectedItemMargins>
+                  <lineSpacing>1.2</lineSpacing>
+                  <fontPath>${fontBold}</fontPath>
+                  <letterCase>uppercase</letterCase>
+                  <fastScrolling>true</fastScrolling>
+                  <zIndex>7</zIndex>            
+                  <itemSize>0.6 ${vert-sys-carousel-h}</itemSize>
+                  <fontSize>${base-font-size}</fontSize>
+                  <itemVerticalAlignment>center</itemVerticalAlignment>
+                  <maxItemCount>${vert-sys-carousel-count}</maxItemCount>
+               </carousel>               
+               <image name="background-art-gradient-bottom">
+                     <size>1 0.5</size>
+                     <opacity>0.5</opacity>
+                  </image>                    
+            <text name="games-count">
+                     <origin>0.5 0.5</origin>
+                     <visible>false</visible>
+                     <pos>${vert-sys-carousel-gamescount-x} 0.5</pos>
+                     <horizontalAlignment>left</horizontalAlignment>
+                     <verticalAlignment>center</verticalAlignment>
+                      <container>true</container>
+                     <containerType>horizontal</containerType>
+                     <rotation>-90</rotation>
+                  </text>
+                  <text name="games-count-shadow">
+                     <origin>0.5 0.5</origin>
+                     <visible>false</visible>
+                     <pos>${vert-sys-carousel-gamescount-shadow-x}  0.505</pos>
+                     <horizontalAlignment>right</horizontalAlignment>
+                     <verticalAlignment>top</verticalAlignment>
+                     <zIndex>9</zIndex>
+                     <opacity>0.3</opacity>
+                     <horizontalAlignment>left</horizontalAlignment>
+                     <verticalAlignment>center</verticalAlignment>
+                      <container>true</container>
+                     <containerType>horizontal</containerType>
+                     <rotation>-90</rotation>
+                  </text>
+      </view>
+</theme>

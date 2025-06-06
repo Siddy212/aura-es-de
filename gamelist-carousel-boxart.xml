@@ -6,21 +6,24 @@
 
       <view name="gamelist">
          <image name="system-logo-main">
-            <origin>0 0.5</origin>
-               <pos>0.03 0.07</pos>
+            <origin>0.5 0.5</origin>
+               <pos>0.5 0.06</pos>
                <opacity>1</opacity>
-               <maxSize>0.26 0.1</maxSize>
+               <maxSize>0.29 0.09</maxSize>
          </image>
          <image name="system-logo-shadow">
-            <origin>0 0.5</origin>
-            <pos>0.028 0.075</pos>
-               <maxSize>0.26 0.1</maxSize>
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.065</pos>
+               <maxSize>0.29 0.09</maxSize>
          </image>
+         <image name="blur-top">
+               <opacity>0</opacity>
+            </image>
          <carousel name="gamelistCarousel">
                <type>horizontal</type>
                <origin>0.5 1</origin>
                <pos>0.5 0.93</pos>
-               <size>1 1</size>
+               <size>1 0.6</size>
                <imageType>cover</imageType>
                <itemSize>${carousel-base-item-w} 0.55</itemSize>
                <fontSize>${base-font-size}</fontSize>
@@ -34,55 +37,84 @@
                <letterCase>uppercase</letterCase>
                <lineSpacing>1.2</lineSpacing>
                <unfocusedItemOpacity>1</unfocusedItemOpacity>
-               <unfocusedItemDimming>0.8</unfocusedItemDimming>
+               <unfocusedItemDimming>0.7</unfocusedItemDimming>
                <itemScale>${carousel-scale}</itemScale>        
-               <zIndex>5</zIndex>
+               <zIndex>6</zIndex>
                <selectedItemMargins>${carousel-item-margins}</selectedItemMargins>
                <imageCornerRadius>0.005</imageCornerRadius>
-         </carousel>  
+         </carousel>   
+      <clock name="clock">
+            <pos>0.016 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <fontSize>${gamelist-font-size}</fontSize>
+            <color>${systemInfoColor}</color>
+         </clock>
+         <systemstatus name="systemstatus">
+            <pos>0.984 0.01</pos>
+            <fontPath>${fontBold}</fontPath>
+            <height>${gamelist-font-size}</height>
+            <color>${systemInfoColor}</color>
+      </systemstatus>   
 
       <!--  Metadata  -->
          <image name="game-image">
-            <cropSize>1 0.785</cropSize>
+            <cropSize>1 1</cropSize>
             <cropPos>0.5 1</cropPos>
             <origin>0.5 1</origin>
-            <pos>0.5 0.94</pos>
+            <pos>0.5 ${dg-grid-h}</pos>
             <imageType>screenshot</imageType>
             <visible>true</visible>
             <zIndex>3</zIndex>
-            <brightness>-0.8</brightness>
-            <saturation>0.8</saturation>
+            <brightness>-1</brightness>
+            <saturation>0.4</saturation>
          </image>
          <video name="game-video">
             <delay>2.5</delay>
             <fadeInTime>0.25</fadeInTime>
-         </video>
+            <cropPos>0.5 1</cropPos>
+            <pos>0.5 ${dg-grid-h}</pos>
+               <zIndex>7</zIndex>
+               <cropSize>1 ${dg-grid-h}</cropSize>
+         </video> 
          <badges name="badges">
-            <origin>0 0.5</origin>
-            <pos>0.56 0.053</pos>
-            <horizontalAlignment>left</horizontalAlignment>
-            <size>1 ${metadata-font-size}</size>
+            <origin>0.5 0</origin>
+            <pos>0.5 0.1825</pos>
+            <horizontalAlignment>center</horizontalAlignment>
+            <size>1 ${base-font-size}</size>  
+               <zIndex>6</zIndex>
+               <badgeIconColor>ffffff</badgeIconColor>
          </badges>
-         <rating name="game-rating">
-            <origin>1 0.5</origin>
-            <pos>0.98 0.050</pos>
-            <size>0 ${metadata-font-size}</size>
-               <color>${BadgeColor}</color>
-         </rating>
          <text name="game-name">
-            <size>0.41 ${metadata-font-size}</size>
-            <pos>0.771 0.099</pos>
-            <fontSize>${metadata-font-size}</fontSize>     
+            <size>0.95 ${base-font-size}</size>
+            <pos>0.5 0.14</pos>
+            <fontSize>${base-font-size}</fontSize>     
             <origin>0.5 0.5</origin>
             <fontPath>${fontBold}</fontPath>
-            <color>${gameMetadataColor}</color>
+            <color>ffffff</color>
             <lineSpacing>1.5</lineSpacing>
             <defaultValue>Unknown</defaultValue>
-            <fontSize>${metadata-font-size}</fontSize>
+            <fontSize>${base-font-size}</fontSize>
             <metadata>name</metadata>
             <container>true</container>
             <containerType>horizontal</containerType>
             <horizontalAlignment>center</horizontalAlignment>
+         </text>
+         <text name="game-name-shadow">
+            <size>0.95 ${base-font-size}</size>
+            <pos>0.502 0.143</pos>
+            <fontSize>${base-font-size}</fontSize>     
+            <origin>0.5 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <color>000000</color>
+            <lineSpacing>1.5</lineSpacing>
+            <defaultValue>Unknown</defaultValue>
+            <fontSize>${base-font-size}</fontSize>
+            <metadata>name</metadata>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <horizontalAlignment>center</horizontalAlignment>
+            <opacity>0.4</opacity>
+               <zIndex>8</zIndex>
          </text>
       </view>
 </theme>

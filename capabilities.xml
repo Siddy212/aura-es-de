@@ -22,7 +22,31 @@
    <fontSize>large</fontSize>
    <fontSize>x-large</fontSize>
 
-   
+      
+   <colorScheme name="controller-purple">
+      <label>[Controller] Purple</label>
+   </colorScheme>  
+   <colorScheme name="controller-blue">
+      <label>[Controller] Blue</label>
+   </colorScheme> 
+   <colorScheme name="controller-violet">
+      <label>[Controller] Violet</label>
+   </colorScheme>
+   <colorScheme name="controller-green">
+      <label>[Controller] Green</label>
+   </colorScheme>
+   <colorScheme name="controller-orange">
+      <label>[Controller] Orange</label>
+   </colorScheme>
+   <colorScheme name="controller-black">
+      <label>[Controller] Black</label>
+   </colorScheme>
+   <colorScheme name="controller-pocket-light">
+      <label>[Controller] Pocket Light</label>
+   </colorScheme>
+   <colorScheme name="controller-pocket-dark">
+      <label>[Controller] Pocket Dark</label>
+   </colorScheme>
    <colorScheme name="logo-purple">
       <label>[Logo] Purple</label>
    </colorScheme>  

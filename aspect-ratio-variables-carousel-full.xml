@@ -1,0 +1,267 @@
+<theme>
+           <aspectRatio name="1:1">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05077</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05302</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05527</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05602</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:10">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05077</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05302</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05527</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05602</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:9">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.06975</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.072</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.07425</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.075</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="19.5:9">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.06975</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.072</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.07425</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.075</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="21:9">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.06975</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.072</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.07425</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.075</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="3:2">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.04975</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.052</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05425</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.055</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="8:7">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05075</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.053</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05525</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.056</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="4:3">          
+                            <variables>
+                               <!--  Full Carousel Metadata Variables   -->                        
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.04975</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.052</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.05425</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                               <!--   All Variables   -->                                        
+                                        <full-badge-x>0.055</full-badge-x>                        
+                                        
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+</theme>
+

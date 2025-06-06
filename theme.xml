@@ -143,7 +143,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <fontPath>${fontBold}</fontPath>
             <height>${gamelist-font-size}</height>
             <color>${systemInfoColor}</color>
-      </systemstatus>   
+      </systemstatus>
    </view>
 
 
@@ -190,7 +190,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          carousel-basic-grid-help-off,
          carousel-carousel-marquee,
          carousel-carousel-boxart">
-      <include>./system-carousel.xml</include>         
+      <include>./${carousel-style}.xml</include>         
       <view name="gamelist">
             <image name="gamelist-background">
                <path>${gamelistBackgroundPath}.webp</path>
@@ -222,7 +222,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          grid-basic-grid-help-off,
          grid-carousel-marquee,
          grid-carousel-boxart">
-      <include>./system-grid.xml</include>
+      <include>./${grid-style}.xml</include>
    </variant>
    <!--
    ///
@@ -440,13 +440,15 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    </variant>
       <!--   ///   Glass/Blur: Basic Grid and Carousel Boxart Variations with bottom bar blur  ///   -->
 
-   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid">
       <view name="gamelist">
             <image name="blur-bottom">            
-               <cropSize>${sys-carousel-w} ${ba-bottom-blur-h}</cropSize>
+               <cropSize>${sys-carousel-w} ${bg-bottom-blur-h}</cropSize>
             </image>
       </view>
    </variant>
+   
+
    <!--   ///   Glass/Blur: Variations with full-screen  ///   -->
 
    <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
@@ -494,14 +496,47 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             </video>
       </view>
    </variant>
-   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid">
       <view name="gamelist">
             <image name="dg-glass">
                <size>1 1</size>
             </image>
-
       </view>
-   </variant>
+   </variant>  
+    
+   <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+      <view name="gamelist">
+            <image name="dg-glass">
+               <origin>0.5 1</origin>
+               <pos>0.5 1</pos>
+               <cropSize>1 0.5</cropSize>
+               <cropPos>0.5 1</cropPos>
+            </image>          
+      <image name="vignette">
+            <origin>0.5 0</origin>
+            <pos>0.5 0</pos>
+	         <size>1 1.2</size>
+            <interpolation>linear</interpolation>
+            <zIndex>6</zIndex>
+            <opacity>0.6</opacity>
+            <path>./_inc/glass/vignette.webp</path>   
+            <brightness>0</brightness>
+            <visible>true</visible>
+      </image>           
+      <image name="background-art-gradient-top">
+            <origin>0.5 0</origin>
+	         <size>1 0.2</size>
+	         <pos>0.5 0</pos>
+            <path>./_inc/images/background-art-gradient-dark.svg</path>
+            <zIndex>0</zIndex>
+            <color>000000</color>
+            <opacity>0.6</opacity>
+	         <rotation>180</rotation>
+            <visible>true</visible>
+         </image>
+      </view>
+   </variant>  
+    
    <variant name="carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
       <view name="gamelist">
             <image name="dg-glass">
@@ -606,8 +641,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
       <include>./gamelist-carousel-boxart.xml</include>
-
    </variant>
+
 
    <!--   ///   Gamelist View: Detailed-Grid Variants  ///   -->
 

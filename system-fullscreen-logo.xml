@@ -4,7 +4,7 @@
 
          <view name="system">
                 <carousel name="system-carousel">
-                  <staticImage>${systemlogoArtPath}</staticImage>
+                  <staticImage>${systemImagePath}</staticImage>
                   <origin>0.5 0.5</origin>
                   <size>1 1</size>
                   <type>horizontalWheel</type>
@@ -33,6 +33,7 @@
                   <itemVerticalAlignment>center</itemVerticalAlignment>
                   <itemsBeforeCenter>0</itemsBeforeCenter>
                   <itemsAfterCenter>0</itemsAfterCenter>
+                  <imageInterpolation>nearest</imageInterpolation>
                </carousel>                
               <image name="system-logo-main">
                   <opacity>0</opacity>

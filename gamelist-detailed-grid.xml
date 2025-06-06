@@ -20,7 +20,7 @@
 
          <clock name="clock">
                <scope>view</scope>
-               <pos>0.56 0.01</pos>
+               <pos>1.5 0.01</pos>
                <fontPath>${fontBold}</fontPath>
                <fontSize>${gamelist-font-size}</fontSize>
                <color>${systemInfoColor}</color>
