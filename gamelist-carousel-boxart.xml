@@ -133,7 +133,7 @@
 
          <badges name="badges">
             <origin>1 0.5</origin>
-            <pos>${bc-badge-x} ${bc-middle-y}</pos>
+            <pos>${bc-badge-x} ${bc-badge-y}</pos>
             <horizontalAlignment>right</horizontalAlignment>
             <size>1 ${metadata-font-size}</size>  
                <zIndex>9</zIndex>

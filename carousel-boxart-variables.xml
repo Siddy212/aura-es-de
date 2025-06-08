@@ -10,7 +10,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.073125</bc-year-w>     
                                         <bc-bullet-left-x>0.456125</bc-bullet-left-x>
@@ -39,7 +39,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.09</bc-year-w>     
                                         <bc-bullet-left-x>0.446</bc-bullet-left-x>
@@ -68,7 +68,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.106875</bc-year-w>     
                                         <bc-bullet-left-x>0.435875</bc-bullet-left-x>
@@ -97,7 +97,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.1125</bc-year-w>     
                                         <bc-bullet-left-x>0.4325</bc-bullet-left-x>
@@ -132,7 +132,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.045703125</bc-year-w>     
                                         <bc-bullet-left-x>0.472578125</bc-bullet-left-x>
@@ -161,7 +161,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.05625</bc-year-w>     
                                         <bc-bullet-left-x>0.46625</bc-bullet-left-x>
@@ -190,7 +190,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.066796875</bc-year-w>     
                                         <bc-bullet-left-x>0.459921875</bc-bullet-left-x>
@@ -219,7 +219,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0703125</bc-year-w>     
                                         <bc-bullet-left-x>0.4578125</bc-bullet-left-x>
@@ -254,7 +254,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0411328125</bc-year-w>     
                                         <bc-bullet-left-x>0.4753203125</bc-bullet-left-x>
@@ -283,7 +283,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.050625</bc-year-w>     
                                         <bc-bullet-left-x>0.469625</bc-bullet-left-x>
@@ -312,7 +312,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0601171875</bc-year-w>     
                                         <bc-bullet-left-x>0.4639296875</bc-bullet-left-x>
@@ -341,7 +341,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.06328125</bc-year-w>     
                                         <bc-bullet-left-x>0.46203125</bc-bullet-left-x>
@@ -376,7 +376,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.03375</bc-year-w>     
                                         <bc-bullet-left-x>0.47975</bc-bullet-left-x>
@@ -405,7 +405,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0415384615384615</bc-year-w>     
                                         <bc-bullet-left-x>0.475076923076923</bc-bullet-left-x>
@@ -434,7 +434,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0493269230769231</bc-year-w>     
                                         <bc-bullet-left-x>0.470403846153846</bc-bullet-left-x>
@@ -463,7 +463,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0519230769230769</bc-year-w>     
                                         <bc-bullet-left-x>0.468846153846154</bc-bullet-left-x>
@@ -498,7 +498,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0313392857142857</bc-year-w>     
                                         <bc-bullet-left-x>0.481196428571429</bc-bullet-left-x>
@@ -527,7 +527,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0385714285714286</bc-year-w>     
                                         <bc-bullet-left-x>0.476857142857143</bc-bullet-left-x>
@@ -556,7 +556,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0458035714285714</bc-year-w>     
                                         <bc-bullet-left-x>0.472517857142857</bc-bullet-left-x>
@@ -585,7 +585,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0482142857142857</bc-year-w>     
                                         <bc-bullet-left-x>0.471071428571429</bc-bullet-left-x>
@@ -620,7 +620,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.04875</bc-year-w>     
                                         <bc-bullet-left-x>0.47075</bc-bullet-left-x>
@@ -649,7 +649,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.06</bc-year-w>     
                                         <bc-bullet-left-x>0.464</bc-bullet-left-x>
@@ -678,7 +678,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.07125</bc-year-w>     
                                         <bc-bullet-left-x>0.45725</bc-bullet-left-x>
@@ -707,7 +707,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.075</bc-year-w>     
                                         <bc-bullet-left-x>0.455</bc-bullet-left-x>
@@ -742,7 +742,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0636895161290323</bc-year-w>     
                                         <bc-bullet-left-x>0.461786290322581</bc-bullet-left-x>
@@ -771,7 +771,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0783870967741935</bc-year-w>     
                                         <bc-bullet-left-x>0.452967741935484</bc-bullet-left-x>
@@ -800,7 +800,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0930846774193548</bc-year-w>     
                                         <bc-bullet-left-x>0.444149193548387</bc-bullet-left-x>
@@ -829,7 +829,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0979838709677419</bc-year-w>     
                                         <bc-bullet-left-x>0.441209677419355</bc-bullet-left-x>
@@ -864,7 +864,7 @@
                                         <bc-top-y>0.840625</bc-top-y>                           
                                         <bc-top-w>0.47168</bc-top-w>                
                                         <bc-middle-y>0.88084375</bc-middle-y>          
-                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-badge-y>0.7975625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.05484375</bc-year-w>     
                                         <bc-bullet-left-x>0.46709375</bc-bullet-left-x>
@@ -893,7 +893,7 @@
                                         <bc-top-y>0.84</bc-top-y>                           
                                         <bc-top-w>0.57728</bc-top-w>                
                                         <bc-middle-y>0.8895</bc-middle-y>          
-                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-badge-y>0.787</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0675</bc-year-w>     
                                         <bc-bullet-left-x>0.4595</bc-bullet-left-x>
@@ -922,7 +922,7 @@
                                         <bc-top-y>0.859375</bc-top-y>                           
                                         <bc-top-w>0.6688</bc-top-w>                
                                         <bc-middle-y>0.91815625</bc-middle-y>          
-                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-badge-y>0.7964375</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.08015625</bc-year-w>     
                                         <bc-bullet-left-x>0.45190625</bc-bullet-left-x>
@@ -951,7 +951,7 @@
                                         <bc-top-y>0.8425</bc-top-y>                           
                                         <bc-top-w>0.72512</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-badge-y>0.77625</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.084375</bc-year-w>     
                                         <bc-bullet-left-x>0.449375</bc-bullet-left-x>
