@@ -41,7 +41,7 @@
                <imageInterpolation>linear</imageInterpolation>
                <itemHorizontalAlignment>center</itemHorizontalAlignment>
                <itemVerticalAlignment>center</itemVerticalAlignment>
-               <verticalOffset>0.215</verticalOffset>
+               <verticalOffset>0.21</verticalOffset>
                <fastScrolling>true</fastScrolling>
                <color>00000000</color>
                <textColor>${systemInfoColor}</textColor>
