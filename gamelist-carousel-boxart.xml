@@ -2,46 +2,60 @@
 
    <!--   ///   Gamelist View: Carousel Boxart   ///   -->
 
+      <include>./carousel-boxart-variables.xml</include>
       <include>./_inc/coversize-boxart-carousel-variables/${systemCoverSize}.xml</include>
 
       <view name="gamelist">
+         <image name="bc-glass">
+            <origin>0.5 0</origin>
+	         <size>0 ${glass-scale}</size>
+	         <pos>0.5 ${glass-y}</pos>
+            <path>./_inc/glass/${aspect-ratio}-carousel-${shadeCarousel}.webp</path>
+            <zIndex>8</zIndex>
+            <opacity>0.9</opacity>
+            <visible>true</visible>
+         </image> 
          <image name="system-logo-main">
             <origin>0.5 0.5</origin>
-               <pos>0.5 0.06</pos>
+               <pos>0.5 0.062</pos>
                <opacity>1</opacity>
-               <maxSize>0.29 0.09</maxSize>
+               <maxSize>0.29 ${bc-marquee-h}</maxSize>
          </image>
          <image name="system-logo-shadow">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.065</pos>
-               <maxSize>0.29 0.09</maxSize>
+               <maxSize>0.29 ${bc-marquee-h}</maxSize>
          </image>
          <image name="blur-top">
-               <opacity>0</opacity>
+               <cropSize>${sys-carousel-w} 1</cropSize>
             </image>
          <carousel name="gamelistCarousel">
                <type>horizontal</type>
-               <origin>0.5 1</origin>
-               <pos>0.5 0.93</pos>
-               <size>1 0.7</size>
+               <origin>0.5 0</origin>
+               <pos>0.5 0.118</pos>
+               <size>1 0.883</size>
                <imageType>cover</imageType>
-               <itemSize>${carousel-base-item-w} 0.55</itemSize>
+               <itemSize>${carousel-base-item-w} 0.556</itemSize>
                <fontSize>${base-font-size}</fontSize>
                <maxItemCount>${carousel-item-count}</maxItemCount>
                <imageInterpolation>linear</imageInterpolation>
                <itemHorizontalAlignment>center</itemHorizontalAlignment>
-               <itemVerticalAlignment>bottom</itemVerticalAlignment>
+               <itemVerticalAlignment>center</itemVerticalAlignment>
+               <verticalOffset>0.215</verticalOffset>
                <fastScrolling>true</fastScrolling>
                <color>00000000</color>
                <textColor>${systemInfoColor}</textColor>
                <letterCase>uppercase</letterCase>
                <lineSpacing>1.2</lineSpacing>
                <unfocusedItemOpacity>1</unfocusedItemOpacity>
-               <unfocusedItemDimming>0.7</unfocusedItemDimming>
-               <itemScale>${carousel-scale}</itemScale>        
+               <unfocusedItemDimming>0.5</unfocusedItemDimming>
+               <itemScale>${carousel-scale}</itemScale>    
+               <reflections>true</reflections>      
+               <reflectionsOpacity>0.2</reflectionsOpacity> 
+               <reflectionsFalloff>3</reflectionsFalloff>
                <zIndex>6</zIndex>
                <selectedItemMargins>${carousel-item-margins}</selectedItemMargins>
-               <imageCornerRadius>0.005</imageCornerRadius>
+               <imageCornerRadius>${bc-corner-radius}</imageCornerRadius>
          </carousel>   
       <clock name="clock">
             <pos>0.016 0.01</pos>
@@ -57,40 +71,121 @@
       </systemstatus>   
 
       <!--  Metadata  -->
-         <image name="game-image">
-            <cropSize>1 1</cropSize>
-            <cropPos>0.5 1</cropPos>
-            <origin>0.5 1</origin>
-            <pos>0.5 ${dg-grid-h}</pos>
-            <imageType>screenshot</imageType>
-            <visible>true</visible>
-            <zIndex>3</zIndex>
-            <brightness>-1</brightness>
-            <saturation>0.4</saturation>
-         </image>
+
+         <datetime name="game-releasedate,game-releasedate-shadow">
+            <origin>0.5 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1</lineSpacing>
+            <defaultValue>?</defaultValue>
+            <metadata>releasedate</metadata>
+            <format>%Y</format>
+            <fontSize>${metadata-font-size}</fontSize>
+         </datetime>
+         <datetime name="game-releasedate">
+            <pos>0.5 ${bc-middle-y}</pos>
+            <color>${systemInfoColor}</color>
+            <zIndex>9</zIndex>
+         </datetime>
+          <datetime name="game-releasedate-shadow">
+            <pos>${bc-top-shadow-x} ${bc-middle-shadow-y}</pos>
+            <color>00000040</color>
+            <zIndex>8</zIndex>
+         </datetime>
+
          <video name="game-video">
-            <delay>2.5</delay>
+            <origin>0.5 1</origin>
+               <pos>0.5 1</pos>
+            <delay>5</delay>
             <fadeInTime>0.25</fadeInTime>
-            <cropPos>0.5 1</cropPos>
-            <pos>0.5 ${dg-grid-h}</pos>
+            <brightness>-0.25</brightness>
                <zIndex>7</zIndex>
-               <cropSize>1 ${dg-grid-h}</cropSize>
+               <cropSize>1 1</cropSize>
          </video> 
-         <badges name="badges">
-            <origin>0.5 0</origin>
-            <pos>0.5 0.1825</pos>
-            <horizontalAlignment>center</horizontalAlignment>
-            <size>1 ${base-font-size}</size>  
-               <zIndex>6</zIndex>
-               <badgeIconColor>ffffff</badgeIconColor>
-         </badges>
-         <text name="game-name">
-            <size>0.95 ${base-font-size}</size>
-            <pos>0.5 0.14</pos>
+
+         <text name="bullet1,bullet2,bullet1-shadow,bullet2-shadow">
+            <size>0 ${metadata-font-size}</size>
             <fontSize>${base-font-size}</fontSize>     
             <origin>0.5 0.5</origin>
             <fontPath>${fontBold}</fontPath>
-            <color>ffffff</color>
+            <color>${systemInfoColor}</color>
+            <text>•</text>
+            <lineSpacing>1</lineSpacing>
+            <horizontalAlignment>center</horizontalAlignment>
+            <zIndex>9</zIndex>
+         </text>         
+         <text name="bullet1">
+            <pos>${bc-bullet-left-x} ${bc-middle-y}</pos>
+         </text>     
+         <text name="bullet2">
+            <pos>${bc-bullet-right-x} ${bc-middle-y}</pos>
+         </text>      
+         <text name="bullet1-shadow">
+            <pos>${bc-bullet-left-shadow-x} ${bc-middle-shadow-y}</pos>
+            <color>00000050</color>
+            <zIndex>8</zIndex>
+         </text>     
+         <text name="bullet2-shadow">
+            <pos>${bc-bullet-right-shadow-x} ${bc-middle-shadow-y}</pos>
+            <color>00000050</color>
+            <zIndex>8</zIndex>
+         </text>
+
+
+         <badges name="badges">
+            <origin>0 0.5</origin>
+            <pos>${bc-badge-x} ${bc-bottom-y}</pos>
+            <horizontalAlignment>left</horizontalAlignment>
+            <size>1 ${metadata-font-size}</size>  
+               <zIndex>9</zIndex>
+               <badgeIconColor>ffffff</badgeIconColor>
+         </badges>
+
+         <text name="game-developer,game-developer-shadow">
+            <origin>1 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <lineSpacing>1.5</lineSpacing>
+            <defaultValue>Unknown</defaultValue>
+            <fontSize>${metadata-font-size}</fontSize>
+            <size>${bc-metadata-w} ${metadata-font-size}</size>
+            <horizontalAlignment>right</horizontalAlignment>
+            <metadata>developer</metadata>
+         </text>         
+         <text name="game-developer">
+            <pos>${bc-metadata-left-x} ${bc-middle-y}</pos>
+            <color>${systemInfoColor}</color>
+            <zIndex>9</zIndex>
+         </text>
+         <text name="game-developer-shadow">
+            <pos>${bc-metadata-left-shadow-x} ${bc-middle-shadow-y}</pos>
+            <color>00000040</color>
+            <zIndex>8</zIndex>
+         </text>
+
+         <datetime name="game-lastplayed,game-lastplayed-shadow">
+            <origin>0 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
+            <size>0 ${metadata-font-size}</size>
+            <fontSize>${metadata-font-size}</fontSize>
+            <metadata>lastplayed</metadata>
+            <defaultValue>Never Played</defaultValue>
+            <displayRelative>true</displayRelative>
+         </datetime>         
+         <datetime name="game-lastplayed">
+            <pos>${bc-metadata-right-x} ${bc-middle-y}</pos>
+            <color>${systemInfoColor}</color>
+            <zIndex>9</zIndex>
+         </datetime>
+         <datetime name="game-lastplayed-shadow">
+            <pos>${bc-metadata-right-shadow-x}  ${bc-middle-shadow-y}</pos>
+            <color>00000040</color>
+            <zIndex>8</zIndex>
+         </datetime>
+
+         <text name="game-name,game-name-shadow">
+            <size>${bc-top-w} ${base-font-size}</size>
+            <fontSize>${base-font-size}</fontSize>     
+            <origin>0.5 0.5</origin>
+            <fontPath>${fontBold}</fontPath>
             <lineSpacing>1.5</lineSpacing>
             <defaultValue>Unknown</defaultValue>
             <fontSize>${base-font-size}</fontSize>
@@ -99,22 +194,15 @@
             <containerType>horizontal</containerType>
             <horizontalAlignment>center</horizontalAlignment>
          </text>
+         <text name="game-name">
+            <pos>0.5 ${bc-top-y}</pos> 
+            <color>${systemInfoColor}</color>
+            <zIndex>9</zIndex>
+         </text>
          <text name="game-name-shadow">
-            <size>0.95 ${base-font-size}</size>
-            <pos>0.502 0.143</pos>
-            <fontSize>${base-font-size}</fontSize>     
-            <origin>0.5 0.5</origin>
-            <fontPath>${fontBold}</fontPath>
-            <color>000000</color>
-            <lineSpacing>1.5</lineSpacing>
-            <defaultValue>Unknown</defaultValue>
-            <fontSize>${base-font-size}</fontSize>
-            <metadata>name</metadata>
-            <container>true</container>
-            <containerType>horizontal</containerType>
-            <horizontalAlignment>center</horizontalAlignment>
-            <opacity>0.4</opacity>
-               <zIndex>8</zIndex>
+            <pos>${bc-top-shadow-x} ${bc-top-shadow-y}</pos>
+            <color>00000040</color>
+            <zIndex>8</zIndex>
          </text>
       </view>
 </theme>

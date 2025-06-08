@@ -189,7 +189,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          carousel-basic-grid,
          carousel-basic-grid-help-off,
          carousel-carousel-marquee,
-         carousel-carousel-boxart">
+         carousel-carousel-boxart,
+         carousel-carousel-boxart-immersive">
       <include>./${carousel-style}.xml</include>         
       <view name="gamelist">
             <image name="gamelist-background">
@@ -205,7 +206,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          fullscreen-basic-grid,
          fullscreen-basic-grid-help-off,
          fullscreen-carousel-marquee,
-         fullscreen-carousel-boxart">
+         fullscreen-carousel-boxart,
+         fullscreen-carousel-boxart-immersive">
       <include>./${fullscreen-style}.xml</include>
          <view name="gamelist">
             <image name="gamelist-background">
@@ -221,7 +223,8 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          grid-basic-grid,
          grid-basic-grid-help-off,
          grid-carousel-marquee,
-         grid-carousel-boxart">
+         grid-carousel-boxart,
+         grid-carousel-boxart-immersive">
       <include>./${grid-style}.xml</include>
    </variant>
    <!--
@@ -246,7 +249,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <image name="system-logo-main">
             <pos>0.5 0.075</pos>
             <opacity>1</opacity>
-            <maxSize>0.27 0.13</maxSize>
+            <maxSize>0.27 0.115</maxSize>
             <origin>0.5 0.5</origin>
             <path>${systemlogoArtPath}</path>
             <color>${systemInfoColor}</color>
@@ -255,7 +258,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <image name="system-logo-shadow">
             <pos>0.499 0.08</pos>
             <opacity>0.3</opacity>
-            <maxSize>0.27 0.13</maxSize>
+            <maxSize>0.27 0.115</maxSize>
             <origin>0.5 0.5</origin>
             <path>${systemlogoArtPath}</path>
             <color>000000</color>
@@ -422,7 +425,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Glass/Blur: Variations with bottom bar blur  ///   -->
 
-   <variant name="carousel-detailed-grid,fullscreen-detailed-grid,grid-detailed-grid,carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+   <variant name="carousel-detailed-grid,fullscreen-detailed-grid,grid-detailed-grid,carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart,carousel-carousel-boxart-immersive,fullscreen-carousel-boxart-immersive,grid-carousel-boxart-immersive">
       <view name="gamelist">
             <image name="blur-bottom">            
                <origin>0.5 1</origin>
@@ -440,7 +443,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    </variant>
       <!--   ///   Glass/Blur: Basic Grid and Carousel Boxart Variations with bottom bar blur  ///   -->
 
-   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
       <view name="gamelist">
             <image name="blur-bottom">            
                <cropSize>${sys-carousel-w} ${bg-bottom-blur-h}</cropSize>
@@ -451,7 +454,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
 
    <!--   ///   Glass/Blur: Variations with full-screen  ///   -->
 
-   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+   <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
       <view name="gamelist">
             <image name="blur-top">
                <origin>0.5 0</origin>
@@ -479,6 +482,10 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                <color>FFFFFF</color>
                <opacity>1</opacity>
             </image>            
+      </view>
+   </variant>
+      <variant name="carousel-basic-grid,fullscreen-basic-grid,grid-basic-grid,carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off,carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart,carousel-carousel-boxart-immersive,fullscreen-carousel-boxart-immersive,grid-carousel-boxart-immersive">
+      <view name="gamelist">          
             <video name="game-video">
                <cropSize>1 0.785</cropSize>
                <cropPos>0.5 1</cropPos>
@@ -504,25 +511,25 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
       </view>
    </variant>  
     
-   <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
-      <view name="gamelist">
-            <image name="dg-glass">
-               <origin>0.5 1</origin>
-               <pos>0.5 1</pos>
-               <cropSize>1 0.5</cropSize>
-               <cropPos>0.5 1</cropPos>
-            </image>          
-      <image name="vignette">
-            <origin>0.5 0</origin>
-            <pos>0.5 0</pos>
-	         <size>1 1.2</size>
-            <interpolation>linear</interpolation>
-            <zIndex>6</zIndex>
-            <opacity>0.6</opacity>
-            <path>./_inc/glass/vignette.webp</path>   
-            <brightness>0</brightness>
-            <visible>true</visible>
-      </image>           
+   <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart,carousel-carousel-boxart-immersive,fullscreen-carousel-boxart-immersive,grid-carousel-boxart-immersive">
+      <view name="gamelist">    
+         <image name="blur-top">
+               <origin>0.5 0</origin>
+               <pos>0.5 0</pos>
+               <cropSize>${sys-carousel-w} 1</cropSize>
+               <cropPos>0.5 0</cropPos>
+               <opacity>1</opacity>
+               <brightness>0</brightness>
+               <cornerRadius>0</cornerRadius>
+               <path>${gamelistBlurFullPath}.webp</path>
+               <zIndex>2</zIndex>
+               <brightness>${brightnessfactorbasicgrid}</brightness>
+            </image>
+            <image name="gamelist-background">
+               <opacity>1</opacity>
+               <path>${gamelistBackgroundPath}.webp</path>
+               <brightness>${brightnessfactorbasicgrid}</brightness>
+            </image>
       <image name="background-art-gradient-top">
             <origin>0.5 0</origin>
 	         <size>1 0.2</size>
@@ -533,10 +540,12 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <opacity>0.6</opacity>
 	         <rotation>180</rotation>
             <visible>true</visible>
-         </image>
+         </image> 
       </view>
    </variant>  
-    
+
+
+
    <variant name="carousel-basic-grid-help-off,fullscreen-basic-grid-help-off,grid-basic-grid-help-off">
       <view name="gamelist">
             <image name="dg-glass">
@@ -637,10 +646,49 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
    </variant>
 
 
-   <!--   ///   Gamelist View: Boxart Carousel  ///   -->
+   <!--   ///   Gamelist View: Boxart Carousel Variants ///   -->
 
-   <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart">
+   <variant name="carousel-carousel-boxart,fullscreen-carousel-boxart,grid-carousel-boxart,carousel-carousel-boxart-immersive,fullscreen-carousel-boxart-immersive,grid-carousel-boxart-immersive">
       <include>./gamelist-carousel-boxart.xml</include>
+   </variant>
+
+   <variant name="carousel-carousel-boxart-immersive,fullscreen-carousel-boxart-immersive,grid-carousel-boxart-immersive">
+      <view name="gamelist">     
+         <image name="haze-panel">
+               <origin>0.5 0.5</origin>
+               <pos>0.5 0.5</pos>
+               <cropSize>${sys-carousel-w} 1</cropSize>
+               <cropPos>0.5 0.5</cropPos>
+               <opacity>0.25</opacity>
+               <brightness>0</brightness>
+               <cornerRadius>0</cornerRadius>
+               <path>./_inc/glass/system-panel-dark.webp</path>
+               <brightness>0</brightness>
+               <zIndex>5</zIndex>
+            </image>
+            <image name="game-background">
+               <origin>0.5 0.5</origin>
+               <pos>0.5 0.5</pos>
+               <cropSize>1 1</cropSize>
+               <cropPos>0.5 0.5</cropPos>             
+               <zIndex>3</zIndex>
+               <brightness>-1.25</brightness>
+               <interpolation>linear</interpolation>
+               <imageType>screenshot</imageType>
+               <saturation>0.5</saturation>
+            </image>      
+            <image name="vignette">
+               <origin>0.5 0.5</origin>
+               <cropSize>1 1</cropSize>
+               <pos>0.5 0.5</pos>
+               <interpolation>linear</interpolation>
+               <zIndex>4</zIndex>
+               <opacity>1</opacity>
+               <path>./_inc/glass/vignette.webp</path>   
+               <brightness>-1</brightness>
+               <visible>true</visible>
+      </image>  
+      </view>
    </variant>
 
 

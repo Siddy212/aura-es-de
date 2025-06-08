@@ -22,16 +22,16 @@
    <fontSize>large</fontSize>
    <fontSize>x-large</fontSize>
 
-      
+    
+   <colorScheme name="controller-violet">
+      <label>[Controller] Violet</label>
+   </colorScheme>  
    <colorScheme name="controller-purple">
       <label>[Controller] Purple</label>
    </colorScheme>  
    <colorScheme name="controller-blue">
       <label>[Controller] Blue</label>
    </colorScheme> 
-   <colorScheme name="controller-violet">
-      <label>[Controller] Violet</label>
-   </colorScheme>
    <colorScheme name="controller-green">
       <label>[Controller] Green</label>
    </colorScheme>
@@ -47,15 +47,15 @@
    <colorScheme name="controller-pocket-dark">
       <label>[Controller] Pocket Dark</label>
    </colorScheme>
+   <colorScheme name="logo-violet">
+      <label>[Logo] Violet</label>
+   </colorScheme>
    <colorScheme name="logo-purple">
       <label>[Logo] Purple</label>
    </colorScheme>  
    <colorScheme name="logo-blue">
       <label>[Logo] Blue</label>
    </colorScheme> 
-   <colorScheme name="logo-violet">
-      <label>[Logo] Violet</label>
-   </colorScheme>
    <colorScheme name="logo-green">
       <label>[Logo] Green</label>
    </colorScheme>
@@ -77,15 +77,15 @@
    <colorScheme name="art-dark-glass">
       <label>[Art] Dark Glass</label>
    </colorScheme> 
+   <colorScheme name="art-violet">
+      <label>[Art] Violet</label>
+   </colorScheme>
    <colorScheme name="art-purple">
       <label>[Art] Purple</label>
    </colorScheme>  
    <colorScheme name="art-blue">
       <label>[Art] Blue</label>
    </colorScheme> 
-   <colorScheme name="art-violet">
-      <label>[Art] Violet</label>
-   </colorScheme>
    <colorScheme name="art-green">
       <label>[Art] Green</label>
    </colorScheme>
@@ -146,6 +146,10 @@
       <label>[Carousel] Carousel-Boxart</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="carousel-carousel-boxart-immersive">
+      <label>[Carousel] Carousel-Boxart (Immersive)</label>
+      <selectable>true</selectable>
+   </variant>
 
    <variant name="fullscreen-textlist">
       <label>[Fullscreen] Textlist</label>
@@ -175,6 +179,10 @@
       <label>[Fullscreen] Carousel-Boxart</label>
       <selectable>true</selectable>
    </variant>
+   <variant name="fullscreen-carousel-boxart-immersive">
+      <label>[Fullscreen] Carousel-Boxart (Immersive)</label>
+      <selectable>true</selectable>
+   </variant>
 
    <variant name="grid-textlist">
       <label>[Grid] Textlist</label>
@@ -202,6 +210,10 @@
    </variant>
    <variant name="grid-carousel-boxart">
       <label>[Grid] Carousel-Boxart</label>
+      <selectable>true</selectable>
+   </variant>
+   <variant name="grid-carousel-boxart-immersive">
+      <label>[Grid] Carousel-Boxart (Immersive)</label>
       <selectable>true</selectable>
    </variant>
 

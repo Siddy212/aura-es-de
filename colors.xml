@@ -158,6 +158,7 @@
          <rowBadgeColor>000000</rowBadgeColor>
          <gridNameColor>555555</gridNameColor>
          <shade>light</shade>
+         <shadeCarousel>light</shadeCarousel>
          <brightnessfactor>0.2</brightnessfactor>
          <brightnessfactorlarge>0.6</brightnessfactorlarge>
       </variables>
@@ -180,6 +181,7 @@
          <rowBadgeColor>FFFFFF</rowBadgeColor>
          <gridNameColor>555555</gridNameColor>
          <shade>dark</shade>
+         <shadeCarousel>light</shadeCarousel>
          <brightnessfactor>-0.2</brightnessfactor>
       </variables>
    </colorScheme>  
@@ -200,6 +202,7 @@
          <rowBadgeColor>FFFFFF</rowBadgeColor>
          <gridNameColor>555555</gridNameColor>
          <shade>dark</shade>
+         <shadeCarousel>light</shadeCarousel>
          <brightnessfactor>0.2</brightnessfactor>
          <brightnessfactorlarge>-0.2</brightnessfactorlarge>
       </variables>

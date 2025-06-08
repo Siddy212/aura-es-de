@@ -1,0 +1,979 @@
+<theme>
+           <aspectRatio name="1:1">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.073125</bc-year-w>     
+                                        <bc-bullet-left-x>0.456125</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.543875</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4341875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5658125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.1861796</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.0104</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.5008125</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.4569375</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.5446875</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.435</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.566625</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.09</bc-year-w>     
+                                        <bc-bullet-left-x>0.446</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.554</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.419</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.581</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2198912</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0128</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.447</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.555</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.42</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.582</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.106875</bc-year-w>     
+                                        <bc-bullet-left-x>0.435875</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.564125</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4038125</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5961875</bc-metadata-right-x>
+                                        <bc-metadata-w>0.245518</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0152</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.5011875</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.4370625</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.5653125</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.405</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.597375</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.1125</bc-year-w>     
+                                        <bc-bullet-left-x>0.4325</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.5675</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.39875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.60125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.262856</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.016</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.50125</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.43375</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.56875</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.4</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.6025</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:10">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.045703125</bc-year-w>     
+                                        <bc-bullet-left-x>0.472578125</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.527421875</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4588671875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5411328125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.19676225</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.0065</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.5013</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.473878125</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.528721875</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.4601671875</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.5424328125</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.05625</bc-year-w>     
+                                        <bc-bullet-left-x>0.46625</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.53375</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.449375</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.550625</bc-metadata-right-x>
+                                        <bc-metadata-w>0.235832</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.008</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.5016</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.46785</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.53535</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.450975</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.552225</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.066796875</bc-year-w>     
+                                        <bc-bullet-left-x>0.459921875</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.540078125</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4398828125</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5601171875</bc-metadata-right-x>
+                                        <bc-metadata-w>0.26744875</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0095</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.5019</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.461821875</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.541978125</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.4417828125</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.5620171875</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0703125</bc-year-w>     
+                                        <bc-bullet-left-x>0.4578125</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.5421875</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.43671875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.56328125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.287885</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.01</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.4598125</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.5441875</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.43871875</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.56528125</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="16:9">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0411328125</bc-year-w>     
+                                        <bc-bullet-left-x>0.4753203125</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.5246796875</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.46298046875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.53701953125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.198526025</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.00585</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501444444444444</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.476764756944444</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.526124131944444</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.464424913194444</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.538463975694444</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.050625</bc-year-w>     
+                                        <bc-bullet-left-x>0.469625</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.530375</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4544375</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5455625</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2384888</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0072</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501777777777778</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.471402777777778</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.532152777777778</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.456215277777778</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.547340277777778</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0601171875</bc-year-w>     
+                                        <bc-bullet-left-x>0.4639296875</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.5360703125</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.44589453125</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.55410546875</bc-metadata-right-x>
+                                        <bc-metadata-w>0.271103875</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.00855</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502111111111111</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.466040798611111</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.538181423611111</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.448005642361111</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.556216579861111</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.06328125</bc-year-w>     
+                                        <bc-bullet-left-x>0.46203125</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.53796875</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.443046875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.556953125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2920565</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.009</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502222222222222</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.464253472222222</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.540190972222222</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.445269097222222</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.559175347222222</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="19.5:9">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.03375</bc-year-w>     
+                                        <bc-bullet-left-x>0.47975</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.52025</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.469625</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.530375</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2013752</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.0048</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501760416666667</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.481510416666667</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.522010416666667</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.471385416666667</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.532135416666667</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0415384615384615</bc-year-w>     
+                                        <bc-bullet-left-x>0.475076923076923</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.524923076923077</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.462615384615385</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.537384615384615</bc-metadata-right-x>
+                                        <bc-metadata-w>0.242780553846154</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.00590769230769231</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502166666666667</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.47724358974359</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.527089743589744</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.464782051282051</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.539551282051282</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0493269230769231</bc-year-w>     
+                                        <bc-bullet-left-x>0.470403846153846</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.529596153846154</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.455605769230769</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.544394230769231</bc-metadata-right-x>
+                                        <bc-metadata-w>0.277008307692308</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.00701538461538462</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502572916666667</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.472976762820513</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.532169070512821</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.458178685897436</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.546967147435897</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0519230769230769</bc-year-w>     
+                                        <bc-bullet-left-x>0.468846153846154</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.531153846153846</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.453269230769231</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.546730769230769</bc-metadata-right-x>
+                                        <bc-metadata-w>0.298795076923077</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.00738461538461538</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502708333333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.471554487179487</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.53386217948718</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.455977564102564</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.549439102564103</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="21:9">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0313392857142857</bc-year-w>     
+                                        <bc-bullet-left-x>0.481196428571429</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.518803571428571</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.471794642857143</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.528205357142857</bc-metadata-right-x>
+                                        <bc-metadata-w>0.202305542857143</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.00445714285714286</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501895833333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.483092261904762</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.520699404761905</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.473690476190476</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.530101190476191</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0385714285714286</bc-year-w>     
+                                        <bc-bullet-left-x>0.476857142857143</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.523142857142857</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.465285714285714</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.534714285714286</bc-metadata-right-x>
+                                        <bc-metadata-w>0.244181942857143</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.00548571428571428</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502333333333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.479190476190476</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.52547619047619</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.467619047619048</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.537047619047619</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0458035714285714</bc-year-w>     
+                                        <bc-bullet-left-x>0.472517857142857</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.527482142857143</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.458776785714286</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.541223214285714</bc-metadata-right-x>
+                                        <bc-metadata-w>0.278936285714286</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.00651428571428571</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502770833333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.47528869047619</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.530252976190476</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.461547619047619</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.543994047619048</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0482142857142857</bc-year-w>     
+                                        <bc-bullet-left-x>0.471071428571429</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.528928571428571</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.456607142857143</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.543392857142857</bc-metadata-right-x>
+                                        <bc-metadata-w>0.300995428571429</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.00685714285714286</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.502916666666667</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.473988095238095</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.531845238095238</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.45952380952381</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.546309523809524</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="3:2">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.04875</bc-year-w>     
+                                        <bc-bullet-left-x>0.47075</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.52925</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.456125</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.543875</bc-metadata-right-x>
+                                        <bc-metadata-w>0.1955864</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.00693333333333333</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.50121875</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.47196875</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.53046875</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.45734375</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.54509375</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.06</bc-year-w>     
+                                        <bc-bullet-left-x>0.464</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.536</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.446</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.554</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2340608</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.00853333333333333</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.5015</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.4655</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.5375</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.4475</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.5555</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.07125</bc-year-w>     
+                                        <bc-bullet-left-x>0.45725</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.54275</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.435875</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.564125</bc-metadata-right-x>
+                                        <bc-metadata-w>0.265012</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0101333333333333</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.50178125</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.45903125</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.54453125</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.43765625</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.56590625</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.075</bc-year-w>     
+                                        <bc-bullet-left-x>0.455</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.545</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4325</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5675</bc-metadata-right-x>
+                                        <bc-metadata-w>0.285104</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.0106666666666667</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501875</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.456875</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.546875</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.434375</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.569375</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="8:7">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0636895161290323</bc-year-w>     
+                                        <bc-bullet-left-x>0.461786290322581</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.538213709677419</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.442679435483871</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.557320564516129</bc-metadata-right-x>
+                                        <bc-metadata-w>0.189820941935484</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.00905806451612903</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.50093287037037</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.462719160692951</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.53914658004779</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.443612305854241</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.558253434886499</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0783870967741935</bc-year-w>     
+                                        <bc-bullet-left-x>0.452967741935484</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.547032258064516</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.429451612903226</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.570548387096774</bc-metadata-right-x>
+                                        <bc-metadata-w>0.225376206451613</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0111483870967742</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501148148148148</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.454115890083632</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.548180406212664</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.430599761051374</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.571696535244922</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0930846774193548</bc-year-w>     
+                                        <bc-bullet-left-x>0.444149193548387</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.555850806451613</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.416223790322581</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.583776209677419</bc-metadata-right-x>
+                                        <bc-metadata-w>0.253064064516129</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0132387096774194</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501363425925926</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.445512619474313</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.557214232377539</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.417587216248507</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.585139635603345</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0979838709677419</bc-year-w>     
+                                        <bc-bullet-left-x>0.441209677419355</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.558790322580645</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.411814516129032</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.588185483870968</bc-metadata-right-x>
+                                        <bc-metadata-w>0.271468129032258</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.0139354838709677</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501435185185185</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.44264486260454</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.56022550776583</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.413249701314217</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.589620669056153</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+           <aspectRatio name="4:3">          
+                            <variables>
+                               <!--   Aspect Ratio Variable   -->            
+               
+                            </variables>          
+                   <fontSize name="small">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.840625</bc-top-y>                           
+                                        <bc-top-w>0.47168</bc-top-w>                
+                                        <bc-middle-y>0.88084375</bc-middle-y>          
+                                        <bc-bottom-y>0.7975625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.05484375</bc-year-w>     
+                                        <bc-bullet-left-x>0.46709375</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.53290625</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.450640625</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.549359375</bc-metadata-right-x>
+                                        <bc-metadata-w>0.1932347</bc-metadata-w>
+                                        <bc-badge-x>0.2594432</bc-badge-x>
+                                        <glass-scale>0.67</glass-scale>
+                                        <glass-y>0.741</glass-y>
+                                        <bc-corner-radius>0.0078</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.84225</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501083333333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.88246875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7991875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.468177083333333</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.533989583333333</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.451723958333333</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.550442708333333</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="medium">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.84</bc-top-y>                           
+                                        <bc-top-w>0.57728</bc-top-w>                
+                                        <bc-middle-y>0.8895</bc-middle-y>          
+                                        <bc-bottom-y>0.787</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.0675</bc-year-w>     
+                                        <bc-bullet-left-x>0.4595</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.5405</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.43925</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.56075</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2305184</bc-metadata-w>
+                                        <bc-badge-x>0.2055872</bc-badge-x>
+                                        <glass-scale>0.82</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0096</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.842</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501333333333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.8915</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.789</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.460833333333333</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.541833333333333</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.440583333333333</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.562083333333333</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.859375</bc-top-y>                           
+                                        <bc-top-w>0.6688</bc-top-w>                
+                                        <bc-middle-y>0.91815625</bc-middle-y>          
+                                        <bc-bottom-y>0.7964375</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.08015625</bc-year-w>     
+                                        <bc-bullet-left-x>0.45190625</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.54809375</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.427859375</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.572140625</bc-metadata-right-x>
+                                        <bc-metadata-w>0.2601385</bc-metadata-w>
+                                        <bc-badge-x>0.158912</bc-badge-x>
+                                        <glass-scale>0.95</glass-scale>
+                                        <glass-y>0.718</glass-y>
+                                        <bc-corner-radius>0.0114</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.86175</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501583333333333</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.92053125</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.7988125</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.453489583333333</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.549677083333333</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.429442708333333</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.573723958333333</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+                   <fontSize name="x-large">
+                            <variables>
+                                  <!--   Boxart Carousel Metadata Variables   -->                 
+                                        <bc-top-y>0.8425</bc-top-y>                           
+                                        <bc-top-w>0.72512</bc-top-w>                
+                                        <bc-middle-y>0.904375</bc-middle-y>          
+                                        <bc-bottom-y>0.77625</bc-bottom-y>  
+                                        <bc-marquee-h>0.08</bc-marquee-h>          
+                                        <bc-year-w>0.084375</bc-year-w>     
+                                        <bc-bullet-left-x>0.449375</bc-bullet-left-x>
+                                        <bc-bullet-right-x>0.550625</bc-bullet-right-x>
+                                        <bc-metadata-left-x>0.4240625</bc-metadata-left-x>
+                                        <bc-metadata-right-x>0.5759375</bc-metadata-right-x>
+                                        <bc-metadata-w>0.279542</bc-metadata-w>
+                                        <bc-badge-x>0.1301888</bc-badge-x>
+                                        <glass-scale>1.03</glass-scale>
+                                        <glass-y>0.688</glass-y>
+                                        <bc-corner-radius>0.012</bc-corner-radius>
+                                 <!--   Boxart Carousel Shadow Variables   -->                 
+                                        <bc-top-shadow-y>0.845</bc-top-shadow-y>             
+                                        <bc-top-shadow-x>0.501666666666667</bc-top-shadow-x>                  
+                                        <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
+                                        <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
+                                        <bc-bullet-left-shadow-x>0.451041666666667</bc-bullet-left-shadow-x>
+                                        <bc-bullet-right-shadow-x>0.552291666666667</bc-bullet-right-shadow-x>
+                                        <bc-metadata-left-shadow-x>0.425729166666667</bc-metadata-left-shadow-x>
+                                        <bc-metadata-right-shadow-x>0.577604166666667</bc-metadata-right-shadow-x>
+                            </variables>
+                    </fontSize>
+             </aspectRatio>    
+</theme>
+
