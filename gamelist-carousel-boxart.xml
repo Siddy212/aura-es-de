@@ -84,12 +84,12 @@
          <datetime name="game-releasedate">
             <pos>0.5 ${bc-middle-y}</pos>
             <color>${systemInfoColor}</color>
-            <zIndex>9</zIndex>
+            <zIndex>10</zIndex>
          </datetime>
           <datetime name="game-releasedate-shadow">
             <pos>${bc-top-shadow-x} ${bc-middle-shadow-y}</pos>
             <color>00000040</color>
-            <zIndex>8</zIndex>
+            <zIndex>9</zIndex>
          </datetime>
 
          <video name="game-video">
@@ -173,12 +173,12 @@
          <datetime name="game-lastplayed">
             <pos>${bc-metadata-right-x} ${bc-middle-y}</pos>
             <color>${systemInfoColor}</color>
-            <zIndex>9</zIndex>
+            <zIndex>10</zIndex>
          </datetime>
          <datetime name="game-lastplayed-shadow">
             <pos>${bc-metadata-right-shadow-x}  ${bc-middle-shadow-y}</pos>
             <color>00000040</color>
-            <zIndex>8</zIndex>
+            <zIndex>9</zIndex>
          </datetime>
 
          <text name="game-name,game-name-shadow">
