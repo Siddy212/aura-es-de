@@ -149,6 +149,9 @@
             <size>${bc-metadata-w} ${metadata-font-size}</size>
             <horizontalAlignment>right</horizontalAlignment>
             <metadata>developer</metadata>
+            <container>true</container>
+            <containerType>horizontal</containerType>
+            <horizontalAlignment>right</horizontalAlignment>
          </text>         
          <text name="game-developer">
             <pos>${bc-metadata-left-x} ${bc-middle-y}</pos>
