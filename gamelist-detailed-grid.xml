@@ -99,7 +99,7 @@
 
          
       <!--  All Text Defaults   -->
-         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-name-extended,game-name-base,game-genre-base">
+         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-name-extended,game-name-base,game-genre-base,game-playtime-extended">
             <origin>0 0.5</origin>
             <fontPath>${fontBold}</fontPath>
             <color>${gameMetadataColor}</color>
@@ -107,7 +107,7 @@
             <defaultValue>Unknown</defaultValue>
             <fontSize>${metadata-font-size}</fontSize>
          </text>
-         <datetime name="game-releasedate-extended,game-releasedate-base,game-lastplayed-extended">
+         <datetime name="game-releasedate-extended,game-releasedate-base">
             <origin>0 0.5</origin>
             <fontPath>${fontBold}</fontPath>
             <color>${gameMetadataColor}</color>
@@ -130,12 +130,12 @@
          </text>
 
          <!-- Start: Extended Metadata -->
-         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-playcount-extended">
+         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-playtime-extended">
             <visible>${metadataExtended}</visible>
          </text>
-         <datetime name="game-releasedate-extended,game-lastplayed-extended">
+         <text name="game-releasedate-extended,game-playtime-extended">
             <visible>${metadataExtended}</visible>
-         </datetime>
+         </text>
          <datetime name="game-releasedate-extended">
             <size>0 ${metadata-font-size}</size>
             <format>${date-format}</format>
@@ -159,13 +159,11 @@
             <size>${ext-genre-w} ${metadata-font-size}</size>
             <metadata>publisher</metadata>
          </text>
-         <datetime name="game-lastplayed-extended">
+         <text name="game-playtime-extended">
             <size>0 ${metadata-font-size}</size>
-            <metadata>lastplayed</metadata>
+            <metadata>playtime</metadata>
             <defaultValue>Never</defaultValue>
-            <displayRelative>false</displayRelative>
-            <format>${date-format}</format>
-         </datetime>
+         </text>
          <!-- End: Extended Metadata -->
 
          <!-- Start: Base Metadata -->
@@ -253,9 +251,9 @@
          <text name="game-publisher-extended">
             <pos>${dg-genre-x} 0.77</pos>
          </text>
-         <datetime name="game-lastplayed-extended">
+         <text name="game-playtime-extended">
             <pos>${dg-release-date-x} 0.77</pos>
-         </datetime>
+         </text>
          <!-- End: Extended Metadata -->
          <!-- Start: Base Metadata -->
          <text name="game-name-base">
