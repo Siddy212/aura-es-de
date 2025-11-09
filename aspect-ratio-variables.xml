@@ -24,6 +24,7 @@
                                         <rating-x>0.945</rating-x> 
                                         <badge-x>0.558</badge-x>         
                                         <ext-genre-w>0.15</ext-genre-w> 
+                                        <ext-playtime-w>0.0888</ext-playtime-w> 
                                         <ext-name-w>0.32</ext-name-w> 
                                         <base-name-x>0.62</base-name-x>         
                                         <base-name-w>0.32</base-name-w>       
@@ -194,6 +195,7 @@
                                         <rating-x>0.945</rating-x> 
                                         <badge-x>0.55</badge-x>         
                                         <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-playtime-w>0.08288</ext-playtime-w> 
                                         <ext-name-w>0.354</ext-name-w> 
                                         <base-name-x>0.59</base-name-x>         
                                         <base-name-w>0.35</base-name-w>       
@@ -364,6 +366,7 @@
                                         <rating-x>0.93</rating-x> 
                                         <badge-x>0.55</badge-x>         
                                         <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-playtime-w>0.074592</ext-playtime-w> 
                                         <ext-name-w>0.338</ext-name-w> 
                                         <base-name-x>0.587</base-name-x>         
                                         <base-name-w>0.34</base-name-w>       
@@ -534,6 +537,7 @@
                                         <rating-x>1.0240625</rating-x> 
                                         <badge-x>0.55</badge-x>         
                                         <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-playtime-w>0.0612036923076923</ext-playtime-w> 
                                         <ext-name-w>0.338</ext-name-w> 
                                         <base-name-x>0.60603125</base-name-x>         
                                         <base-name-w>0.34</base-name-w>       
@@ -704,6 +708,7 @@
                                         <rating-x>1.064375</rating-x> 
                                         <badge-x>0.55</badge-x>         
                                         <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-playtime-w>0.056832</ext-playtime-w> 
                                         <ext-name-w>0.338</ext-name-w> 
                                         <base-name-x>0.6155</base-name-x>         
                                         <base-name-w>0.34</base-name-w>       
@@ -874,6 +879,7 @@
                                         <rating-x>0.8628125</rating-x> 
                                         <badge-x>0.55</badge-x>         
                                         <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-playtime-w>0.0884053333333333</ext-playtime-w> 
                                         <ext-name-w>0.338</ext-name-w> 
                                         <base-name-x>0.57425</base-name-x>         
                                         <base-name-w>0.34</base-name-w>       
@@ -1044,6 +1050,7 @@
                                         <rating-x>0.942708333333333</rating-x> 
                                         <badge-x>0.528</badge-x>         
                                         <ext-genre-w>0.236</ext-genre-w> 
+                                        <ext-playtime-w>0.12168464516129</ext-playtime-w> 
                                         <ext-name-w>0.37</ext-name-w> 
                                         <base-name-x>0.572</base-name-x>         
                                         <base-name-w>0.37</base-name-w>       
@@ -1214,6 +1221,7 @@
                                         <rating-x>0.95</rating-x> 
                                         <badge-x>0.54</badge-x>         
                                         <ext-genre-w>0.224</ext-genre-w> 
+                                        <ext-playtime-w>0.099456</ext-playtime-w> 
                                         <ext-name-w>0.338</ext-name-w> 
                                         <base-name-x>0.59</base-name-x>         
                                         <base-name-w>0.355</base-name-w>       

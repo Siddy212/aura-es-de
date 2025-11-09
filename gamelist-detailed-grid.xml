@@ -160,7 +160,7 @@
             <metadata>publisher</metadata>
          </text>
          <text name="game-playtime-extended">
-            <size>0 ${metadata-font-size}</size>
+            <size>${ext-playtime-w} ${metadata-font-size}</size>
             <metadata>playtime</metadata>
             <defaultValue>Never</defaultValue>
          </text>
