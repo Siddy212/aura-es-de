@@ -53,7 +53,7 @@
                    <fontSize name="small">
                             <variables>
                                <!--   Full Grid Variables   -->          
-                                        <item-w-system>0.186274509803922</item-w-system>         
+                                        <item-w-system>0.186</item-w-system>         
                                         <item-h-system>0.0931</item-h-system>
                                         <item-scale-var>1.1</item-scale-var>          
                                         <grid-y-system>0.48</grid-y-system>         
