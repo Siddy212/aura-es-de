@@ -151,7 +151,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -327,7 +327,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -503,7 +503,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -679,7 +679,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -855,7 +855,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -1031,7 +1031,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -1207,7 +1207,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
@@ -1383,7 +1383,7 @@
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
                                         <metadata-font-size>0.0375</metadata-font-size>    
-                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
+                                        <boxart-carousel-font-size>0.058</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
                                         <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
