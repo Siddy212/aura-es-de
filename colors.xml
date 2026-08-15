@@ -181,7 +181,7 @@
          <rowBadgeColor>FFFFFF</rowBadgeColor>
          <gridNameColor>555555</gridNameColor>
          <shade>dark</shade>
-         <shadeCarousel>light</shadeCarousel>
+         <shadeCarousel>dark</shadeCarousel>
          <brightnessfactor>-0.2</brightnessfactor>
       </variables>
    </colorScheme>  

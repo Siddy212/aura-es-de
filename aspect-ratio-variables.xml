@@ -61,6 +61,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -90,6 +91,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -119,6 +121,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -147,8 +150,10 @@
                                         <help-font-size>0.024</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -232,6 +237,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -261,6 +267,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -290,6 +297,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -318,8 +326,10 @@
                                         <help-font-size>0.0325</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -403,6 +413,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -432,6 +443,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -461,6 +473,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -489,8 +502,10 @@
                                         <help-font-size>0.0375</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -574,6 +589,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -603,6 +619,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -632,6 +649,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -660,8 +678,10 @@
                                         <help-font-size>0.0375</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -745,6 +765,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -774,6 +795,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -803,6 +825,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -831,8 +854,10 @@
                                         <help-font-size>0.0375</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -916,6 +941,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -945,6 +971,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -974,6 +1001,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -1002,8 +1030,10 @@
                                         <help-font-size>0.0325</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -1087,6 +1117,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -1116,6 +1147,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -1145,6 +1177,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -1173,8 +1206,10 @@
                                         <help-font-size>0.024</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>
@@ -1258,6 +1293,7 @@
                                         <sys-font-size>0.03575</sys-font-size>         
                                         <badge-font-size>0.030875</badge-font-size>    
                                         <metadata-font-size>0.024375</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0325</boxart-carousel-font-size>
                                         <gamelist-font-size>0.02803125</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89110535714</sys-details-y>
@@ -1287,6 +1323,7 @@
                                         <sys-font-size>0.044</sys-font-size>         
                                         <badge-font-size>0.038</badge-font-size>    
                                         <metadata-font-size>0.03</metadata-font-size>
+                                        <boxart-carousel-font-size>0.04</boxart-carousel-font-size>
                                         <gamelist-font-size>0.0345</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.89894285714</sys-details-y>
@@ -1316,6 +1353,7 @@
                                         <sys-font-size>0.05225</sys-font-size>         
                                         <badge-font-size>0.045125</badge-font-size>    
                                         <metadata-font-size>0.035625</metadata-font-size>
+                                        <boxart-carousel-font-size>0.0475</boxart-carousel-font-size>
                                         <gamelist-font-size>0.04096875</gamelist-font-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90678035714</sys-details-y>
@@ -1344,8 +1382,10 @@
                                         <help-font-size>0.0325</help-font-size>         
                                         <sys-font-size>0.055</sys-font-size>         
                                         <badge-font-size>0.0475</badge-font-size>    
-                                        <metadata-font-size>0.0375</metadata-font-size>
+                                        <metadata-font-size>0.0375</metadata-font-size>    
+                                        <boxart-carousel-font-size>0.075</boxart-carousel-font-size>
                                         <gamelist-font-size>0.043125</gamelist-font-size>
+                                        <glass-size>-xl</glass-size>
                                <!--   System View Variables   -->          
                                         <sys-details-y>0.90939285714</sys-details-y>
                                         <sys-details-shadow-y>0.9139398214257</sys-details-shadow-y>

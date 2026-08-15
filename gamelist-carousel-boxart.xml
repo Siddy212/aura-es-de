@@ -10,7 +10,7 @@
             <origin>0.5 0</origin>
 	         <size>0 ${glass-scale}</size>
 	         <pos>0.5 ${glass-y}</pos>
-            <path>./_inc/glass/${aspect-ratio}-carousel-${shadeCarousel}.webp</path>
+            <path>./_inc/glass/${aspect-ratio}-carousel-${shadeCarousel}${glass-size}.webp</path>
             <zIndex>8</zIndex>
             <opacity>0.9</opacity>
             <visible>true</visible>
@@ -80,6 +80,7 @@
             <metadata>releasedate</metadata>
             <format>%Y</format>
             <fontSize>${metadata-font-size}</fontSize>
+            <visible>${visibility-xl}</visible>
          </datetime>
          <datetime name="game-releasedate">
             <pos>0.5 ${bc-middle-y}</pos>
@@ -112,6 +113,7 @@
             <lineSpacing>1</lineSpacing>
             <horizontalAlignment>center</horizontalAlignment>
             <zIndex>9</zIndex>
+            <visible>${visibility-xl}</visible>
          </text>         
          <text name="bullet1">
             <pos>${bc-bullet-left-x} ${bc-middle-y}</pos>
@@ -135,7 +137,7 @@
             <origin>1 0.5</origin>
             <pos>${bc-badge-x} ${bc-badge-y}</pos>
             <horizontalAlignment>right</horizontalAlignment>
-            <size>1 ${metadata-font-size}</size>  
+            <size>1 ${base-font-size}</size>  
                <zIndex>9</zIndex>
                <badgeIconColor>ffffff</badgeIconColor>
          </badges>
@@ -152,6 +154,7 @@
             <container>true</container>
             <containerType>horizontal</containerType>
             <horizontalAlignment>right</horizontalAlignment>
+            <visible>${visibility-xl}</visible>
          </text>         
          <text name="game-developer">
             <pos>${bc-metadata-left-x} ${bc-middle-y}</pos>
@@ -171,6 +174,7 @@
             <fontSize>${metadata-font-size}</fontSize>
             <metadata>playtime</metadata>
             <defaultValue>Unplayed</defaultValue>
+            <visible>${visibility-xl}</visible>
          </text>         
          <text name="game-playtime">
             <pos>${bc-metadata-right-x} ${bc-middle-y}</pos>
@@ -184,13 +188,12 @@
          </text>
 
          <text name="game-name,game-name-shadow">
-            <size>${bc-top-w} ${base-font-size}</size>
-            <fontSize>${base-font-size}</fontSize>     
+            <size>${bc-top-w} ${boxart-carousel-font-size}</size>
+            <fontSize>${boxart-carousel-font-size}</fontSize>     
             <origin>0.5 0.5</origin>
             <fontPath>${fontBold}</fontPath>
             <lineSpacing>1.5</lineSpacing>
             <defaultValue>Unknown</defaultValue>
-            <fontSize>${base-font-size}</fontSize>
             <metadata>name</metadata>
             <container>true</container>
             <containerType>horizontal</containerType>
