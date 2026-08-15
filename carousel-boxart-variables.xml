@@ -97,10 +97,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.1125</bc-year-w>     
                                         <bc-bullet-left-x>0.4325</bc-bullet-left-x>
@@ -110,11 +110,11 @@
                                         <bc-metadata-w>0.262856</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.016</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.50125</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -223,10 +223,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0703125</bc-year-w>     
                                         <bc-bullet-left-x>0.4578125</bc-bullet-left-x>
@@ -236,11 +236,11 @@
                                         <bc-metadata-w>0.287885</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.01</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.502</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -350,10 +350,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.06328125</bc-year-w>     
                                         <bc-bullet-left-x>0.46203125</bc-bullet-left-x>
@@ -363,11 +363,11 @@
                                         <bc-metadata-w>0.2920565</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.009</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.502222222222222</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -476,10 +476,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0519230769230769</bc-year-w>     
                                         <bc-bullet-left-x>0.468846153846154</bc-bullet-left-x>
@@ -489,11 +489,11 @@
                                         <bc-metadata-w>0.298795076923077</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.00738461538461538</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.502708333333333</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -602,10 +602,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0482142857142857</bc-year-w>     
                                         <bc-bullet-left-x>0.471071428571429</bc-bullet-left-x>
@@ -615,11 +615,11 @@
                                         <bc-metadata-w>0.300995428571429</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.00685714285714286</bc-corner-radius>
                                         <visibility-xl>true</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.502916666666667</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -728,10 +728,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.075</bc-year-w>     
                                         <bc-bullet-left-x>0.455</bc-bullet-left-x>
@@ -741,11 +741,11 @@
                                         <bc-metadata-w>0.285104</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.0106666666666667</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.501875</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -854,10 +854,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.0979838709677419</bc-year-w>     
                                         <bc-bullet-left-x>0.441209677419355</bc-bullet-left-x>
@@ -867,11 +867,11 @@
                                         <bc-metadata-w>0.271468129032258</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.0139354838709677</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.501435185185185</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
@@ -980,10 +980,10 @@
                    <fontSize name="x-large">
                             <variables>
                                   <!--   Boxart Carousel Metadata Variables   -->                 
-                                        <bc-top-y>0.87</bc-top-y>                           
-                                        <bc-top-w>0.68</bc-top-w>                
+                                        <bc-top-y>0.88</bc-top-y>                           
+                                        <bc-top-w>0.678</bc-top-w>                
                                         <bc-middle-y>0.904375</bc-middle-y>          
-                                        <bc-badge-y>0.775</bc-badge-y>  
+                                        <bc-badge-y>0.782</bc-badge-y>  
                                         <bc-marquee-h>0.08</bc-marquee-h>          
                                         <bc-year-w>0.084375</bc-year-w>     
                                         <bc-bullet-left-x>0.449375</bc-bullet-left-x>
@@ -993,11 +993,11 @@
                                         <bc-metadata-w>0.279542</bc-metadata-w>
                                         <bc-badge-x>0.845</bc-badge-x>     
                                         <glass-scale>0.945</glass-scale>
-                                        <glass-y>0.7</glass-y>
+                                        <glass-y>0.71</glass-y>
                                         <bc-corner-radius>0.012</bc-corner-radius>
                                         <visibility-xl>false</visibility-xl>
                                  <!--   Boxart Carousel Shadow Variables   -->                 
-                                        <bc-top-shadow-y>0.875</bc-top-shadow-y>            
+                                        <bc-top-shadow-y>0.885</bc-top-shadow-y>            
                                         <bc-top-shadow-x>0.501666666666667</bc-top-shadow-x>                  
                                         <bc-middle-shadow-y>0.906875</bc-middle-shadow-y>          
                                         <bc-bottom-shadow-y>0.77875</bc-bottom-shadow-y>     
